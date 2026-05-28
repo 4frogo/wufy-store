@@ -323,7 +323,7 @@
     <div class="container">
       <div class="products-grid">
 
-        <div class="product-card">
+        <div class="product-card" data-search="Projetor HY320 Davely Smart TV Android">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#10b981,#059669);">30% OFF</span>
             <picture>
@@ -345,7 +345,7 @@
           </div>
         </div>
 
-        <div class="product-card">
+        <div class="product-card" data-search="Whey Protein Concentrado 1kg Chocolate Dark Lab">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">62% OFF</span>
             <img src="https://product-data.raiadrogasil.io/images/11258616.webp" alt="Whey Protein Dark Lab" loading="lazy" />
@@ -364,7 +364,7 @@
           </div>
         </div>
 
-        <div class="product-card">
+        <div class="product-card" data-search="Lavadora Lava Jato Portátil Pressão 2 Baterias MyMotors">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#ef4444,#dc2626);">57% OFF</span>
             <picture>
@@ -386,7 +386,7 @@
           </div>
         </div>
 
-        <div class="product-card">
+        <div class="product-card" data-search="Whey Pro Max Titanium Concentrado 1kg">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">52% OFF</span>
             <img src="https://product-data.raiadrogasil.io/images/3515029.webp" alt="Whey Pro Max Titanium" loading="lazy" />
@@ -405,7 +405,7 @@
           </div>
         </div>
 
-        <div class="product-card">
+        <div class="product-card" data-search="Bota Bull Terrier Bruce Masculina Couro">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#3b82f6,#2563eb);">39% OFF</span>
             <img src="https://api.lojadodesconto.com.br/wp-content/uploads/2026/05/bota-bull-terrier-bruce-masculina-original-couro-r-8395.jpg" alt="Bota Bull Terrier Bruce" loading="lazy" />
@@ -424,7 +424,7 @@
           </div>
         </div>
 
-        <div class="product-card">
+        <div class="product-card" data-search="Smart TV AOC 50 4K DLED 50U7045">
           <div class="product-image">
             <span class="badge" style="background:linear-gradient(135deg,#8b5cf6,#6d28d9);">40% OFF</span>
             <picture>
@@ -540,8 +540,55 @@
       });
     }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
 
+    // Price updater via Mercado Livre API
+    async function updatePrices() {
+      const cards = document.querySelectorAll('.product-card[data-search]');
+      for (const card of cards) {
+        const query = card.dataset.search;
+        try {
+          const res = await fetch(`https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`);
+          if (!res.ok) continue;
+          const data = await res.json();
+          const item = data.results?.[0];
+          if (!item) continue;
+
+          const price = item.price;
+          const origPrice = item.original_price || price;
+          const discount = Math.round((1 - price / origPrice) * 100);
+          const installments = item.installments;
+
+          const badge = card.querySelector('.badge');
+          const oldEl = card.querySelector('.old');
+          const currentEl = card.querySelector('.current');
+          const installmentsEl = card.querySelector('.installments');
+
+          if (badge && discount > 0) {
+            badge.textContent = `${discount}% OFF`;
+          }
+
+          if (oldEl && origPrice !== price) {
+            oldEl.textContent = `De R$ ${origPrice.toFixed(2).replace('.', ',')}`;
+          }
+
+          if (currentEl) {
+            const pixPrice = (price * 0.9).toFixed(2).replace('.', ',');
+            currentEl.innerHTML = `R$ ${pixPrice} <small>no Pix</small>`;
+          }
+
+          if (installmentsEl && installments) {
+            const qty = installments.quantity;
+            const amount = installments.amount.toFixed(2).replace('.', ',');
+            installmentsEl.textContent = `ou ${qty}x de R$ ${amount} sem juros`;
+          }
+        } catch (e) {
+          console.warn('Failed to update price for:', query, e);
+        }
+      }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.product-card, .feature-card').forEach(el => observer.observe(el));
+      updatePrices();
     });
   </script>
 </body>
