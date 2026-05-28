@@ -1,0 +1,47 @@
+{
+  "updated": "2026-05-28T00:00:00-03:00",
+  "coupons": [
+    {
+      "code": "CORREPRAPROMO",
+      "discount": "at\u00e9 R$300 OFF",
+      "badge": "Verificado",
+      "description": "Aplic\u00e1vel para itens da sele\u00e7\u00e3o. Limite de R$300 de desconto.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    },
+    {
+      "code": "MODAMELI",
+      "discount": "15% OFF",
+      "badge": "Moda",
+      "description": "15% OFF em compras a partir de R$49. Limitado a R$60 de desconto. V\u00e1lido para moda.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    },
+    {
+      "code": "CUPONSMELI",
+      "discount": "12% OFF",
+      "badge": "Geral",
+      "description": "12% OFF em compras a partir de R$49. Limitado a R$60 de desconto. V\u00e1lido em diversas categorias.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    },
+    {
+      "code": "CUPOMPRACASA",
+      "discount": "15% OFF",
+      "badge": "Casa",
+      "description": "15% OFF em Casa e Decora\u00e7\u00e3o. Compras a partir de R$79, limitado a R$60 de desconto.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    },
+    {
+      "code": "OFERTASHOJE",
+      "discount": "8% OFF",
+      "badge": "Geral",
+      "description": "8% OFF em compras acima de R$79 em diversos itens. Desconto m\u00e1ximo limitado a R$150.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    },
+    {
+      "code": "PROMOML",
+      "discount": "20% OFF",
+      "badge": "Acess\u00f3rios",
+      "description": "20% OFF em rel\u00f3gios, bolsas e mochilas da sele\u00e7\u00e3o. Compras acima de R$99, limite R$80.",
+      "validity": "V\u00e1lido at\u00e9 nova promo\u00e7\u00e3o"
+    }
+  ]
+}

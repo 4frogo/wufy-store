@@ -223,6 +223,64 @@
     .btn-primary.outline::after { display: none; }
     .btn-primary.outline:hover { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.2); color: #fff; box-shadow: none; }
 
+    /* ===== COUPONS ===== */
+    .coupons-section { position: relative; }
+    .coupons-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .coupon-card {
+      background: linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 16px; padding: 20px 20px 24px;
+      transition: transform 0.4s, border-color 0.4s, box-shadow 0.4s;
+      opacity: 0; transform: translateY(24px);
+      display: flex; flex-direction: column;
+    }
+    .coupon-card.visible { opacity: 1; transform: translateY(0);
+      transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.4s;
+    }
+    .coupon-card:hover { border-color: rgba(124,91,240,0.3); transform: translateY(-4px); box-shadow: 0 12px 40px rgba(124,91,240,0.08); }
+    .coupon-card:nth-child(2).visible { transition-delay: 0.08s; }
+    .coupon-card:nth-child(3).visible { transition-delay: 0.16s; }
+    .coupon-card:nth-child(4).visible { transition-delay: 0.24s; }
+    .coupon-card:nth-child(5).visible { transition-delay: 0.32s; }
+    .coupon-card:nth-child(6).visible { transition-delay: 0.40s; }
+
+    .coupon-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+    .coupon-discount {
+      font-size: 1.6rem; font-weight: 900; color: #fff;
+      background: linear-gradient(135deg, #7c5bf0, #b15bf0);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+      line-height: 1;
+    }
+    .coupon-badge {
+      font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.2px;
+      padding: 3px 10px; border-radius: 100px;
+      background: rgba(16,185,129,0.2); color: #10b981; border: 1px solid rgba(16,185,129,0.2);
+    }
+    .coupon-code-wrap {
+      display: flex; align-items: center; gap: 8px;
+      background: rgba(255,255,255,0.04); border: 1px dashed rgba(124,91,240,0.3);
+      border-radius: 10px; padding: 8px 14px; margin: 10px 0 8px;
+      cursor: pointer; transition: border-color 0.3s, background 0.3s;
+    }
+    .coupon-code-wrap:hover { border-color: #7c5bf0; background: rgba(124,91,240,0.08); }
+    .coupon-code {
+      font-family: 'Courier New', monospace; font-size: 1rem; font-weight: 700;
+      color: #b8a5ff; letter-spacing: 2px; user-select: all;
+    }
+    .coupon-copy {
+      margin-left: auto; font-size: 0.7rem; color: #7c5bf0; font-weight: 600;
+      background: rgba(124,91,240,0.15); padding: 3px 10px; border-radius: 6px;
+      transition: background 0.3s;
+    }
+    .coupon-code-wrap:hover .coupon-copy { background: rgba(124,91,240,0.3); }
+    .coupon-desc { font-size: 0.82rem; color: #888; line-height: 1.5; flex: 1; }
+    .coupon-validity { font-size: 0.7rem; color: #555; margin-top: 8px; display: flex; align-items: center; gap: 4px; }
+    .coupon-validity::before { content: '⏱'; }
+
     /* ===== FEATURES ===== */
     .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
     .feature-card {
@@ -450,6 +508,97 @@
     </div>
   </section>
 
+  <section class="coupons-section">
+    <div class="container">
+      <div style="text-align:center;">
+        <span class="section-label">Cupons Ativos</span>
+        <h2 class="section-title">Economize ainda mais</h2>
+        <p class="section-sub" style="margin:0 auto 48px;">Cupons válidos do Mercado Livre. Clique no código para copiar.</p>
+      </div>
+      <div class="coupons-grid" id="couponsGrid">
+
+        <div class="coupon-card" data-coupon-id="0">
+          <div class="coupon-header">
+            <span class="coupon-discount">até R$300 OFF</span>
+            <span class="coupon-badge">Verificado</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">CORREPRAPROMO</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">Aplicável para itens da seleção. Limite de R$300 de desconto.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+        <div class="coupon-card" data-coupon-id="1">
+          <div class="coupon-header">
+            <span class="coupon-discount">15% OFF</span>
+            <span class="coupon-badge">Moda</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">MODAMELI</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">15% OFF em compras a partir de R$49. Limitado a R$60 de desconto. Válido para moda.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+        <div class="coupon-card" data-coupon-id="2">
+          <div class="coupon-header">
+            <span class="coupon-discount">12% OFF</span>
+            <span class="coupon-badge">Geral</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">CUPONSMELI</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">12% OFF em compras a partir de R$49. Limitado a R$60 de desconto. Válido em diversas categorias.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+        <div class="coupon-card" data-coupon-id="3">
+          <div class="coupon-header">
+            <span class="coupon-discount">15% OFF</span>
+            <span class="coupon-badge">Casa</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">CUPOMPRACASA</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">15% OFF em Casa e Decoração. Compras a partir de R$79, limitado a R$60 de desconto.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+        <div class="coupon-card" data-coupon-id="4">
+          <div class="coupon-header">
+            <span class="coupon-discount">8% OFF</span>
+            <span class="coupon-badge">Geral</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">OFERTASHOJE</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">8% OFF em compras acima de R$79 em diversos itens. Desconto máximo limitado a R$150.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+        <div class="coupon-card" data-coupon-id="5">
+          <div class="coupon-header">
+            <span class="coupon-discount">20% OFF</span>
+            <span class="coupon-badge">Acessórios</span>
+          </div>
+          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+            <span class="coupon-code">PROMOML</span>
+            <span class="coupon-copy">Copiar</span>
+          </div>
+          <p class="coupon-desc">20% OFF em relógios, bolsas e mochilas da seleção. Compras acima de R$99, limite R$80.</p>
+          <span class="coupon-validity">Válido até nova promoção</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
   <section>
     <div class="container">
       <div style="text-align:center;">
@@ -586,9 +735,52 @@
       }
     }
 
+    function copyCoupon(el) {
+      const code = el.querySelector('.coupon-code').textContent;
+      navigator.clipboard.writeText(code).then(() => {
+        const btn = el.querySelector('.coupon-copy');
+        const orig = btn.textContent;
+        btn.textContent = 'Copiado!';
+        btn.style.background = 'rgba(16,185,129,0.3)';
+        btn.style.color = '#10b981';
+        setTimeout(() => { btn.textContent = orig; btn.style.background = ''; btn.style.color = ''; }, 2000);
+      }).catch(() => {
+        const range = document.createRange();
+        range.selectNode(el.querySelector('.coupon-code'));
+        window.getSelection().removeAllRanges();
+        window.getSelection().addRange(range);
+      });
+    }
+
+    async function updateCoupons() {
+      try {
+        const res = await fetch('/coupons.json?_=' + Date.now());
+        if (!res.ok) return;
+        const remote = await res.json();
+        const grid = document.getElementById('couponsGrid');
+        if (!grid || !remote.coupons) return;
+        grid.innerHTML = remote.coupons.map((c, i) => `
+          <div class="coupon-card" style="transition-delay:${i * 0.08}s">
+            <div class="coupon-header">
+              <span class="coupon-discount">${c.discount}</span>
+              <span class="coupon-badge">${c.badge || 'Verificado'}</span>
+            </div>
+            <div class="coupon-code-wrap" onclick="copyCoupon(this)">
+              <span class="coupon-code">${c.code}</span>
+              <span class="coupon-copy">Copiar</span>
+            </div>
+            <p class="coupon-desc">${c.description}</p>
+            <span class="coupon-validity">${c.validity || 'Válido até nova promoção'}</span>
+          </div>
+        `).join('');
+        grid.querySelectorAll('.coupon-card').forEach(el => observer.observe(el));
+      } catch (e) { /* keep static coupons */ }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.product-card, .feature-card').forEach(el => observer.observe(el));
       updatePrices();
+      updateCoupons();
     });
   </script>
 </body>
