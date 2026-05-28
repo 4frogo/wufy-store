@@ -778,7 +778,7 @@
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-      document.querySelectorAll('.product-card, .feature-card').forEach(el => observer.observe(el));
+      document.querySelectorAll('.product-card, .feature-card, .coupon-card').forEach(el => observer.observe(el));
       updatePrices();
       updateCoupons();
     });
