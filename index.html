@@ -846,22 +846,36 @@
       next?.addEventListener('click', e => { e.stopPropagation(); show(idx + 1); });
     }
 
-    // ML API: busca dados do produto
+    // ML API: busca dados do produto com fallback CORS proxy
+    const CORS_PROXIES = [
+      u => u,
+      u => `https://corsproxy.io/?url=${encodeURIComponent(u)}`,
+      u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+    ];
+
+    async function mlFetch(url) {
+      for (const proxy of CORS_PROXIES) {
+        try {
+          const ctrl = new AbortController();
+          const tid = setTimeout(() => ctrl.abort(), 8000);
+          const res = await fetch(proxy(url), { signal: ctrl.signal });
+          clearTimeout(tid);
+          if (res.ok) return await res.json();
+        } catch (_) {}
+      }
+      return null;
+    }
+
     async function updateProductDetails() {
       const cards = document.querySelectorAll('.product-card[data-search]');
       for (const card of cards) {
         const query = card.dataset.search;
-        const itemId = card.dataset.mlItemId;
-        const prodId = card.dataset.mlProductId;
+        if (!query) continue;
 
         try {
-          const url = itemId
-            ? `https://api.mercadolibre.com/items/${itemId}`
-            : `https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`;
-          const res = await fetch(url);
-          if (!res.ok) continue;
-          const data = await res.json();
-          const item = itemId ? data : data.results?.[0];
+          const data = await mlFetch(`https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`);
+          if (!data) continue;
+          const item = data.results?.[0];
           if (!item) continue;
 
           // Prices
@@ -884,22 +898,14 @@
             installmentsEl.textContent = `ou ${q}x de R$ ${a} sem juros`;
           }
 
-          // Gallery - try item pictures, then search pictures
-          let pictures = item.pictures || [];
-          if (!pictures.length && itemId) {
-            try {
-              const picsRes = await fetch(`https://api.mercadolibre.com/items/${itemId}/pictures`);
-              if (picsRes.ok) { const picsData = await picsRes.json(); pictures = picsData; }
-            } catch (_) {}
-          }
+          // Gallery
+          const pictures = item.pictures || [];
           if (pictures.length > 1) {
             const container = card.querySelector('.gallery-container');
             if (container) {
               container.innerHTML = pictures.map((p, i) => {
                 const url = p.secure_url || p.url || p;
-                const imgUrl = typeof url === 'string' ? url.replace('/D_NQ_NP_', '/D_NQ_NP_2X_').replace('.png', '.webp') : url;
                 return `<picture class="gallery-slide${i === 0 ? ' active' : ''}">
-                  <source srcset="${typeof imgUrl === 'string' ? imgUrl.replace('.png', '.webp') : imgUrl}" type="image/webp" />
                   <img src="${typeof url === 'string' ? url : url}" alt="" loading="lazy" />
                 </picture>`;
               }).join('');
@@ -919,7 +925,7 @@
                 'STORAGE_TYPE', 'RAM', 'PROCESSOR', 'OPERATING_SYSTEM', 'POWER'];
               const specs = attributes.filter(a => a.value_name && relevant.includes(a.id));
               const other = attributes.filter(a => a.value_name && !relevant.includes(a.id) && a.id.length < 10);
-              const allSpecs = [...specs, ...other].slice(0, 12);
+              const allSpecs = [...specs, ...other].slice(0, 15);
               if (allSpecs.length) {
                 listEl.innerHTML = allSpecs.map(s =>
                   `<div class="spec-item"><span class="spec-name">${s.name}</span><span class="spec-value">${s.value_name}</span></div>`
