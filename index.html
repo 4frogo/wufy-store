@@ -156,7 +156,7 @@
     .product-image::after {
       content: ''; position: absolute; inset: 0;
       background: radial-gradient(ellipse at center, rgba(124,91,240,0.05), transparent 60%);
-      opacity: 0; transition: opacity 0.4s;
+      opacity: 0; transition: opacity 0.4s; pointer-events: none;
     }
     .product-card:hover .product-image::after { opacity: 1; }
     .product-image img {
@@ -166,6 +166,68 @@
       filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
     }
     .product-card:hover .product-image img { transform: scale(1.06) rotate(-1deg); filter: drop-shadow(0 8px 24px rgba(0,0,0,0.4)); }
+
+    /* ===== GALLERY ===== */
+    .gallery-container {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      position: relative;
+    }
+    .gallery-slide {
+      display: none; width: 100%; height: 100%;
+      align-items: center; justify-content: center;
+    }
+    .gallery-slide.active { display: flex; }
+    .gallery-slide img, .gallery-slide source + img {
+      max-width: 100%; max-height: 100%; object-fit: contain;
+      border-radius: 8px;
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
+      transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), filter 0.4s;
+    }
+    .product-card:hover .gallery-slide.active img { transform: scale(1.06) rotate(-1deg); filter: drop-shadow(0 8px 24px rgba(0,0,0,0.4)); }
+    .gallery-nav {
+      position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%);
+      display: flex; align-items: center; gap: 8px; z-index: 5;
+      background: rgba(0,0,0,0.5); backdrop-filter: blur(8px);
+      padding: 3px 10px; border-radius: 100px;
+    }
+    .gallery-nav.hidden { display: none; }
+    .gallery-nav button {
+      background: none; border: none; color: #fff; font-size: 0.7rem;
+      cursor: pointer; padding: 2px 4px; opacity: 0.7; transition: opacity 0.3s;
+    }
+    .gallery-nav button:hover { opacity: 1; }
+    .gallery-counter { font-size: 0.65rem; color: rgba(255,255,255,0.8); min-width: 24px; text-align: center; }
+
+    /* ===== SPECS ===== */
+    .product-specs { margin: 8px 0 10px; }
+    .product-specs.hidden { display: none; }
+    .specs-toggle {
+      display: flex; align-items: center; justify-content: space-between;
+      font-size: 0.75rem; font-weight: 600; color: #7c5bf0;
+      cursor: pointer; padding: 4px 0; user-select: none;
+      transition: color 0.3s;
+    }
+    .specs-toggle:hover { color: #b8a5ff; }
+    .specs-arrow { font-size: 0.6rem; transition: transform 0.3s; }
+    .product-specs.open .specs-arrow { transform: rotate(180deg); }
+    .specs-list {
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.3s ease, padding 0.3s ease;
+    }
+    .product-specs.open .specs-list {
+      max-height: 400px; overflow-y: auto;
+    }
+    .specs-list::-webkit-scrollbar { width: 3px; }
+    .specs-list::-webkit-scrollbar-thumb { background: rgba(124,91,240,0.3); border-radius: 3px; }
+    .spec-item {
+      display: flex; justify-content: space-between;
+      padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+      font-size: 0.75rem; color: #999;
+    }
+    .spec-item:last-child { border-bottom: none; }
+    .spec-item .spec-name { color: #888; flex-shrink: 0; }
+    .spec-item .spec-value { color: #ccc; text-align: right; margin-left: 12px; }
 
     .product-image .badge {
       position: absolute; top: 16px; left: 16px; z-index: 2;
@@ -381,18 +443,32 @@
     <div class="container">
       <div class="products-grid">
 
-        <div class="product-card" data-search="Projetor HY320 Davely Smart TV Android">
+        <div class="product-card" data-search="Projetor HY320 Davely Smart TV Android" data-ml-product-id="MLB48959123" data-ml-item-id="MLB4510325461">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#10b981,#059669);">30% OFF</span>
-            <picture>
-              <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_747790-MLA99938308215_112025-OO.webp" type="image/webp" />
-              <img src="https://http2.mlstatic.com/D_NQ_NP_747790-MLA99938308215_112025-OO.png" alt="Projetor HY320 Davely" loading="lazy" />
-            </picture>
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_747790-MLA99938308215_112025-OO.webp" type="image/webp" />
+                <img src="https://http2.mlstatic.com/D_NQ_NP_747790-MLA99938308215_112025-OO.png" alt="Projetor HY320 Davely" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Eletrônicos</div>
             <h3>Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens 4K</h3>
             <p>Transforme sua sala em um cinema. Smart TV Android, WiFi 6, 390 ANSI Lumens, suporte 4K e tela de até 200".</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 299,90</span>
               <span class="current">R$ 209,90 <small>à vista</small></span>
@@ -405,13 +481,29 @@
 
         <div class="product-card" data-search="Whey Protein Concentrado 1kg Chocolate Dark Lab">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">62% OFF</span>
-            <img src="https://product-data.raiadrogasil.io/images/11258616.webp" alt="Whey Protein Dark Lab" loading="lazy" />
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <img src="https://product-data.raiadrogasil.io/images/11258616.webp" alt="Whey Protein Dark Lab" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Suplementos</div>
             <h3>Whey Protein Concentrado 1kg Chocolate Dark Lab</h3>
             <p>Proteína 100% pura, 32g por porção. Alta biodisponibilidade para ganho de massa muscular e recuperação pós-treino.</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 349,90</span>
               <span class="current">R$ 129,90 <small>à vista</small></span>
@@ -424,16 +516,30 @@
 
         <div class="product-card" data-search="Lavadora Lava Jato Portátil Pressão 2 Baterias MyMotors">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#ef4444,#dc2626);">57% OFF</span>
-            <picture>
-              <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_710675-MLB89102120983_082025-OO.webp" type="image/webp" />
-              <img src="https://http2.mlstatic.com/D_NQ_NP_710675-MLB89102120983_082025-OO.png" alt="Lavadora Lava Jato Portátil" loading="lazy" />
-            </picture>
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_710675-MLB89102120983_082025-OO.webp" type="image/webp" />
+                <img src="https://http2.mlstatic.com/D_NQ_NP_710675-MLB89102120983_082025-OO.png" alt="Lavadora Lava Jato Portátil" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Ferramentas</div>
             <h3>Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta MyMotors</h3>
             <p>Lavadora de alta pressão recarregável, 2 baterias, bivolt. Ideal para carros, motos, quintal e janelas. Potente e prática.</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 229,90</span>
               <span class="current">R$ 96,72 <small>no Pix</small></span>
@@ -446,13 +552,29 @@
 
         <div class="product-card" data-search="Whey Pro Max Titanium Concentrado 1kg">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">52% OFF</span>
-            <img src="https://product-data.raiadrogasil.io/images/3515029.webp" alt="Whey Pro Max Titanium" loading="lazy" />
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <img src="https://product-data.raiadrogasil.io/images/3515029.webp" alt="Whey Pro Max Titanium" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Suplementos</div>
             <h3>Whey Pro Max Titanium Concentrado Pote 1kg Chocolate</h3>
             <p>15g de proteína por dose. Ideal para ganho de massa muscular e recuperação pós-treino. Sabor incrível.</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 149,90</span>
               <span class="current">R$ 70,90 <small>à vista</small></span>
@@ -465,13 +587,29 @@
 
         <div class="product-card" data-search="Bota Bull Terrier Bruce Masculina Couro">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#3b82f6,#2563eb);">39% OFF</span>
-            <img src="https://api.lojadodesconto.com.br/wp-content/uploads/2026/05/bota-bull-terrier-bruce-masculina-original-couro-r-8395.jpg" alt="Bota Bull Terrier Bruce" loading="lazy" />
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <img src="https://api.lojadodesconto.com.br/wp-content/uploads/2026/05/bota-bull-terrier-bruce-masculina-original-couro-r-8395.jpg" alt="Bota Bull Terrier Bruce" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Calçados</div>
             <h3>Bota Bull Terrier Bruce Masculina Original Couro Resistente</h3>
             <p>Couro legítimo de alta resistência. Ideal para trilha, trabalho e dia a dia. Solado tratorado e palmilha anatômica.</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 429,00</span>
               <span class="current">R$ 260,20 <small>no Pix</small></span>
@@ -482,18 +620,32 @@
           </div>
         </div>
 
-        <div class="product-card" data-search="Smart TV AOC 50 4K DLED 50U7045">
+        <div class="product-card" data-search="Smart TV AOC 50 4K DLED 50U7045" data-ml-product-id="MLB51202548">
           <div class="product-image">
+            <div class="gallery-nav hidden">
+              <button class="gallery-prev">&#10094;</button>
+              <div class="gallery-counter">1/1</div>
+              <button class="gallery-next">&#10095;</button>
+            </div>
             <span class="badge" style="background:linear-gradient(135deg,#8b5cf6,#6d28d9);">40% OFF</span>
-            <picture>
-              <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_648316-MLA99473453820_112025-OO.webp" type="image/webp" />
-              <img src="https://http2.mlstatic.com/D_NQ_NP_648316-MLA99473453820_112025-OO.png" alt="Smart TV AOC 50 4K" loading="lazy" />
-            </picture>
+            <div class="gallery-container">
+              <picture class="gallery-slide active">
+                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_648316-MLA99473453820_112025-OO.webp" type="image/webp" />
+                <img src="https://http2.mlstatic.com/D_NQ_NP_648316-MLA99473453820_112025-OO.png" alt="Smart TV AOC 50 4K" loading="lazy" />
+              </picture>
+            </div>
           </div>
           <div class="product-body">
             <div class="product-category">Eletrônicos</div>
             <h3>Smart TV 50 AOC 4K DLED 50U7045/78G Roku TV Quad</h3>
             <p>TV 50" 4K DLED com sistema Roku TV, acesso a Netflix, Disney+, Apple TV e mais. Wi-Fi integrado, portas USB e HDMI.</p>
+            <div class="product-specs hidden">
+              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <span>Especificações</span>
+                <span class="specs-arrow">&#9660;</span>
+              </div>
+              <div class="specs-list"></div>
+            </div>
             <div class="product-price">
               <span class="old">De R$ 2.999,00</span>
               <span class="current">R$ 1.772,00 <small>no Pix</small></span>
@@ -689,48 +841,110 @@
       });
     }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
 
-    // Price updater via Mercado Livre API
-    async function updatePrices() {
+    // Gallery
+    function galleryInit(card) {
+      const container = card.querySelector('.gallery-container');
+      const slides = container?.querySelectorAll('.gallery-slide');
+      const prev = card.querySelector('.gallery-prev');
+      const next = card.querySelector('.gallery-next');
+      const counter = card.querySelector('.gallery-counter');
+      const nav = card.querySelector('.gallery-nav');
+      if (!slides?.length || slides.length < 2) { nav?.classList.add('hidden'); return; }
+      nav?.classList.remove('hidden');
+      let idx = 0;
+      function show(i) {
+        slides.forEach(s => s.classList.remove('active'));
+        idx = (i + slides.length) % slides.length;
+        slides[idx].classList.add('active');
+        if (counter) counter.textContent = `${idx + 1}/${slides.length}`;
+      }
+      prev?.addEventListener('click', e => { e.stopPropagation(); show(idx - 1); });
+      next?.addEventListener('click', e => { e.stopPropagation(); show(idx + 1); });
+    }
+
+    // ML API: busca dados do produto
+    async function updateProductDetails() {
       const cards = document.querySelectorAll('.product-card[data-search]');
       for (const card of cards) {
         const query = card.dataset.search;
+        const itemId = card.dataset.mlItemId;
+        const prodId = card.dataset.mlProductId;
+
         try {
-          const res = await fetch(`https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`);
+          const url = itemId
+            ? `https://api.mercadolibre.com/items/${itemId}`
+            : `https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`;
+          const res = await fetch(url);
           if (!res.ok) continue;
           const data = await res.json();
-          const item = data.results?.[0];
+          const item = itemId ? data : data.results?.[0];
           if (!item) continue;
 
+          // Prices
           const price = item.price;
           const origPrice = item.original_price || price;
           const discount = Math.round((1 - price / origPrice) * 100);
-          const installments = item.installments;
-
           const badge = card.querySelector('.badge');
           const oldEl = card.querySelector('.old');
           const currentEl = card.querySelector('.current');
           const installmentsEl = card.querySelector('.installments');
-
-          if (badge && discount > 0) {
-            badge.textContent = `${discount}% OFF`;
-          }
-
-          if (oldEl && origPrice !== price) {
-            oldEl.textContent = `De R$ ${origPrice.toFixed(2).replace('.', ',')}`;
-          }
-
+          if (badge && discount > 0) badge.textContent = `${discount}% OFF`;
+          if (oldEl && origPrice !== price) oldEl.textContent = `De R$ ${origPrice.toFixed(2).replace('.', ',')}`;
           if (currentEl) {
             const pixPrice = (price * 0.9).toFixed(2).replace('.', ',');
             currentEl.innerHTML = `R$ ${pixPrice} <small>no Pix</small>`;
           }
+          if (installmentsEl && item.installments) {
+            const q = item.installments.quantity;
+            const a = item.installments.amount.toFixed(2).replace('.', ',');
+            installmentsEl.textContent = `ou ${q}x de R$ ${a} sem juros`;
+          }
 
-          if (installmentsEl && installments) {
-            const qty = installments.quantity;
-            const amount = installments.amount.toFixed(2).replace('.', ',');
-            installmentsEl.textContent = `ou ${qty}x de R$ ${amount} sem juros`;
+          // Gallery - try item pictures, then search pictures
+          let pictures = item.pictures || [];
+          if (!pictures.length && itemId) {
+            try {
+              const picsRes = await fetch(`https://api.mercadolibre.com/items/${itemId}/pictures`);
+              if (picsRes.ok) { const picsData = await picsRes.json(); pictures = picsData; }
+            } catch (_) {}
+          }
+          if (pictures.length > 1) {
+            const container = card.querySelector('.gallery-container');
+            if (container) {
+              container.innerHTML = pictures.map((p, i) => {
+                const url = p.secure_url || p.url || p;
+                const imgUrl = typeof url === 'string' ? url.replace('/D_NQ_NP_', '/D_NQ_NP_2X_').replace('.png', '.webp') : url;
+                return `<picture class="gallery-slide${i === 0 ? ' active' : ''}">
+                  <source srcset="${typeof imgUrl === 'string' ? imgUrl.replace('.png', '.webp') : imgUrl}" type="image/webp" />
+                  <img src="${typeof url === 'string' ? url : url}" alt="" loading="lazy" />
+                </picture>`;
+              }).join('');
+              galleryInit(card);
+            }
+          }
+
+          // Specs
+          const attributes = item.attributes || [];
+          if (attributes.length) {
+            const specsEl = card.querySelector('.product-specs');
+            const listEl = card.querySelector('.specs-list');
+            if (specsEl && listEl) {
+              specsEl.classList.remove('hidden');
+              const relevant = ['BRAND', 'MODEL', 'LINE', 'COLOR', 'WEIGHT', 'HEIGHT', 'WIDTH', 'DEPTH',
+                'SCREEN_SIZE', 'RESOLUTION', 'CONNECTIVITY', 'WITH_WIFI', 'WITH_BLUETOOTH',
+                'STORAGE_TYPE', 'RAM', 'PROCESSOR', 'OPERATING_SYSTEM', 'POWER'];
+              const specs = attributes.filter(a => a.value_name && relevant.includes(a.id));
+              const other = attributes.filter(a => a.value_name && !relevant.includes(a.id) && a.id.length < 10);
+              const allSpecs = [...specs, ...other].slice(0, 12);
+              if (allSpecs.length) {
+                listEl.innerHTML = allSpecs.map(s =>
+                  `<div class="spec-item"><span class="spec-name">${s.name}</span><span class="spec-value">${s.value_name}</span></div>`
+                ).join('');
+              }
+            }
           }
         } catch (e) {
-          console.warn('Failed to update price for:', query, e);
+          console.warn('ML fetch error for:', query, e);
         }
       }
     }
@@ -779,7 +993,8 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.product-card, .feature-card, .coupon-card').forEach(el => observer.observe(el));
-      updatePrices();
+      document.querySelectorAll('.product-card').forEach(galleryInit);
+      updateProductDetails();
       updateCoupons();
     });
   </script>
