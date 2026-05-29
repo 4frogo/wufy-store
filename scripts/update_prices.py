@@ -42,31 +42,29 @@ def extract_float(text):
     return None
 
 
-def find_card_amounts(page):
-    first_link = page.query_selector("a[href*='/p/MLB']")
-    if not first_link:
+def find_card_data(page):
+    """Encontra o primeiro poly-card da pagina e extrai amounts, installments e titulo."""
+    card = page.query_selector("[class*='poly-card']")
+    if not card:
         amts = page.query_selector_all(".andes-money-amount")
-        return [amts[i] for i in range(min(5, len(amts)))] if amts else []
+        return {
+            "amounts": [amts[i] for i in range(min(5, len(amts)))] if amts else [],
+            "installments": ""
+        }
 
-    result = first_link.evaluate("""
-        el => {
-            let p = el.parentElement;
-            for (let j = 0; j < 6; j++) {
-                if (!p) break;
-                if (p.className && p.className.includes('poly-card')) {
-                    let amts = p.querySelectorAll('.andes-money-amount');
-                    let inst = p.querySelector('.poly-price__installments');
-                    return {
-                        amounts: Array.from(amts).map(a => ({
-                            text: a.innerText.trim().replace(/\\s+/g, ' '),
-                            cls: a.className
-                        })),
-                        installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
-                    };
-                }
-                p = p.parentElement;
-            }
-            return {amounts: [], installments: ''};
+    result = card.evaluate("""
+        card => {
+            let amts = card.querySelectorAll('.andes-money-amount');
+            let inst = card.querySelector('.poly-price__installments');
+            let title = card.querySelector('.poly-component__title');
+            return {
+                title: title ? title.innerText.trim() : '',
+                amounts: Array.from(amts).map(a => ({
+                    text: a.innerText.trim().replace(/\\s+/g, ' '),
+                    cls: a.className
+                })),
+                installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
+            };
         }
     """)
     return result
@@ -134,18 +132,10 @@ def extract_prices_from_amounts(card_data):
 
 def scrape_first_card(page, url):
     page.goto(url, wait_until="networkidle", timeout=30000)
-    card_data = find_card_amounts(page)
+    card_data = find_card_data(page)
     if not card_data or not card_data.get("amounts"):
         return None
     return extract_prices_from_amounts(card_data)
-
-
-def scrape_first_card(page, url):
-    page.goto(url, wait_until="networkidle", timeout=30000)
-    amounts = find_card_amounts(page)
-    if not amounts:
-        return None
-    return extract_prices_from_amounts(amounts)
 
 
 def main():
