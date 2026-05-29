@@ -866,37 +866,44 @@
       return null;
     }
 
+    // Carrega precos do prices.json (gerado pelo bot) + busca galeria/specs da API
+    async function applyPricesFromCache() {
+      try {
+        const res = await fetch('/prices.json?_=' + Date.now());
+        if (!res.ok) return false;
+        const data = await res.json();
+        if (!data.prices) return false;
+        const cards = document.querySelectorAll('.product-card[data-search]');
+        data.prices.forEach(p => {
+          const card = Array.from(cards).find(c => c.dataset.search === p.search);
+          if (!card) return;
+          const badge = card.querySelector('.badge');
+          const oldEl = card.querySelector('.old');
+          const currentEl = card.querySelector('.current');
+          const installmentsEl = card.querySelector('.installments');
+          if (badge && p.discount > 0) badge.textContent = `${p.discount}% OFF`;
+          if (oldEl && p.original_price !== p.price)
+            oldEl.textContent = `De R$ ${p.original_price.toFixed(2).replace('.', ',')}`;
+          if (currentEl)
+            currentEl.innerHTML = `R$ ${p.pix_price.toFixed(2).replace('.', ',')} <small>no Pix</small>`;
+          if (installmentsEl && p.installments_qty)
+            installmentsEl.textContent = `ou ${p.installments_qty}x de R$ ${p.installments_amount.toFixed(2).replace('.', ',')} sem juros`;
+        });
+        return true;
+      } catch (_) { return false; }
+    }
+
     async function updateProductDetails() {
+      await applyPricesFromCache();
       const cards = document.querySelectorAll('.product-card[data-search]');
       for (const card of cards) {
         const query = card.dataset.search;
         if (!query) continue;
-
         try {
           const data = await mlFetch(`https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`);
           if (!data) continue;
           const item = data.results?.[0];
           if (!item) continue;
-
-          // Prices
-          const price = item.price;
-          const origPrice = item.original_price || price;
-          const discount = Math.round((1 - price / origPrice) * 100);
-          const badge = card.querySelector('.badge');
-          const oldEl = card.querySelector('.old');
-          const currentEl = card.querySelector('.current');
-          const installmentsEl = card.querySelector('.installments');
-          if (badge && discount > 0) badge.textContent = `${discount}% OFF`;
-          if (oldEl && origPrice !== price) oldEl.textContent = `De R$ ${origPrice.toFixed(2).replace('.', ',')}`;
-          if (currentEl) {
-            const pixPrice = (price * 0.9).toFixed(2).replace('.', ',');
-            currentEl.innerHTML = `R$ ${pixPrice} <small>no Pix</small>`;
-          }
-          if (installmentsEl && item.installments) {
-            const q = item.installments.quantity;
-            const a = item.installments.amount.toFixed(2).replace('.', ',');
-            installmentsEl.textContent = `ou ${q}x de R$ ${a} sem juros`;
-          }
 
           // Gallery
           const pictures = item.pictures || [];

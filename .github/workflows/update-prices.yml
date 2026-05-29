@@ -1,0 +1,25 @@
+name: Atualizar Precos ML
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar precos da API do ML
+        run: python3 scripts/update_prices.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "Wufy Bot"
+          git config user.email "bot@wufy.store"
+          git add prices.json
+          git diff --staged --quiet || (git commit -m "Atualiza precos $(date +%d/%m/%Y-%H:%M)" && git push)
