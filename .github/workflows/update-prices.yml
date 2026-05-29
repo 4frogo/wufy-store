@@ -14,7 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Buscar precos da API do ML
+      - name: Instalar Python e Playwright
+        run: |
+          pip install playwright
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Buscar precos com navegador real
         run: python3 scripts/update_prices.py
 
       - name: Commit e push

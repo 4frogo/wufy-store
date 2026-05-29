@@ -1,65 +1,65 @@
 {
-  "updated": "2026-05-28T22:30:00-03:00",
+  "updated": "2026-05-29T04:07:47.184798+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
       "link": "https://meli.la/1yBfiUy",
-      "price": 209.90,
-      "original_price": 299.90,
-      "discount": 30,
-      "pix_price": 188.91,
+      "price": 216.39,
+      "original_price": 299.9,
+      "discount": 28,
+      "pix_price": 194.75,
       "installments_qty": 12,
-      "installments_amount": 20.78
+      "installments_amount": 21.42
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 129.90,
-      "original_price": 349.90,
-      "discount": 62,
-      "pix_price": 116.91,
+      "price": 169.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 152.91,
       "installments_qty": 12,
-      "installments_amount": 12.85
+      "installments_amount": 16.79
     },
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias MyMotors",
       "link": "https://meli.la/19ErgKc",
-      "price": 96.72,
-      "original_price": 229.90,
-      "discount": 57,
-      "pix_price": 87.05,
+      "price": 106.0,
+      "original_price": 121.9,
+      "discount": 13,
+      "pix_price": 95.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Whey Pro Max Titanium Concentrado 1kg",
       "link": "https://meli.la/25unFmR",
-      "price": 70.90,
-      "original_price": 149.90,
-      "discount": 52,
-      "pix_price": 63.81,
-      "installments_qty": 12,
-      "installments_amount": 7.02
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Couro",
       "link": "https://meli.la/1RuihHY",
-      "price": 260.20,
-      "original_price": 429.00,
-      "discount": 39,
-      "pix_price": 234.18,
+      "price": 261.15,
+      "original_price": 439.9,
+      "discount": 41,
+      "pix_price": 235.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Smart TV AOC 50 4K DLED 50U7045",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1772.00,
-      "original_price": 2999.00,
-      "discount": 40,
-      "pix_price": 1594.80,
+      "price": 1759.0,
+      "original_price": 2499.0,
+      "discount": 30,
+      "pix_price": 1583.1,
       "installments_qty": 10,
-      "installments_amount": 196.90
+      "installments_amount": 199.9
     }
   ]
 }
