@@ -42,17 +42,8 @@ def extract_float(text):
     return None
 
 
-def find_card_data(page):
-    """Encontra o primeiro poly-card da pagina e extrai amounts, installments e titulo."""
-    card = page.query_selector("[class*='poly-card']")
-    if not card:
-        amts = page.query_selector_all(".andes-money-amount")
-        return {
-            "amounts": [amts[i] for i in range(min(5, len(amts)))] if amts else [],
-            "installments": ""
-        }
-
-    result = card.evaluate("""
+def extract_card_data(card):
+    return card.evaluate("""
         card => {
             let amts = card.querySelectorAll('.andes-money-amount');
             let inst = card.querySelector('.poly-price__installments');
@@ -67,7 +58,32 @@ def find_card_data(page):
             };
         }
     """)
-    return result
+
+
+def find_card_for_product(page, search_term):
+    cards = page.query_selector_all("[class*='poly-card']")
+    if not cards:
+        return {"amounts": [], "installments": ""}
+
+    keywords = [w.lower() for w in search_term.split() if len(w) > 2]
+
+    best = None
+    best_score = 0
+
+    for card in cards:
+        title_el = card.query_selector(".poly-component__title")
+        if not title_el:
+            continue
+        title_text = title_el.inner_text().lower()
+        score = sum(1 for kw in keywords if kw in title_text)
+        if score > best_score:
+            best_score = score
+            best = card
+
+    if best:
+        return extract_card_data(best)
+
+    return extract_card_data(cards[0])
 
 
 def extract_prices_from_amounts(card_data):
@@ -130,9 +146,9 @@ def extract_prices_from_amounts(card_data):
     }
 
 
-def scrape_first_card(page, url):
+def scrape_first_card(page, url, search_term):
     page.goto(url, wait_until="networkidle", timeout=30000)
-    card_data = find_card_data(page)
+    card_data = find_card_for_product(page, search_term)
     if not card_data or not card_data.get("amounts"):
         return None
     return extract_prices_from_amounts(card_data)
@@ -159,7 +175,7 @@ def main():
         for prod in PRODUCTS:
             data = None
             try:
-                data = scrape_first_card(page, prod["link"])
+                data = scrape_first_card(page, prod["link"], prod["search"])
             except Exception as e:
                 print(f"ERRO: {prod['search'][:40]}... {e}")
 
