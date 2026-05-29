@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T12:31:09.286791+00:00",
+  "updated": "2026-05-29T13:09:55.344367+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
@@ -24,10 +24,10 @@
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias MyMotors",
       "link": "https://meli.la/19ErgKc",
-      "price": 106.0,
-      "original_price": 121.9,
-      "discount": 13,
-      "pix_price": 95.4,
+      "price": 107.01,
+      "original_price": 229.9,
+      "discount": 53,
+      "pix_price": 96.31,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -45,8 +45,8 @@
       "search": "Bota Bull Terrier Bruce Masculina Couro",
       "link": "https://meli.la/1RuihHY",
       "price": 261.15,
-      "original_price": 439.9,
-      "discount": 41,
+      "original_price": 429.0,
+      "discount": 39,
       "pix_price": 235.03,
       "installments_qty": 0,
       "installments_amount": 0
