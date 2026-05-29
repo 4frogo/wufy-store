@@ -1,5 +1,6 @@
 import re, json, os, sys
 from datetime import datetime, timezone
+import time
 
 try:
     from playwright.sync_api import sync_playwright
@@ -17,6 +18,12 @@ PRODUCTS = [
 ]
 
 repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+STEALTH_SCRIPT = """
+    Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
+    Object.defineProperty(navigator, 'plugins', {get: () => [1,2,3,4,5]});
+    window.chrome = {runtime: {}};
+"""
 
 
 def load_existing_prices():
@@ -42,33 +49,13 @@ def extract_float(text):
     return None
 
 
-def extract_card_data(card):
-    return card.evaluate("""
-        card => {
-            let amts = card.querySelectorAll('.andes-money-amount');
-            let inst = card.querySelector('.poly-price__installments');
-            let title = card.querySelector('.poly-component__title');
-            return {
-                title: title ? title.innerText.trim() : '',
-                amounts: Array.from(amts).map(a => ({
-                    text: a.innerText.trim().replace(/\\s+/g, ' '),
-                    cls: a.className
-                })),
-                installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
-            };
-        }
-    """)
-
-
 def find_card_for_product(page, search_term):
     cards = page.query_selector_all("[class*='poly-card']")
     if not cards:
-        return {"amounts": [], "installments": ""}
+        return {}
 
     keywords = [w.lower() for w in search_term.split() if len(w) > 2]
-
-    best = None
-    best_score = 0
+    best, best_score = None, 0
 
     for card in cards:
         title_el = card.query_selector(".poly-component__title")
@@ -80,21 +67,29 @@ def find_card_for_product(page, search_term):
             best_score = score
             best = card
 
-    if best:
-        return extract_card_data(best)
+    if not best:
+        best = cards[0]
 
-    return extract_card_data(cards[0])
+    result = best.evaluate("""
+        card => {
+            let amts = card.querySelectorAll('.andes-money-amount');
+            let inst = card.querySelector('.poly-price__installments');
+            let title = card.querySelector('.poly-component__title');
+            return {
+                title: title ? title.innerText.trim() : '',
+                productUrl: title ? title.href : '',
+                amounts: Array.from(amts).map(a => ({
+                    text: a.innerText.trim().replace(/\\s+/g, ' '),
+                    cls: a.className
+                })),
+                installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
+            };
+        }
+    """)
+    return result
 
 
-def extract_prices_from_amounts(card_data):
-    amounts = card_data.get("amounts", []) if isinstance(card_data, dict) else card_data
-    installments_text = card_data.get("installments", "") if isinstance(card_data, dict) else ""
-
-    if isinstance(amounts, list) and len(amounts) > 0 and isinstance(amounts[0], dict):
-        pass
-    elif isinstance(amounts, list) and len(amounts) > 0:
-        installments_text = ""
-
+def extract_prices(amounts, installments_text):
     price_val = None
     orig_val = None
     inst_qty = 0
@@ -107,7 +102,6 @@ def extract_prices_from_amounts(card_data):
         else:
             text = amt.inner_text().strip().replace("\n", " ")
             cls = amt.get_attribute("class") or ""
-
         val = extract_float(text)
         if not val:
             continue
@@ -124,10 +118,7 @@ def extract_prices_from_amounts(card_data):
             inst_qty = int(m.group(1))
             cleaned = m.group(2).replace(".", "").replace(",", ".")
             m2 = re.search(r'(\d+\.\d{2})', cleaned)
-            if m2:
-                inst_amt = float(m2.group(1))
-            else:
-                inst_amt = float(cleaned)
+            inst_amt = float(m2.group(1)) if m2 else float(cleaned)
 
     if not price_val:
         for amt in amounts:
@@ -138,20 +129,82 @@ def extract_prices_from_amounts(card_data):
                 price_val = val
                 break
 
-    return {
-        "price": price_val,
-        "original_price": orig_val,
-        "installments_qty": inst_qty,
-        "installments_amount": inst_amt,
-    }
+    return {"price": price_val, "original_price": orig_val, "installments_qty": inst_qty, "installments_amount": inst_amt}
 
 
-def scrape_first_card(page, url, search_term):
-    page.goto(url, wait_until="networkidle", timeout=30000)
-    card_data = find_card_for_product(page, search_term)
-    if not card_data or not card_data.get("amounts"):
+def scrape_real_product(page, product_url):
+    try:
+        page.goto(product_url, wait_until="domcontentloaded", timeout=25000)
+        time.sleep(4)
+
+        title = page.title()
+        if "seguridad" in title.lower():
+            return None
+
+        prices = page.evaluate("""
+            () => {
+                const meta = document.querySelector('meta[itemprop="price"]');
+                const metaPrice = meta ? parseFloat(meta.getAttribute('content')) : null;
+
+                const containers = document.querySelectorAll('[class*="ui-pdp-price"]');
+                let mainContainer = null;
+                for (const c of containers) {
+                    if (c.innerText.trim().length > 0 && c.innerText.includes('R$')) {
+                        mainContainer = c;
+                        break;
+                    }
+                }
+
+                let prevPrice = null;
+                let currentPrice = null;
+
+                if (mainContainer) {
+                    const prev = mainContainer.querySelector('[class*="andes-money-amount--previous"]');
+                    if (prev) prevPrice = prev.innerText.trim().replace(/\\s+/g, ' ');
+
+                    const curr = mainContainer.querySelector('[class*="andes-money-amount--cents-superscript"]');
+                    if (curr) currentPrice = curr.innerText.trim().replace(/\\s+/g, ' ');
+                }
+
+                let installmentsText = '';
+                const allInst = document.querySelectorAll('[class*="price__installments"]');
+                for (const el of allInst) {
+                    const txt = el.innerText.trim().replace(/\\s+/g, ' ');
+                    if (txt.includes('x') && txt.includes('R$')) {
+                        installmentsText = txt;
+                        break;
+                    }
+                }
+
+                return { metaPrice, prevPrice, currentPrice, installmentsText };
+            }
+        """)
+
+        if not prices.get("metaPrice") and not prices.get("currentPrice"):
+            return None
+
+        price_val = prices.get("metaPrice") or extract_float(prices.get("currentPrice", ""))
+        orig_val = extract_float(prices.get("prevPrice", ""))
+        inst_qty, inst_amt = 0, 0
+
+        if prices.get("installmentsText"):
+            flat = prices["installmentsText"].replace(" ", "")
+            m = re.search(r'(\d+)x(?:R?\$?\s*)?([\d.,]+)', flat)
+            if m:
+                inst_qty = int(m.group(1))
+                cleaned = m.group(2).replace(".", "").replace(",", ".")
+                m2 = re.search(r'(\d+\.\d{2})', cleaned)
+                inst_amt = float(m2.group(1)) if m2 else float(cleaned)
+
+        return {
+            "price": price_val,
+            "original_price": orig_val,
+            "installments_qty": inst_qty,
+            "installments_amount": inst_amt,
+        }
+
+    except Exception as e:
         return None
-    return extract_prices_from_amounts(card_data)
 
 
 def main():
@@ -169,13 +222,38 @@ def main():
             timezone_id="America/Sao_Paulo",
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             extra_http_headers={"Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8"},
+            device_scale_factor=1.0,
         )
         page = context.new_page()
+        page.add_init_script(STEALTH_SCRIPT)
 
         for prod in PRODUCTS:
             data = None
+            real_url = None
+            card_installments = ""
             try:
-                data = scrape_first_card(page, prod["link"], prod["search"])
+                page.goto(prod["link"], wait_until="domcontentloaded", timeout=30000)
+                time.sleep(4)
+                card = find_card_for_product(page, prod["search"])
+                if card and card.get("amounts"):
+                    card_installments = card.get("installments", "")
+                    real_url = card.get("productUrl", "")
+                    if real_url and "/p/MLB" in real_url:
+                        real_data = scrape_real_product(page, real_url)
+                        if real_data and real_data.get("price"):
+                            if not real_data["installments_qty"] and card_installments:
+                                flat = card_installments.replace(" ", "")
+                                m = re.search(r'(\d+)x(?:R?\$?\s*)?([\d.,]+)', flat)
+                                if m:
+                                    real_data["installments_qty"] = int(m.group(1))
+                                    cleaned = m.group(2).replace(".", "").replace(",", ".")
+                                    m2 = re.search(r'(\d+\.\d{2})', cleaned)
+                                    real_data["installments_amount"] = float(m2.group(1)) if m2 else float(cleaned)
+                            data = real_data
+                            print(f"REAL: {prod['search'][:40]}... R${real_data['price']}")
+                    if not data:
+                        data = extract_prices(card["amounts"], card_installments)
+                        print(f"CARD: {prod['search'][:40]}... R${data.get('price', '?')}")
             except Exception as e:
                 print(f"ERRO: {prod['search'][:40]}... {e}")
 
@@ -186,8 +264,6 @@ def main():
                     orig = round(price * 1.15, 2)
                 desconto = round((1 - price / orig) * 100) if orig > 0 else 0
                 pix = round(price * 0.9, 2)
-
-                print(f"OK: {prod['search'][:40]}... R${price}")
                 resultados.append({
                     "search": prod["search"],
                     "link": prod["link"],
