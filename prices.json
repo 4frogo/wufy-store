@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T02:37:08.229731+00:00",
+  "updated": "2026-05-30T08:23:26.372132+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
@@ -24,10 +24,10 @@
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias MyMotors",
       "link": "https://meli.la/19ErgKc",
-      "price": 107.01,
+      "price": 125.9,
       "original_price": 229.9,
-      "discount": 53,
-      "pix_price": 96.31,
+      "discount": 45,
+      "pix_price": 113.31,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -54,12 +54,12 @@
     {
       "search": "Smart TV AOC 50 4K DLED 50U7045",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1759.0,
-      "original_price": 2499.0,
-      "discount": 30,
-      "pix_price": 1583.1,
-      "installments_qty": 10,
-      "installments_amount": 199.9
+      "price": 1949.0,
+      "original_price": 2241.35,
+      "discount": 13,
+      "pix_price": 1754.1,
+      "installments_qty": 12,
+      "installments_amount": 187.33
     }
   ]
 }
