@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T19:06:18.828061+00:00",
+  "updated": "2026-05-31T02:54:09.976822+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
@@ -24,12 +24,12 @@
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias MyMotors",
       "link": "https://meli.la/19ErgKc",
-      "price": 100.72,
-      "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 90.65,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 99.74,
+      "original_price": 104.99,
+      "discount": 5,
+      "pix_price": 89.77,
+      "installments_qty": 4,
+      "installments_amount": 26.25
     },
     {
       "search": "Whey Pro Max Titanium Concentrado 1kg",
@@ -54,12 +54,12 @@
     {
       "search": "Smart TV AOC 50 4K DLED 50U7045",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 2241.35,
-      "discount": 13,
-      "pix_price": 1754.1,
-      "installments_qty": 12,
-      "installments_amount": 187.33
+      "price": 1759.0,
+      "original_price": 2499.0,
+      "discount": 30,
+      "pix_price": 1583.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
     }
   ]
 }
