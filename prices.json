@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-02T10:14:18.869616+00:00",
+  "updated": "2026-06-02T16:12:15.699026+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
       "link": "https://meli.la/1yBfiUy",
-      "price": 216.39,
+      "price": 219.9,
       "original_price": 299.9,
-      "discount": 28,
-      "pix_price": 194.75,
+      "discount": 27,
+      "pix_price": 197.91,
       "installments_qty": 12,
-      "installments_amount": 21.42
+      "installments_amount": 21.77
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -24,10 +24,10 @@
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias MyMotors",
       "link": "https://meli.la/19ErgKc",
-      "price": 125.9,
+      "price": 100.72,
       "original_price": 229.9,
-      "discount": 45,
-      "pix_price": 113.31,
+      "discount": 56,
+      "pix_price": 90.65,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -35,8 +35,8 @@
       "search": "Whey Pro Max Titanium Concentrado 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
+      "original_price": 104.59,
+      "discount": 25,
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
