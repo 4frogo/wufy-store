@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T09:50:01.160893+00:00",
+  "updated": "2026-06-04T14:46:56.378276+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
@@ -35,8 +35,8 @@
       "search": "Whey Pro Max Titanium Concentrado 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
-      "original_price": 104.59,
-      "discount": 25,
+      "original_price": 119.55,
+      "discount": 34,
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
@@ -44,10 +44,10 @@
     {
       "search": "Bota Bull Terrier Bruce Masculina Couro",
       "link": "https://meli.la/1RuihHY",
-      "price": 247.41,
+      "price": 261.15,
       "original_price": 429.0,
-      "discount": 42,
-      "pix_price": 222.67,
+      "discount": 39,
+      "pix_price": 235.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
