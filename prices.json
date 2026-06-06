@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T13:20:53.969261+00:00",
+  "updated": "2026-06-06T19:13:36.334211+00:00",
   "prices": [
     {
       "search": "Projetor HY320 Davely Smart TV Android",
@@ -54,12 +54,12 @@
     {
       "search": "Smart TV AOC 50 4K DLED 50U7045",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 3099.0,
-      "discount": 37,
-      "pix_price": 1754.1,
-      "installments_qty": 10,
-      "installments_amount": 194.9
+      "price": 1745.0,
+      "original_price": 2475.0,
+      "discount": 29,
+      "pix_price": 1570.5,
+      "installments_qty": 12,
+      "installments_amount": 167.72
     }
   ]
 }
