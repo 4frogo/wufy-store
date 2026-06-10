@@ -18,982 +18,610 @@
       line-height: 1.6;
       overflow-x: hidden;
     }
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
 
-    /* ===== FLOATING ORBS ===== */
-    .bg-orbs {
-      position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden;
+    /* ===== HEADER ===== */
+    .header {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      padding: 16px 0;
+      background: rgba(7,7,13,0.8);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(255,255,255,0.05);
     }
-    .orb {
-      position: absolute; border-radius: 50%; filter: blur(80px); opacity: 0.3;
-      animation: orbFloat 12s ease-in-out infinite alternate;
+    .header .container {
+      display: flex; align-items: center; justify-content: space-between;
     }
-    .orb:nth-child(1) {
-      width: 500px; height: 500px; background: #7c5bf0; top: -10%; left: -5%;
-      animation-duration: 14s;
+    .logo {
+      font-weight: 800; font-size: 1.25rem;
+      color: #fff; display: flex; align-items: center; gap: 10px;
+      text-decoration: none;
     }
-    .orb:nth-child(2) {
-      width: 400px; height: 400px; background: #00b8ff; bottom: -5%; right: -5%;
-      animation-duration: 17s; animation-delay: -3s;
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: linear-gradient(135deg, #7c5bf0, #00b8ff);
+      border-radius: 10px; display: flex;
+      align-items: center; justify-content: center;
+      font-size: 0.85rem; font-weight: 900;
+      color: #fff;
     }
-    .orb:nth-child(3) {
-      width: 300px; height: 300px; background: #b15bf0; top: 50%; left: 50%;
-      animation-duration: 20s; animation-delay: -6s;
-    }
-    @keyframes orbFloat {
-      0% { transform: translate(0, 0) scale(1); }
-      33% { transform: translate(60px, -40px) scale(1.1); }
-      66% { transform: translate(-30px, 50px) scale(0.9); }
-      100% { transform: translate(40px, 20px) scale(1.05); }
-    }
-
-    /* ===== HERO PARTICLES ===== */
-    .particles {
-      position: fixed; inset: 0; z-index: 0; pointer-events: none;
-    }
-    .particle {
-      position: absolute; width: 3px; height: 3px; background: rgba(255,255,255,0.3);
-      border-radius: 50%; animation: particleFloat linear infinite;
-    }
-    @keyframes particleFloat {
-      0% { transform: translateY(100vh) scale(0); opacity: 0; }
-      10% { opacity: 1; }
-      90% { opacity: 1; }
-      100% { transform: translateY(-10vh) scale(1); opacity: 0; }
-    }
-
-    .container { max-width: 1120px; margin: 0 auto; padding: 0 24px; position: relative; z-index: 1; }
-
-    /* ===== TOPBAR ===== */
-    .topbar {
-      padding: 16px 0; border-bottom: 1px solid rgba(255,255,255,0.06);
-      background: rgba(7,7,13,0.7); backdrop-filter: blur(16px);
-      position: sticky; top: 0; z-index: 100;
-    }
-    .topbar .container { display: flex; align-items: center; justify-content: space-between; }
-    .logo { font-weight: 800; font-size: 1.25rem; letter-spacing: -0.5px; color: #fff; display: flex; align-items: center; gap: 8px; }
-    .logo-icon { width: 28px; height: 28px; background: linear-gradient(135deg, #7c5bf0, #00b8ff); border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; font-size: 0.85rem; }
     .logo span { color: #7c5bf0; }
-
-    section { padding: 72px 0; }
-    .section-label {
-      display: inline-block; font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
-      letter-spacing: 2.5px; color: #7c5bf0; margin-bottom: 10px;
-      background: linear-gradient(135deg, rgba(124,91,240,0.15), rgba(0,184,255,0.08));
-      padding: 4px 16px; border-radius: 100px; border: 1px solid rgba(124,91,240,0.15);
+    .header-tagline {
+      font-size: 0.8rem; color: rgba(255,255,255,0.35);
+      display: none;
     }
-    .section-title {
-      font-size: clamp(1.6rem, 3vw, 2.4rem); font-weight: 800; color: #fff; margin-bottom: 12px;
-      background: linear-gradient(135deg, #fff 60%, #888);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    @media (min-width: 640px) {
+      .header-tagline { display: block; }
     }
-    .section-sub { color: #888; max-width: 600px; margin-bottom: 48px; font-size: 1.05rem; }
 
     /* ===== HERO ===== */
-    .hero { padding: 72px 0 40px; text-align: center; position: relative; }
+    .hero {
+      min-height: 90vh;
+      display: flex; align-items: center;
+      position: relative;
+      padding-top: 80px;
+      overflow: hidden;
+    }
     .hero::before {
-      content: ''; position: absolute; top: -120px; left: 50%; transform: translateX(-50%);
-      width: 600px; height: 600px; background: radial-gradient(circle, rgba(124,91,240,0.08), transparent 70%);
+      content: '';
+      position: absolute;
+      top: -200px; left: 50%;
+      transform: translateX(-50%);
+      width: 800px; height: 800px;
+      background: radial-gradient(circle, rgba(124,91,240,0.08), transparent 70%);
       pointer-events: none;
     }
-    .hero h1 {
-      font-size: clamp(2rem, 5vw, 3.6rem); font-weight: 900; line-height: 1.12; color: #fff; margin-bottom: 16px;
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: -100px; right: -100px;
+      width: 500px; height: 500px;
+      background: radial-gradient(circle, rgba(0,184,255,0.06), transparent 70%);
+      pointer-events: none;
     }
-    .hero h1 span {
-      background: linear-gradient(135deg, #7c5bf0, #00b8ff, #7c5bf0);
+    .hero .container { position: relative; z-index: 1; }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: rgba(124,91,240,0.12);
+      border: 1px solid rgba(124,91,240,0.2);
+      color: #b8a5ff;
+      font-size: 0.75rem; font-weight: 600;
+      padding: 6px 16px; border-radius: 100px;
+      margin-bottom: 24px;
+    }
+    .hero-badge::before {
+      content: '';
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: #10b981;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+    .hero h1 {
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      font-weight: 900; line-height: 1.1;
+      color: #fff; margin-bottom: 20px;
+    }
+    .hero h1 .gradient {
+      background: linear-gradient(135deg, #7c5bf0, #00b8ff, #b15bf0);
       background-size: 200% 200%;
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-      animation: gradShift 4s ease infinite;
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text;
+      animation: gradShift 6s ease infinite;
     }
     @keyframes gradShift { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
-    .hero p { font-size: 1.15rem; color: #999; max-width: 560px; margin: 0 auto 12px; }
-    .hero-badge {
-      display: inline-block; position: relative; overflow: hidden;
-      background: linear-gradient(135deg, #7c5bf0, #b15bf0); color: #fff; font-size: 0.75rem;
-      font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding: 7px 18px;
-      border-radius: 100px; margin-bottom: 20px; animation: pulseBadge 2s ease-in-out infinite;
+    .hero p {
+      font-size: 1.1rem; color: rgba(255,255,255,0.5);
+      max-width: 520px; margin-bottom: 32px;
     }
-    @keyframes pulseBadge { 0%,100% { box-shadow: 0 0 0 0 rgba(124,91,240,0.4); } 50% { box-shadow: 0 0 0 12px rgba(124,91,240,0); } }
+    .hero-stats {
+      display: flex; gap: 40px; flex-wrap: wrap;
+    }
+    .hero-stat h3 {
+      font-size: 1.8rem; font-weight: 800; color: #fff;
+    }
+    .hero-stat p {
+      font-size: 0.82rem; color: rgba(255,255,255,0.35);
+      margin: 0;
+    }
 
-    /* ===== PRODUCTS ===== */
+    /* ===== SECTION ===== */
+    .section { padding: 80px 0; }
+    .section-header {
+      text-align: center; margin-bottom: 48px;
+    }
+    .section-label {
+      display: inline-block;
+      font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #7c5bf0;
+      background: rgba(124,91,240,0.1);
+      padding: 4px 16px; border-radius: 100px;
+      border: 1px solid rgba(124,91,240,0.12);
+      margin-bottom: 12px;
+    }
+    .section-title {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800; color: #fff; margin-bottom: 12px;
+    }
+    .section-sub {
+      color: rgba(255,255,255,0.4);
+      max-width: 560px; margin: 0 auto;
+      font-size: 1rem;
+    }
+
+    /* ===== PRODUCT GRID ===== */
     .products-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 24px;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
     }
 
     .product-card {
       position: relative;
-      background: linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
-      border: 1px solid rgba(255,255,255,0.07);
-      border-radius: 20px; overflow: hidden;
-      transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.5s;
+      background: linear-gradient(160deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: transform 0.4s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.5s;
       display: flex; flex-direction: column;
-      opacity: 0; transform: translateY(30px);
-      will-change: transform;
-    }
-    .product-card.visible {
-      opacity: 1; transform: translateY(0);
-      transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.5s;
     }
     .product-card::before {
-      content: ''; position: absolute; inset: -2px; border-radius: 21px;
-      background: linear-gradient(135deg, rgba(124,91,240,0.2), transparent, rgba(0,184,255,0.1));
-      opacity: 0; transition: opacity 0.5s; z-index: -1;
+      content: '';
+      position: absolute; inset: -1px;
+      border-radius: 17px;
+      background: linear-gradient(135deg, rgba(124,91,240,0.15), transparent, rgba(0,184,255,0.08));
+      opacity: 0;
+      transition: opacity 0.5s;
+      pointer-events: none;
     }
     .product-card:hover::before { opacity: 1; }
     .product-card:hover {
-      transform: translateY(-6px) scale(1.01);
-      border-color: rgba(124,91,240,0.3);
-      box-shadow: 0 20px 60px rgba(124,91,240,0.12);
+      transform: translateY(-4px);
+      border-color: rgba(124,91,240,0.25);
+      box-shadow: 0 24px 60px rgba(124,91,240,0.08);
     }
 
     .product-image {
-      position: relative; aspect-ratio: 1 / 1;
-      display: flex; align-items: center; justify-content: center;
-      padding: 32px; overflow: hidden;
-      background: linear-gradient(180deg, rgba(255,255,255,0.04), transparent);
-    }
-    .product-image::after {
-      content: ''; position: absolute; inset: 0;
-      background: radial-gradient(ellipse at center, rgba(124,91,240,0.05), transparent 60%);
-      opacity: 0; transition: opacity 0.4s; pointer-events: none;
-    }
-    .product-card:hover .product-image::after { opacity: 1; }
-    .product-image img {
-      max-width: 100%; max-height: 100%; object-fit: contain;
-      transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), filter 0.4s;
-      border-radius: 8px;
-      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
-    }
-    .product-card:hover .product-image img { transform: scale(1.06) rotate(-1deg); filter: drop-shadow(0 8px 24px rgba(0,0,0,0.4)); }
-
-    /* ===== GALLERY ===== */
-    .gallery-container {
-      width: 100%; height: 100%;
-      display: flex; align-items: center; justify-content: center;
       position: relative;
+      aspect-ratio: 1 / 1;
+      display: flex; align-items: center; justify-content: center;
+      padding: 28px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.03), transparent);
     }
-    .gallery-slide {
-      display: none; width: 100%; height: 100%;
-      align-items: center; justify-content: center;
-    }
-    .gallery-slide.active { display: flex; }
-    .gallery-slide img, .gallery-slide source + img {
-      max-width: 100%; max-height: 100%; object-fit: contain;
+    .product-image img {
+      max-width: 100%; max-height: 100%;
+      object-fit: contain;
+      transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
       border-radius: 8px;
-      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
-      transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), filter 0.4s;
     }
-    .product-card:hover .gallery-slide.active img { transform: scale(1.06) rotate(-1deg); filter: drop-shadow(0 8px 24px rgba(0,0,0,0.4)); }
-    .gallery-nav {
-      position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%);
-      display: flex; align-items: center; gap: 8px; z-index: 5;
-      background: rgba(0,0,0,0.5); backdrop-filter: blur(8px);
-      padding: 3px 10px; border-radius: 100px;
+    .product-card:hover .product-image img {
+      transform: scale(1.05);
     }
-    .gallery-nav.hidden { display: none; }
-    .gallery-nav button {
-      background: none; border: none; color: #fff; font-size: 0.7rem;
-      cursor: pointer; padding: 2px 4px; opacity: 0.7; transition: opacity 0.3s;
-    }
-    .gallery-nav button:hover { opacity: 1; }
-    .gallery-counter { font-size: 0.65rem; color: rgba(255,255,255,0.8); min-width: 24px; text-align: center; }
 
-    /* ===== SPECS ===== */
-    .product-specs { margin: 8px 0 10px; }
-    .product-specs.hidden { display: none; }
-    .specs-toggle {
-      display: flex; align-items: center; justify-content: space-between;
-      font-size: 0.75rem; font-weight: 600; color: #7c5bf0;
-      cursor: pointer; padding: 4px 0; user-select: none;
-      transition: color 0.3s;
-    }
-    .specs-toggle:hover { color: #b8a5ff; }
-    .specs-arrow { font-size: 0.6rem; transition: transform 0.3s; }
-    .product-specs.open .specs-arrow { transform: rotate(180deg); }
-    .specs-list {
-      max-height: 0; overflow: hidden;
-      transition: max-height 0.3s ease, padding 0.3s ease;
-    }
-    .product-specs.open .specs-list {
-      max-height: 400px; overflow-y: auto;
-    }
-    .specs-list::-webkit-scrollbar { width: 3px; }
-    .specs-list::-webkit-scrollbar-thumb { background: rgba(124,91,240,0.3); border-radius: 3px; }
-    .spec-item {
-      display: flex; justify-content: space-between;
-      padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
-      font-size: 0.75rem; color: #999;
-    }
-    .spec-item:last-child { border-bottom: none; }
-    .spec-item .spec-name { color: #888; flex-shrink: 0; }
-    .spec-item .spec-value { color: #ccc; text-align: right; margin-left: 12px; }
-
-    .product-image .badge {
-      position: absolute; top: 16px; left: 16px; z-index: 2;
-      color: #fff; font-weight: 800; font-size: 0.8rem;
-      padding: 5px 14px; border-radius: 100px;
+    .product-badge {
+      position: absolute;
+      top: 12px; left: 12px;
+      z-index: 2;
+      font-size: 0.75rem; font-weight: 800;
+      color: #fff;
+      padding: 4px 12px;
+      border-radius: 8px;
       background: linear-gradient(135deg, #10b981, #059669);
-      animation: badgePop 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
-      box-shadow: 0 4px 12px rgba(16,185,129,0.3);
     }
-    @keyframes badgePop { 0% { transform: scale(0) rotate(-10deg); opacity: 0; } 100% { transform: scale(1) rotate(0); opacity: 1; } }
 
-    .product-body { padding: 24px 24px 28px; flex: 1; display: flex; flex-direction: column; }
-    .product-category {
-      font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.8px;
-      color: #7c5bf0; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;
-    }
-    .product-category::before {
-      content: ''; width: 4px; height: 4px; border-radius: 50%; background: #7c5bf0; display: inline-block;
+    .product-body {
+      padding: 20px 20px 24px;
+      flex: 1; display: flex; flex-direction: column;
     }
     .product-body h3 {
-      font-size: 1.05rem; font-weight: 700; color: #fff; margin-bottom: 8px; line-height: 1.35;
-      transition: color 0.3s;
+      font-size: 0.95rem; font-weight: 600;
+      color: #fff; margin-bottom: 12px;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      overflow: hidden;
     }
-    .product-card:hover .product-body h3 { color: #b8a5ff; }
-    .product-body p { font-size: 0.85rem; color: #888; margin-bottom: 16px; flex: 1; line-height: 1.6; }
 
-    .product-price { display: flex; flex-direction: column; gap: 2px; margin-bottom: 14px; }
-    .product-price .old { font-size: 0.85rem; color: #666; text-decoration: line-through; }
+    .product-price {
+      display: flex; flex-direction: column; gap: 2px;
+      margin-bottom: 12px;
+    }
+    .product-price .old {
+      font-size: 0.8rem; color: rgba(255,255,255,0.3);
+      text-decoration: line-through;
+    }
     .product-price .current {
-      font-size: 1.9rem; font-weight: 900; color: #fff; letter-spacing: -0.5px; line-height: 1.1;
+      font-size: 1.6rem; font-weight: 800;
+      color: #fff; letter-spacing: -0.5px;
+      line-height: 1.1;
     }
-    .product-price .current small { font-size: 0.85rem; font-weight: 600; color: #999; }
-    .product-price .installments { font-size: 0.82rem; color: #888; }
-    .product-price .installments strong { color: #7c5bf0; }
-    .product-price .shipping { color: #10b981; font-weight: 600; font-size: 0.82rem; margin-top: 2px; display: flex; align-items: center; gap: 4px; }
+    .product-price .current small {
+      font-size: 0.8rem; font-weight: 500;
+      color: rgba(255,255,255,0.4);
+    }
+    .product-price .installments {
+      font-size: 0.78rem; color: rgba(255,255,255,0.4);
+    }
+    .product-price .installments strong {
+      color: #7c5bf0;
+    }
 
+    .product-actions {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      margin-top: auto;
+    }
     .btn-primary {
-      background: linear-gradient(135deg, #7c5bf0, #5639c0); color: #fff; border: none;
-      padding: 14px 28px; border-radius: 12px; font-size: 0.9rem; font-weight: 700;
-      cursor: pointer; transition: transform 0.25s, box-shadow 0.25s;
-      text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 8px;
-      margin-top: auto; position: relative; overflow: hidden;
+      background: linear-gradient(135deg, #7c5bf0, #5639c0);
+      color: #fff; border: none;
+      padding: 12px 20px; border-radius: 10px;
+      font-size: 0.85rem; font-weight: 700;
+      cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none; display: flex;
+      align-items: center; justify-content: center; gap: 6px;
+      position: relative; overflow: hidden;
     }
     .btn-primary::after {
-      content: ''; position: absolute; inset: 0;
-      background: linear-gradient(135deg, rgba(255,255,255,0.1), transparent);
+      content: '';
+      position: absolute; inset: 0;
+      background: linear-gradient(135deg, rgba(255,255,255,0.08), transparent);
       opacity: 0; transition: opacity 0.3s;
     }
     .btn-primary:hover::after { opacity: 1; }
-    .btn-primary:hover { transform: translateY(-2px) scale(1.02); box-shadow: 0 8px 32px rgba(124,91,240,0.4); }
-    .btn-primary:active { transform: translateY(0) scale(0.98); }
-    .btn-primary.outline {
-      background: transparent; border: 1px solid rgba(255,255,255,0.12); color: #ccc;
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(124,91,240,0.3);
     }
-    .btn-primary.outline::after { display: none; }
-    .btn-primary.outline:hover { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.2); color: #fff; box-shadow: none; }
+    .btn-primary:active { transform: translateY(0) scale(0.98); }
 
-    /* ===== COUPONS ===== */
-    .coupons-section { position: relative; }
-    .coupons-grid {
+    .btn-coupon {
+      background: rgba(124,91,240,0.1);
+      border: 1px solid rgba(124,91,240,0.2);
+      color: #b8a5ff;
+      padding: 12px 14px; border-radius: 10px;
+      font-size: 0.85rem; font-weight: 600;
+      cursor: pointer; transition: background 0.3s, border-color 0.3s;
+      text-decoration: none; display: flex;
+      align-items: center; justify-content: center;
+    }
+    .btn-coupon:hover {
+      background: rgba(124,91,240,0.18);
+      border-color: rgba(124,91,240,0.35);
+    }
+
+    /* ===== SHOULD I BUY ===== */
+    .should-buy-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 16px;
+      gap: 20px;
     }
-    .coupon-card {
-      background: linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
-      border: 1px solid rgba(255,255,255,0.07);
-      border-radius: 16px; padding: 20px 20px 24px;
-      transition: transform 0.4s, border-color 0.4s, box-shadow 0.4s;
-      opacity: 0; transform: translateY(24px);
-      display: flex; flex-direction: column;
+    .should-buy-card {
+      background: linear-gradient(145deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px; padding: 28px 24px;
+      transition: transform 0.4s, border-color 0.4s;
+      text-align: center;
     }
-    .coupon-card.visible { opacity: 1; transform: translateY(0);
-      transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.4s;
+    .should-buy-card:hover {
+      border-color: rgba(124,91,240,0.2);
+      transform: translateY(-4px);
     }
-    .coupon-card:hover { border-color: rgba(124,91,240,0.3); transform: translateY(-4px); box-shadow: 0 12px 40px rgba(124,91,240,0.08); }
-    .coupon-card:nth-child(2).visible { transition-delay: 0.08s; }
-    .coupon-card:nth-child(3).visible { transition-delay: 0.16s; }
-    .coupon-card:nth-child(4).visible { transition-delay: 0.24s; }
-    .coupon-card:nth-child(5).visible { transition-delay: 0.32s; }
-    .coupon-card:nth-child(6).visible { transition-delay: 0.40s; }
-
-    .coupon-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
-    .coupon-discount {
-      font-size: 1.6rem; font-weight: 900; color: #fff;
-      background: linear-gradient(135deg, #7c5bf0, #b15bf0);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-      line-height: 1;
+    .should-buy-icon {
+      width: 48px; height: 48px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(124,91,240,0.15), rgba(0,184,255,0.08));
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.3rem;
+      margin: 0 auto 16px;
     }
-    .coupon-badge {
-      font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.2px;
-      padding: 3px 10px; border-radius: 100px;
-      background: rgba(16,185,129,0.2); color: #10b981; border: 1px solid rgba(16,185,129,0.2);
+    .should-buy-card h3 {
+      font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 6px;
     }
-    .coupon-code-wrap {
-      display: flex; align-items: center; gap: 8px;
-      background: rgba(255,255,255,0.04); border: 1px dashed rgba(124,91,240,0.3);
-      border-radius: 10px; padding: 8px 14px; margin: 10px 0 8px;
-      cursor: pointer; transition: border-color 0.3s, background 0.3s;
+    .should-buy-card p {
+      font-size: 0.85rem; color: rgba(255,255,255,0.4);
+      line-height: 1.6;
     }
-    .coupon-code-wrap:hover { border-color: #7c5bf0; background: rgba(124,91,240,0.08); }
-    .coupon-code {
-      font-family: 'Courier New', monospace; font-size: 1rem; font-weight: 700;
-      color: #b8a5ff; letter-spacing: 2px; user-select: all;
-    }
-    .coupon-copy {
-      margin-left: auto; font-size: 0.7rem; color: #7c5bf0; font-weight: 600;
-      background: rgba(124,91,240,0.15); padding: 3px 10px; border-radius: 6px;
-      transition: background 0.3s;
-    }
-    .coupon-code-wrap:hover .coupon-copy { background: rgba(124,91,240,0.3); }
-    .coupon-desc { font-size: 0.82rem; color: #888; line-height: 1.5; flex: 1; }
-    .coupon-validity { font-size: 0.7rem; color: #555; margin-top: 8px; display: flex; align-items: center; gap: 4px; }
-    .coupon-validity::before { content: '⏱'; }
-
-    /* ===== FEATURES ===== */
-    .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; }
-    .feature-card {
-      background: linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
-      border: 1px solid rgba(255,255,255,0.06); border-radius: 16px; padding: 28px 24px;
-      transition: transform 0.4s, border-color 0.4s, box-shadow 0.4s;
-      opacity: 0; transform: translateY(24px);
-    }
-    .feature-card.visible { opacity: 1; transform: translateY(0);
-      transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), border-color 0.4s, box-shadow 0.4s;
-    }
-    .feature-card:hover {
-      border-color: rgba(124,91,240,0.3); transform: translateY(-6px);
-      box-shadow: 0 12px 40px rgba(124,91,240,0.08);
-    }
-    .feature-card:nth-child(2).visible { transition-delay: 0.1s; }
-    .feature-card:nth-child(3).visible { transition-delay: 0.2s; }
-    .feature-card:nth-child(4).visible { transition-delay: 0.3s; }
-
-    .feature-icon {
-      width: 48px; height: 48px; border-radius: 14px;
-      background: linear-gradient(135deg, rgba(124,91,240,0.2), rgba(0,184,255,0.1));
-      display: flex; align-items: center; justify-content: center; font-size: 1.4rem;
-      margin-bottom: 16px; transition: transform 0.4s;
-    }
-    .feature-card:hover .feature-icon { transform: scale(1.1) rotate(-4deg); }
-    .feature-card h3 { font-size: 1.05rem; font-weight: 700; color: #fff; margin-bottom: 6px; }
-    .feature-card p { font-size: 0.88rem; color: #888; line-height: 1.6; }
-
-    /* ===== CTA ===== */
-    .cta-section {
-      text-align: center; position: relative; overflow: hidden;
-      background: linear-gradient(145deg, rgba(124,91,240,0.08), transparent);
-      border-radius: 24px; padding: 56px 32px; border: 1px solid rgba(124,91,240,0.12);
-    }
-    .cta-section::before {
-      content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
-      background: conic-gradient(from 0deg, transparent, rgba(124,91,240,0.03), transparent, rgba(0,184,255,0.02), transparent);
-      animation: ctaSpin 12s linear infinite; pointer-events: none;
-    }
-    @keyframes ctaSpin { 100% { transform: rotate(360deg); } }
-    .cta-section h2 {
-      font-size: clamp(1.5rem, 3vw, 2.2rem); font-weight: 800; color: #fff; margin-bottom: 12px; position: relative;
-    }
-    .cta-section p { color: #999; max-width: 500px; margin: 0 auto 28px; position: relative; }
-    .cta-buttons { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; position: relative; }
 
     /* ===== FOOTER ===== */
-    footer { border-top: 1px solid rgba(255,255,255,0.05); padding: 32px 0; text-align: center; color: #444; font-size: 0.8rem; }
-    footer a { color: #7c5bf0; text-decoration: none; transition: color 0.3s; }
-    footer a:hover { color: #b8a5ff; }
-    footer .links { display: flex; flex-wrap: wrap; gap: 4px 16px; justify-content: center; margin-top: 8px; }
-    footer .links a { position: relative; }
-    footer .links a:not(:last-child)::after { content: '·'; color: #444; margin-left: 16px; }
+    .footer {
+      border-top: 1px solid rgba(255,255,255,0.05);
+      padding: 40px 0 32px;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 40px;
+      margin-bottom: 32px;
+    }
+    .footer h4 {
+      font-size: 0.9rem; font-weight: 700; color: #fff;
+      margin-bottom: 12px;
+    }
+    .footer p {
+      font-size: 0.82rem; color: rgba(255,255,255,0.3);
+      line-height: 1.7;
+    }
+    .footer-links {
+      display: flex; flex-direction: column; gap: 6px;
+    }
+    .footer-links a {
+      color: rgba(255,255,255,0.35);
+      text-decoration: none;
+      font-size: 0.82rem;
+      transition: color 0.3s;
+    }
+    .footer-links a:hover { color: #7c5bf0; }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.04);
+      padding-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap; gap: 8px;
+    }
+    .footer-bottom p {
+      font-size: 0.75rem; color: rgba(255,255,255,0.2);
+    }
 
-    /* ===== RESPONSIVE ===== */
+    /* ===== SCROLL ANIMATIONS ===== */
+    .reveal {
+      opacity: 0;
+      transform: translateY(24px);
+      transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* ===== SKELETON LOADING ===== */
+    .skeleton {
+      background: linear-gradient(90deg, rgba(255,255,255,0.04) 25%, rgba(255,255,255,0.08) 50%, rgba(255,255,255,0.04) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s ease-in-out infinite;
+      border-radius: 8px;
+    }
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+    .skeleton-card {
+      background: linear-gradient(160deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px; overflow: hidden;
+      aspect-ratio: 1 / 1.2;
+    }
+    .skeleton-img {
+      aspect-ratio: 1; width: 100%;
+      border-radius: 0;
+    }
+    .skeleton-body { padding: 20px; display: flex; flex-direction: column; gap: 10px; }
+    .skeleton-line { height: 14px; width: 100%; }
+    .skeleton-line.short { width: 60%; }
+    .skeleton-line.medium { width: 80%; }
+
     @media (max-width: 640px) {
-      .hero { padding: 48px 0 20px; }
+      .hero { min-height: 70vh; }
+      .hero-stats { gap: 24px; }
       .products-grid { grid-template-columns: 1fr; }
-      .product-price .current { font-size: 1.6rem; }
-      .cta-section { padding: 40px 20px; }
-      section { padding: 48px 0; }
+      .footer-grid { grid-template-columns: 1fr; gap: 24px; }
+      .section { padding: 48px 0; }
     }
     @media (min-width: 641px) and (max-width: 1023px) {
       .products-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    .loading-text {
+      text-align: center;
+      padding: 80px 0;
+      color: rgba(255,255,255,0.3);
+      font-size: 0.9rem;
+    }
+    .error-text {
+      text-align: center;
+      padding: 80px 0;
+      color: rgba(239,68,68,0.6);
+      font-size: 0.9rem;
     }
   </style>
 </head>
 <body>
 
-  <div class="bg-orbs">
-    <div class="orb"></div>
-    <div class="orb"></div>
-    <div class="orb"></div>
+<header class="header">
+  <div class="container">
+    <a href="/" class="logo">
+      <span class="logo-icon">W</span>
+      Wufy<span>Store</span>
+    </a>
+    <span class="header-tagline">Especialista em Vendas Online</span>
   </div>
+</header>
 
-  <div class="particles" id="particles"></div>
-
-  <header class="topbar">
-    <div class="container">
-      <div class="logo">
-        <span class="logo-icon">W</span>
-        Wufy<span>Store</span>
+<section class="hero">
+  <div class="container">
+    <div class="hero-badge">Ofertas verificadas</div>
+    <h1>Os melhores produtos<br/>com <span class="gradient">preços imperdíveis</span></h1>
+    <p>Selecionamos os produtos mais vendidos do Mercado Livre com os melhores descontos para você.</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <h3 id="productCount">0</h3>
+        <p>Produtos em oferta</p>
       </div>
-      <span style="font-size:0.78rem;color:#555;">Especialista em Vendas Online</span>
-    </div>
-  </header>
-
-  <section class="hero">
-    <div class="container">
-      <span class="hero-badge">Escolha sua oferta</span>
-      <h1><span>Ofertas imperdíveis</span><br />selecionadas para você</h1>
-      <p>Os produtos mais vendidos com preços especiais. Frete grátis e descontos exclusivos.</p>
-    </div>
-  </section>
-
-  <section style="padding-top:0;">
-    <div class="container">
-      <div class="products-grid">
-
-        <div class="product-card" data-search="Projetor HY320 Davely Smart TV Android" data-ml-product-id="MLB48959123" data-ml-item-id="MLB4510325461">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#10b981,#059669);">30% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_747790-MLA99938308215_112025-OO.webp" type="image/webp" />
-                <img src="https://http2.mlstatic.com/D_NQ_NP_747790-MLA99938308215_112025-OO.png" alt="Projetor HY320 Davely" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Eletrônicos</div>
-            <h3>Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens 4K</h3>
-            <p>Transforme sua sala em um cinema. Smart TV Android, WiFi 6, 390 ANSI Lumens, suporte 4K e tela de até 200".</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 299,90</span>
-              <span class="current">R$ 209,90 <small>à vista</small></span>
-              <span class="installments">ou <strong>12x de R$ 20,78</strong> sem juros</span>
-              <span class="shipping">Frete Grátis</span>
-            </div>
-            <a href="https://meli.la/1yBfiUy" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
-        <div class="product-card" data-search="Whey Protein Concentrado 1kg Chocolate Dark Lab">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">62% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <img src="https://product-data.raiadrogasil.io/images/11258616.webp" alt="Whey Protein Dark Lab" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Suplementos</div>
-            <h3>Whey Protein Concentrado 1kg Chocolate Dark Lab</h3>
-            <p>Proteína 100% pura, 32g por porção. Alta biodisponibilidade para ganho de massa muscular e recuperação pós-treino.</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 349,90</span>
-              <span class="current">R$ 129,90 <small>à vista</small></span>
-              <span class="installments">ou <strong>12x de R$ 12,85</strong> sem juros</span>
-              <span class="shipping">Frete Grátis + Cupom R$20 OFF</span>
-            </div>
-            <a href="https://meli.la/2LMdTFf" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
-        <div class="product-card" data-search="Lavadora Lava Jato Portátil Pressão 2 Baterias MyMotors">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#ef4444,#dc2626);">57% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_710675-MLB89102120983_082025-OO.webp" type="image/webp" />
-                <img src="https://http2.mlstatic.com/D_NQ_NP_710675-MLB89102120983_082025-OO.png" alt="Lavadora Lava Jato Portátil" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Ferramentas</div>
-            <h3>Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta MyMotors</h3>
-            <p>Lavadora de alta pressão recarregável, 2 baterias, bivolt. Ideal para carros, motos, quintal e janelas. Potente e prática.</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 229,90</span>
-              <span class="current">R$ 96,72 <small>no Pix</small></span>
-              <span class="installments">ou <strong>R$ 120,90</strong> em outros meios</span>
-              <span class="shipping">Frete Grátis</span>
-            </div>
-            <a href="https://meli.la/19ErgKc" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
-        <div class="product-card" data-search="Whey Pro Max Titanium Concentrado 1kg">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#f59e0b,#d97706);">52% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <img src="https://product-data.raiadrogasil.io/images/3515029.webp" alt="Whey Pro Max Titanium" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Suplementos</div>
-            <h3>Whey Pro Max Titanium Concentrado Pote 1kg Chocolate</h3>
-            <p>15g de proteína por dose. Ideal para ganho de massa muscular e recuperação pós-treino. Sabor incrível.</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 149,90</span>
-              <span class="current">R$ 70,90 <small>à vista</small></span>
-              <span class="installments">ou <strong>12x de R$ 7,02</strong> sem juros</span>
-              <span class="shipping">Frete Grátis</span>
-            </div>
-            <a href="https://meli.la/25unFmR" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
-        <div class="product-card" data-search="Bota Bull Terrier Bruce Masculina Couro">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#3b82f6,#2563eb);">39% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <img src="https://api.lojadodesconto.com.br/wp-content/uploads/2026/05/bota-bull-terrier-bruce-masculina-original-couro-r-8395.jpg" alt="Bota Bull Terrier Bruce" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Calçados</div>
-            <h3>Bota Bull Terrier Bruce Masculina Original Couro Resistente</h3>
-            <p>Couro legítimo de alta resistência. Ideal para trilha, trabalho e dia a dia. Solado tratorado e palmilha anatômica.</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 429,00</span>
-              <span class="current">R$ 260,20 <small>no Pix</small></span>
-              <span class="installments">ou <strong>R$ 273,90</strong> em outros meios</span>
-              <span class="shipping">Frete Grátis</span>
-            </div>
-            <a href="https://meli.la/1RuihHY" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
-        <div class="product-card" data-search="Smart TV AOC 50 4K DLED 50U7045" data-ml-product-id="MLB51202548">
-          <div class="product-image">
-            <div class="gallery-nav hidden">
-              <button class="gallery-prev">&#10094;</button>
-              <div class="gallery-counter">1/1</div>
-              <button class="gallery-next">&#10095;</button>
-            </div>
-            <span class="badge" style="background:linear-gradient(135deg,#8b5cf6,#6d28d9);">40% OFF</span>
-            <div class="gallery-container">
-              <picture class="gallery-slide active">
-                <source srcset="https://http2.mlstatic.com/D_NQ_NP_2X_648316-MLA99473453820_112025-OO.webp" type="image/webp" />
-                <img src="https://http2.mlstatic.com/D_NQ_NP_648316-MLA99473453820_112025-OO.png" alt="Smart TV AOC 50 4K" loading="lazy" />
-              </picture>
-            </div>
-          </div>
-          <div class="product-body">
-            <div class="product-category">Eletrônicos</div>
-            <h3>Smart TV 50 AOC 4K DLED 50U7045/78G Roku TV Quad</h3>
-            <p>TV 50" 4K DLED com sistema Roku TV, acesso a Netflix, Disney+, Apple TV e mais. Wi-Fi integrado, portas USB e HDMI.</p>
-            <div class="product-specs hidden">
-              <div class="specs-toggle" onclick="this.parentElement.classList.toggle('open')">
-                <span>Especificações</span>
-                <span class="specs-arrow">&#9660;</span>
-              </div>
-              <div class="specs-list"></div>
-            </div>
-            <div class="product-price">
-              <span class="old">De R$ 2.999,00</span>
-              <span class="current">R$ 1.772,00 <small>no Pix</small></span>
-              <span class="installments">ou <strong>10x de R$ 196,90</strong> sem juros</span>
-              <span class="shipping">Frete Grátis</span>
-            </div>
-            <a href="https://meli.la/2u6hu7K" target="_blank" rel="noopener noreferrer" class="btn-primary">Comprar no Mercado Livre</a>
-          </div>
-        </div>
-
+      <div class="hero-stat">
+        <h3>Frete Grátis</h3>
+        <p>Em todos os produtos</p>
+      </div>
+      <div class="hero-stat">
+        <h3>Até 12x</h3>
+        <p>Sem juros no cartão</p>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <section class="coupons-section">
-    <div class="container">
-      <div style="text-align:center;">
-        <span class="section-label">Cupons Ativos</span>
-        <h2 class="section-title">Economize ainda mais</h2>
-        <p class="section-sub" style="margin:0 auto 48px;">Cupons válidos do Mercado Livre. Clique no código para copiar.</p>
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Produtos</span>
+      <h2 class="section-title">Ofertas selecionadas</h2>
+      <p class="section-sub">Preços atualizados automaticamente. Clique para comprar com segurança.</p>
+    </div>
+    <div id="productsGrid" class="products-grid">
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton-body"><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line short"></div><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line medium"></div></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton-body"><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line short"></div><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line medium"></div></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton-body"><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line short"></div><div class="skeleton skeleton-line"></div><div class="skeleton skeleton-line medium"></div></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Por que comprar</span>
+      <h2 class="section-title">Vale a pena?</h2>
+      <p class="section-sub">Trabalhamos apenas com lojas verificadas e produtos com as melhores avaliações.</p>
+    </div>
+    <div class="should-buy-grid">
+      <div class="should-buy-card reveal">
+        <div class="should-buy-icon">🛡️</div>
+        <h3>Compra 100% Segura</h3>
+        <p>Plataforma protegida com garantia de devolução. Seu dinheiro de volta se o produto não chegar.</p>
       </div>
-      <div class="coupons-grid" id="couponsGrid">
-
-        <div class="coupon-card" data-coupon-id="0">
-          <div class="coupon-header">
-            <span class="coupon-discount">até R$300 OFF</span>
-            <span class="coupon-badge">Verificado</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">CORREPRAPROMO</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">Aplicável para itens da seleção. Limite de R$300 de desconto.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
-        <div class="coupon-card" data-coupon-id="1">
-          <div class="coupon-header">
-            <span class="coupon-discount">15% OFF</span>
-            <span class="coupon-badge">Moda</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">MODAMELI</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">15% OFF em compras a partir de R$49. Limitado a R$60 de desconto. Válido para moda.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
-        <div class="coupon-card" data-coupon-id="2">
-          <div class="coupon-header">
-            <span class="coupon-discount">12% OFF</span>
-            <span class="coupon-badge">Geral</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">CUPONSMELI</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">12% OFF em compras a partir de R$49. Limitado a R$60 de desconto. Válido em diversas categorias.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
-        <div class="coupon-card" data-coupon-id="3">
-          <div class="coupon-header">
-            <span class="coupon-discount">15% OFF</span>
-            <span class="coupon-badge">Casa</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">CUPOMPRACASA</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">15% OFF em Casa e Decoração. Compras a partir de R$79, limitado a R$60 de desconto.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
-        <div class="coupon-card" data-coupon-id="4">
-          <div class="coupon-header">
-            <span class="coupon-discount">8% OFF</span>
-            <span class="coupon-badge">Geral</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">OFERTASHOJE</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">8% OFF em compras acima de R$79 em diversos itens. Desconto máximo limitado a R$150.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
-        <div class="coupon-card" data-coupon-id="5">
-          <div class="coupon-header">
-            <span class="coupon-discount">20% OFF</span>
-            <span class="coupon-badge">Acessórios</span>
-          </div>
-          <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-            <span class="coupon-code">PROMOML</span>
-            <span class="coupon-copy">Copiar</span>
-          </div>
-          <p class="coupon-desc">20% OFF em relógios, bolsas e mochilas da seleção. Compras acima de R$99, limite R$80.</p>
-          <span class="coupon-validity">Válido até nova promoção</span>
-        </div>
-
+      <div class="should-buy-card reveal">
+        <div class="should-buy-icon">🚚</div>
+        <h3>Frete Grátis</h3>
+        <p>Todos os produtos com frete grátis para todo o Brasil. Entrega rápida e segura.</p>
+      </div>
+      <div class="should-buy-card reveal">
+        <div class="should-buy-icon">💳</div>
+        <h3>Parcele em Até 12x</h3>
+        <p>Compre no cartão de crédito com parcelamento sem juros. Condições especiais.</p>
+      </div>
+      <div class="should-buy-card reveal">
+        <div class="should-buy-icon">⭐</div>
+        <h3>Produtos Premium</h3>
+        <p>Itens mais vendidos e bem avaliados por milhares de clientes em todo o Brasil.</p>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <section>
-    <div class="container">
-      <div style="text-align:center;">
-        <span class="section-label">Diferenciais</span>
-        <h2 class="section-title">Por que comprar conosco</h2>
-        <p class="section-sub" style="margin:0 auto 48px;">Trabalhamos com os melhores produtos e lojas verificadas para sua segurança.</p>
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>Wufy Store</h4>
+        <p>Site de afiliados especializado em curadoria de produtos. Trabalhamos com os melhores sellers do Mercado Livre para oferecer as melhores ofertas.</p>
       </div>
-
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon">🛡️</div>
-          <h3>Compra Segura</h3>
-          <p>Plataforma 100% segura com proteção ao comprador. Seu dinheiro garantido até o produto chegar.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">🚚</div>
-          <h3>Frete Grátis</h3>
-          <p>Todos os produtos com frete grátis para todo o Brasil. Receba sem custo adicional.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">💳</div>
-          <h3>Parcele no Cartão</h3>
-          <p>Parcele suas compras em até 12x sem juros. Condições especiais para todos os bolsos.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">⭐</div>
-          <h3>Produtos Premiados</h3>
-          <p>Itens mais vendidos e bem avaliados. Milhares de clientes satisfeitos em todo o Brasil.</p>
+      <div>
+        <h4>Links</h4>
+        <div class="footer-links" id="footerLinks">
+          <span style="font-size:0.82rem;color:rgba(255,255,255,0.2);">Carregando...</span>
         </div>
       </div>
     </div>
-  </section>
-
-
-
-  <footer>
-    <div class="container">
-      <p>Este site é um site de afiliados. Os preços e a disponibilidade estão sujeitos a alterações.</p>
-      <div class="links">
-        <a href="https://meli.la/1yBfiUy" target="_blank">Projetor HY320</a>
-        <a href="https://meli.la/2LMdTFf" target="_blank">Whey Dark Lab</a>
-        <a href="https://meli.la/19ErgKc" target="_blank">Lava Jato</a>
-        <a href="https://meli.la/25unFmR" target="_blank">Whey Max Titanium</a>
-        <a href="https://meli.la/1RuihHY" target="_blank">Bota Bull Terrier</a>
-        <a href="https://meli.la/2u6hu7K" target="_blank">TV AOC 50" 4K</a>
-      </div>
-      <p style="margin-top:12px;">Wufy Store &copy; 2026</p>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Wufy Store. Todos os direitos reservados.</p>
+      <p>Preços e disponibilidade sujeitos a alterações.</p>
     </div>
-  </footer>
+  </div>
+</footer>
 
-  <script>
-    // Particles
-    (function() {
-      const container = document.getElementById('particles');
-      for (let i = 0; i < 30; i++) {
-        const p = document.createElement('div');
-        p.className = 'particle';
-        p.style.left = Math.random() * 100 + '%';
-        p.style.animationDelay = Math.random() * 20 + 's';
-        p.style.animationDuration = (15 + Math.random() * 20) + 's';
-        p.style.width = p.style.height = (1 + Math.random() * 3) + 'px';
-        container.appendChild(p);
-      }
-    })();
+<script>
+// Card template function
+function createProductCard(prod, index) {
+  const badge = prod.discount > 0 ? `<span class="product-badge">${prod.discount}% OFF</span>` : '';
+  const oldPrice = prod.original_price && prod.original_price !== prod.price
+    ? `<span class="old">De R$ ${prod.original_price.toFixed(2).replace('.', ',')}</span>`
+    : '';
+  const installments = prod.installments_qty > 0
+    ? `<span class="installments">ou <strong>${prod.installments_qty}x de R$ ${prod.installments_amount.toFixed(2).replace('.', ',')}</strong> sem juros</span>`
+    : '';
+  const image = prod.image || 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="none"><rect width="200" height="200" fill="%23181818"/><text x="100" y="100" text-anchor="middle" fill="%23444" font-size="14">Sem imagem</text></svg>';
 
-    // Scroll Reveal
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-        }
-      });
-    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  return `
+    <div class="product-card reveal" style="transition-delay:${index * 0.06}s">
+      <div class="product-image">
+        ${badge}
+        <img src="${image}" alt="${prod.title.replace(/"/g, '&quot;')}" loading="lazy" />
+      </div>
+      <div class="product-body">
+        <h3>${prod.title}</h3>
+        <div class="product-price">
+          ${oldPrice}
+          <span class="current">R$ ${prod.pix_price.toFixed(2).replace('.', ',')} <small>no Pix</small></span>
+          ${installments}
+        </div>
+        <div class="product-actions">
+          <a href="${prod.link}" target="_blank" rel="noopener noreferrer" class="btn-primary">
+            Comprar no ML
+          </a>
+          ${prod.mlItemId ? `<a href="https://www.mercadolivre.com.br/landing/gshops/cupom-desconto#coupon_id=${prod.mlItemId}" target="_blank" rel="noopener noreferrer" class="btn-coupon">Cupom</a>` : ''}
+        </div>
+      </div>
+    </div>
+  `;
+}
 
-    // Gallery
-    function galleryInit(card) {
-      const container = card.querySelector('.gallery-container');
-      const slides = container?.querySelectorAll('.gallery-slide');
-      const prev = card.querySelector('.gallery-prev');
-      const next = card.querySelector('.gallery-next');
-      const counter = card.querySelector('.gallery-counter');
-      const nav = card.querySelector('.gallery-nav');
-      if (!slides?.length || slides.length < 2) { nav?.classList.add('hidden'); return; }
-      nav?.classList.remove('hidden');
-      let idx = 0;
-      function show(i) {
-        slides.forEach(s => s.classList.remove('active'));
-        idx = (i + slides.length) % slides.length;
-        slides[idx].classList.add('active');
-        if (counter) counter.textContent = `${idx + 1}/${slides.length}`;
-      }
-      prev?.addEventListener('click', e => { e.stopPropagation(); show(idx - 1); });
-      next?.addEventListener('click', e => { e.stopPropagation(); show(idx + 1); });
+async function loadProducts() {
+  const grid = document.getElementById('productsGrid');
+  const countEl = document.getElementById('productCount');
+
+  try {
+    const res = await fetch('/produtos.json?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    const products = data.products || [];
+
+    if (products.length === 0) {
+      grid.innerHTML = '<div class="error-text">Nenhum produto encontrado.</div>';
+      return;
     }
 
-    // ML API: busca dados do produto com fallback CORS proxy
-    const CORS_PROXIES = [
-      u => u,
-      u => `https://corsproxy.io/?url=${encodeURIComponent(u)}`,
-      u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
-    ];
+    countEl.textContent = products.length;
 
-    async function mlFetch(url) {
-      for (const proxy of CORS_PROXIES) {
-        try {
-          const ctrl = new AbortController();
-          const tid = setTimeout(() => ctrl.abort(), 8000);
-          const res = await fetch(proxy(url), { signal: ctrl.signal });
-          clearTimeout(tid);
-          if (res.ok) return await res.json();
-        } catch (_) {}
-      }
-      return null;
+    // Sort by discount descending
+    products.sort((a, b) => (b.discount || 0) - (a.discount || 0));
+
+    grid.innerHTML = products.map((p, i) => createProductCard(p, i)).join('');
+
+    // Observe new cards for scroll animations
+    document.querySelectorAll('.product-card.reveal').forEach(el => observer.observe(el));
+
+    // Update footer links
+    const footerLinks = document.getElementById('footerLinks');
+    footerLinks.innerHTML = products.slice(0, 6).map(p =>
+      `<a href="${p.link}" target="_blank">${p.title.substring(0, 30)}...</a>`
+    ).join('');
+
+  } catch (e) {
+    grid.innerHTML = '<div class="error-text">Erro ao carregar produtos.</div>';
+    console.warn('Failed to load produtos.json', e);
+  }
+}
+
+// Scroll reveal observer
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target);
     }
+  });
+}, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
 
-    // Carrega precos do prices.json (gerado pelo bot) + busca galeria/specs da API
-    async function applyPricesFromCache() {
-      try {
-        const res = await fetch('/prices.json?_=' + Date.now());
-        if (!res.ok) return false;
-        const data = await res.json();
-        if (!data.prices) return false;
-        const cards = document.querySelectorAll('.product-card[data-search]');
-        data.prices.forEach(p => {
-          const card = Array.from(cards).find(c => c.dataset.search === p.search);
-          if (!card) return;
-          const badge = card.querySelector('.badge');
-          const oldEl = card.querySelector('.old');
-          const currentEl = card.querySelector('.current');
-          const installmentsEl = card.querySelector('.installments');
-          if (badge && p.discount > 0) badge.textContent = `${p.discount}% OFF`;
-          if (oldEl && p.original_price !== p.price)
-            oldEl.textContent = `De R$ ${p.original_price.toFixed(2).replace('.', ',')}`;
-          if (currentEl)
-            currentEl.innerHTML = `R$ ${p.pix_price.toFixed(2).replace('.', ',')} <small>no Pix</small>`;
-          if (installmentsEl && p.installments_qty)
-            installmentsEl.textContent = `ou ${p.installments_qty}x de R$ ${p.installments_amount.toFixed(2).replace('.', ',')} sem juros`;
-        });
-        return true;
-      } catch (_) { return false; }
-    }
+// Observe static elements
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-    async function updateProductDetails() {
-      await applyPricesFromCache();
-      const cards = document.querySelectorAll('.product-card[data-search]');
-      for (const card of cards) {
-        const query = card.dataset.search;
-        if (!query) continue;
-        try {
-          const data = await mlFetch(`https://api.mercadolibre.com/sites/MLB/search?q=${encodeURIComponent(query)}&limit=1`);
-          if (!data) continue;
-          const item = data.results?.[0];
-          if (!item) continue;
+document.addEventListener('DOMContentLoaded', () => {
+  loadProducts();
+});
+</script>
 
-          // Gallery
-          const pictures = item.pictures || [];
-          if (pictures.length > 1) {
-            const container = card.querySelector('.gallery-container');
-            if (container) {
-              container.innerHTML = pictures.map((p, i) => {
-                const url = p.secure_url || p.url || p;
-                return `<picture class="gallery-slide${i === 0 ? ' active' : ''}">
-                  <img src="${typeof url === 'string' ? url : url}" alt="" loading="lazy" />
-                </picture>`;
-              }).join('');
-              galleryInit(card);
-            }
-          }
-
-          // Specs
-          const attributes = item.attributes || [];
-          if (attributes.length) {
-            const specsEl = card.querySelector('.product-specs');
-            const listEl = card.querySelector('.specs-list');
-            if (specsEl && listEl) {
-              specsEl.classList.remove('hidden');
-              const relevant = ['BRAND', 'MODEL', 'LINE', 'COLOR', 'WEIGHT', 'HEIGHT', 'WIDTH', 'DEPTH',
-                'SCREEN_SIZE', 'RESOLUTION', 'CONNECTIVITY', 'WITH_WIFI', 'WITH_BLUETOOTH',
-                'STORAGE_TYPE', 'RAM', 'PROCESSOR', 'OPERATING_SYSTEM', 'POWER'];
-              const specs = attributes.filter(a => a.value_name && relevant.includes(a.id));
-              const other = attributes.filter(a => a.value_name && !relevant.includes(a.id) && a.id.length < 10);
-              const allSpecs = [...specs, ...other].slice(0, 15);
-              if (allSpecs.length) {
-                listEl.innerHTML = allSpecs.map(s =>
-                  `<div class="spec-item"><span class="spec-name">${s.name}</span><span class="spec-value">${s.value_name}</span></div>`
-                ).join('');
-              }
-            }
-          }
-        } catch (e) {
-          console.warn('ML fetch error for:', query, e);
-        }
-      }
-    }
-
-    function copyCoupon(el) {
-      const code = el.querySelector('.coupon-code').textContent;
-      navigator.clipboard.writeText(code).then(() => {
-        const btn = el.querySelector('.coupon-copy');
-        const orig = btn.textContent;
-        btn.textContent = 'Copiado!';
-        btn.style.background = 'rgba(16,185,129,0.3)';
-        btn.style.color = '#10b981';
-        setTimeout(() => { btn.textContent = orig; btn.style.background = ''; btn.style.color = ''; }, 2000);
-      }).catch(() => {
-        const range = document.createRange();
-        range.selectNode(el.querySelector('.coupon-code'));
-        window.getSelection().removeAllRanges();
-        window.getSelection().addRange(range);
-      });
-    }
-
-    async function updateCoupons() {
-      try {
-        const res = await fetch('/coupons.json?_=' + Date.now());
-        if (!res.ok) return;
-        const remote = await res.json();
-        const grid = document.getElementById('couponsGrid');
-        if (!grid || !remote.coupons) return;
-        grid.innerHTML = remote.coupons.map((c, i) => `
-          <div class="coupon-card" style="transition-delay:${i * 0.08}s">
-            <div class="coupon-header">
-              <span class="coupon-discount">${c.discount}</span>
-              <span class="coupon-badge">${c.badge || 'Verificado'}</span>
-            </div>
-            <div class="coupon-code-wrap" onclick="copyCoupon(this)">
-              <span class="coupon-code">${c.code}</span>
-              <span class="coupon-copy">Copiar</span>
-            </div>
-            <p class="coupon-desc">${c.description}</p>
-            <span class="coupon-validity">${c.validity || 'Válido até nova promoção'}</span>
-          </div>
-        `).join('');
-        grid.querySelectorAll('.coupon-card').forEach(el => observer.observe(el));
-      } catch (e) { /* keep static coupons */ }
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-      document.querySelectorAll('.product-card, .feature-card, .coupon-card').forEach(el => observer.observe(el));
-      document.querySelectorAll('.product-card').forEach(galleryInit);
-      updateProductDetails();
-      updateCoupons();
-    });
-  </script>
 </body>
 </html>

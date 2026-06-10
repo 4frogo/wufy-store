@@ -27,5 +27,5 @@ jobs:
         run: |
           git config user.name "Wufy Bot"
           git config user.email "bot@wufy.store"
-          git add prices.json
+          git add prices.json produtos.json
           git diff --staged --quiet || (git commit -m "Atualiza precos $(date +%d/%m/%Y-%H:%M)" && git push)
