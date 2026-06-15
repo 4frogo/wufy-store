@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T18:24:51.418998+00:00",
+  "updated": "2026-06-15T22:15:58.430778+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -32,16 +32,6 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 255.45,
@@ -62,24 +52,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 76.99,
-      "original_price": 109.9,
-      "discount": 30,
-      "pix_price": 69.29,
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1815.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1633.5,
-      "installments_qty": 10,
-      "installments_amount": 181.51
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 73.23,
+      "original_price": 109.9,
+      "discount": 33,
+      "pix_price": 65.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v Preto 127/220v",
@@ -110,16 +100,6 @@
       "pix_price": 211.41,
       "installments_qty": 12,
       "installments_amount": 23.25
-    },
-    {
-      "search": "Smart Tv Led 32 Hd Aoc 32s5045 Roku Tv",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1462.0,
-      "original_price": 1718.0,
-      "discount": 15,
-      "pix_price": 1315.8,
-      "installments_qty": 10,
-      "installments_amount": 146.3
     }
   ]
 }
