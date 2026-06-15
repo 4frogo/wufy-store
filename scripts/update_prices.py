@@ -82,11 +82,15 @@ def extract_ml_ids(url):
     return ml_product_id, ml_item_id
 
 
-def scrape_real_product(page, product_url):
+def scrape_product_price(page, url, max_wait=3):
+    """Visita a pagina do produto e extrai o preco real.
+    Retorna dict com price, original_price, installments ou None se bloqueado."""
     try:
-        page.goto(product_url, wait_until="domcontentloaded", timeout=25000)
-        time.sleep(4)
-        if "seguridad" in page.title().lower():
+        page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        page.wait_for_timeout(max_wait * 1000)
+
+        body = page.inner_text("body")
+        if "seguran" in body.lower():
             return None
 
         prices = page.evaluate("""
@@ -137,12 +141,29 @@ def scrape_real_product(page, product_url):
         return None
 
 
+def make_product_url(prod):
+    """Tenta construir uma URL de pagina de produto a partir dos dados disponiveis."""
+    # Se ja tem uma URL /p/MLB, usa ela
+    url = prod.get("productUrl", "")
+    if "/p/MLB" in url:
+        return url.split("?")[0]
+    # Se tem mlProductId, constroi URL limpa
+    if prod.get("mlProductId"):
+        return f"https://www.mercadolivre.com.br/p/{prod['mlProductId']}"
+    # Se tem mlItemId e parece uma listing page, tenta
+    if prod.get("mlItemId") and prod["mlItemId"].startswith("MLB"):
+        return f"https://produto.mercadolivre.com.br/MLB-{prod['mlItemId'][3:]}-_JM"
+    return url.split("?")[0] if url else ""
+
+
 def main():
     with sync_playwright() as p:
         browser = p.chromium.launch(
             headless=True,
             args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-blink-features=AutomationControlled"],
         )
+
+        # -- PASSO 1: Desktop context para descobrir produtos dos cards --
         context = browser.new_context(
             viewport={"width": 1920, "height": 1080}, locale="pt-BR",
             timezone_id="America/Sao_Paulo",
@@ -156,18 +177,17 @@ def main():
         seen_urls = set()
         all_products = []
 
-        # Primeiro visita um link conhecido pra setar cookies
         page.goto(PRODUCTS[0]["link"], wait_until="domcontentloaded", timeout=30000)
-        time.sleep(2)
+        time.sleep(1.5)
         page.wait_for_selector("[class*='poly-card']", timeout=15000)
 
         for prod in PRODUCTS:
             try:
                 page.goto(prod["link"], wait_until="domcontentloaded", timeout=30000)
                 page.wait_for_selector("[class*='poly-card']", timeout=15000)
-                time.sleep(2)
+                time.sleep(1.5)
             except:
-                print(f"  AVISO: {prod['search'][:40]}... sem polly-card")
+                print(f"  AVISO: {prod['search'][:40]}... sem cards")
                 continue
 
             found = page.evaluate("""
@@ -192,7 +212,6 @@ def main():
                 }
             """)
 
-            # Pega so os primeiros 5 cards (mais relevantes)
             for card in found[:5]:
                 url_key = card.get("href", "").split("?")[0]
                 if not url_key or url_key in seen_urls:
@@ -209,10 +228,10 @@ def main():
                     "link": prod["link"],
                     "productUrl": card.get("href", ""),
                     "image": card.get("image", ""),
-                    "price": prices["price"],
-                    "original_price": prices["original_price"],
-                    "installments_qty": prices["installments_qty"],
-                    "installments_amount": prices["installments_amount"],
+                    "price_card": prices["price"],
+                    "original_price_card": prices["original_price"],
+                    "installments_qty_card": prices["installments_qty"],
+                    "installments_amount_card": prices["installments_amount"],
                     "mlProductId": ml_product_id,
                     "mlItemId": ml_item_id,
                 })
@@ -221,21 +240,115 @@ def main():
 
         page.close()
         context.close()
+
+        if not all_products:
+            print("Nenhum produto encontrado!")
+            return
+
+        # -- PASSO 2: Scraping das paginas reais dos produtos --
+        # Usa um context fresh (mobile-like evita mais captchas)
+        print(f"\n>>> Scraping precos reais de {len(all_products)} produtos...")
+        ctx2 = browser.new_context(
+            viewport={"width": 375, "height": 812}, locale="pt-BR",
+            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            device_scale_factor=3.0,
+            is_mobile=True, has_touch=True,
+            extra_http_headers={"Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8"},
+        )
+        page2 = ctx2.new_page()
+        page2.add_init_script(STEALTH_SCRIPT)
+
+        # Primeiro visita um meli.la pra setar cookies
+        try:
+            page2.goto(PRODUCTS[0]["link"], wait_until="domcontentloaded", timeout=30000)
+            time.sleep(1.5)
+        except:
+            pass
+
+        ok_count = 0
+        block_count = 0
+        for prod in all_products:
+            url = make_product_url(prod)
+            if not url:
+                print(f"  SEM URL: {prod['title'][:50]}")
+                continue
+
+            result = scrape_product_price(page2, url, max_wait=3)
+            if result and result.get("price"):
+                prod["price"] = result["price"]
+                prod["original_price"] = result["original_price"] or prod.get("original_price_card")
+                prod["installments_qty"] = result["installments_qty"]
+                prod["installments_amount"] = result["installments_amount"]
+                ok_count += 1
+                print(f"  OK: R${result['price']} <- {prod['title'][:50]}")
+            else:
+                # Fallback: usa preco do card
+                prod["price"] = prod.get("price_card")
+                prod["original_price"] = prod.get("original_price_card")
+                prod["installments_qty"] = prod.get("installments_qty_card", 0)
+                prod["installments_amount"] = prod.get("installments_amount_card", 0)
+                block_count += 1
+                print(f"  CARD: R${prod['price_card']} (bloqueado) <- {prod['title'][:50]}")
+
+        # Se mobile falhou pra muitos, tenta desktop com cookie priming
+        if block_count > ok_count and ok_count < 3:
+            print(f"\n>>> Mobile bloqueou muito, tentando desktop...")
+            ctx3 = browser.new_context(
+                viewport={"width": 1920, "height": 1080}, locale="pt-BR",
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                extra_http_headers={"Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8"},
+            )
+            page3 = ctx3.new_page()
+            page3.add_init_script(STEALTH_SCRIPT)
+
+            try:
+                page3.goto(PRODUCTS[0]["link"], wait_until="domcontentloaded", timeout=30000)
+                time.sleep(1.5)
+            except:
+                pass
+
+            for prod in all_products:
+                # So tenta de novo os que falharam
+                if prod.get("price") and prod["price"] == prod.get("price_card"):
+                    url = make_product_url(prod)
+                    if url:
+                        result = scrape_product_price(page3, url, max_wait=3)
+                        if result and result.get("price"):
+                            prod["price"] = result["price"]
+                            prod["original_price"] = result["original_price"] or prod.get("original_price_card")
+                            prod["installments_qty"] = result["installments_qty"]
+                            prod["installments_amount"] = result["installments_amount"]
+                            print(f"  DESKTOP OK: R${result['price']} <- {prod['title'][:50]}")
+                        else:
+                            print(f"  DESKTOP BLOQ: {prod['title'][:50]}")
+
+            page3.close()
+            ctx3.close()
+
+        page2.close()
+        ctx2.close()
         browser.close()
 
-    # Calcular pix e desconto
+    # -- PASSO 3: Calcular derivados e salvar --
     for prod in all_products:
-        if not prod["original_price"] or prod["original_price"] <= prod["price"]:
+        if not prod.get("original_price") or prod.get("original_price", 0) <= prod.get("price", 0):
             prod["original_price"] = round(prod["price"] * 1.15, 2)
         prod["discount"] = round((1 - prod["price"] / prod["original_price"]) * 100) if prod["original_price"] > 0 else 0
         prod["pix_price"] = round(prod["price"] * 0.9, 2)
+
+        # Remove campos temporarios do card
+        for key in ["price_card", "original_price_card", "installments_qty_card", "installments_amount_card"]:
+            prod.pop(key, None)
+
+    # Ordenar por desconto (maior primeiro)
+    all_products.sort(key=lambda x: x.get("discount", 0), reverse=True)
 
     # Salvar produtos.json
     path = os.path.join(repo_root, "produtos.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(timezone.utc).isoformat(), "products": all_products}, f, ensure_ascii=False, indent=2)
 
-    # Tambem salvar prices.json para compatibilidade
+    # Salvar prices.json (legado)
     prices_data = [{
         "search": p["title"],
         "link": p["link"],
