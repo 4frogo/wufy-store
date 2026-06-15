@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T13:46:29.615336+00:00",
+  "updated": "2026-06-15T18:24:51.418998+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -9,7 +9,7 @@
       "discount": 77,
       "pix_price": 143.91,
       "installments_qty": 12,
-      "installments_amount": 16.79
+      "installments_amount": 15.8
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -29,7 +29,17 @@
       "discount": 51,
       "pix_price": 152.91,
       "installments_qty": 12,
-      "installments_amount": 15.8
+      "installments_amount": 16.79
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
@@ -54,42 +64,42 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 73,
+      "price": 76.99,
       "original_price": 109.9,
-      "discount": 34,
-      "pix_price": 65.7,
-      "installments_qty": 12,
-      "installments_amount": 15.8
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 104.59,
-      "original_price": 149.9,
       "discount": 30,
-      "pix_price": 94.13,
-      "installments_qty": 6,
-      "installments_amount": 36.32
+      "pix_price": 69.29,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1815.07,
+      "price": 1815.0,
       "original_price": 2599.0,
       "discount": 30,
-      "pix_price": 1633.56,
+      "pix_price": 1633.5,
       "installments_qty": 10,
-      "installments_amount": 188.9
+      "installments_amount": 181.51
     },
     {
-      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 244.9,
+      "price": 232.9,
       "original_price": 329.9,
-      "discount": 26,
-      "pix_price": 220.41,
+      "discount": 29,
+      "pix_price": 209.61,
       "installments_qty": 12,
-      "installments_amount": 22.96
+      "installments_amount": 23.06
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil De Alta Pressão Automotiva Sem Fio Hidrolavadora Recarregável Com 2 Baterias + Maleta Completa Bivolt Hardline Preta 127/220v 50hz/60hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.99,
+      "original_price": 129.99,
+      "discount": 25,
+      "pix_price": 87.29,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -102,24 +112,14 @@
       "installments_amount": 23.25
     },
     {
-      "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
+      "search": "Smart Tv Led 32 Hd Aoc 32s5045 Roku Tv",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1889,
-      "original_price": 2264.33,
-      "discount": 17,
-      "pix_price": 1700.1,
+      "price": 1462.0,
+      "original_price": 1718.0,
+      "discount": 15,
+      "pix_price": 1315.8,
       "installments_qty": 10,
-      "installments_amount": 211.9
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 113.99,
-      "original_price": 119.99,
-      "discount": 5,
-      "pix_price": 102.59,
-      "installments_qty": 10,
-      "installments_amount": 142.81
+      "installments_amount": 146.3
     }
   ]
 }
