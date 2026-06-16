@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-15T22:15:58.430778+00:00",
+  "updated": "2026-06-16T03:35:01.607765+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 159.9,
-      "original_price": 699.9,
-      "discount": 77,
-      "pix_price": 143.91,
-      "installments_qty": 12,
-      "installments_amount": 15.8
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -32,44 +22,54 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "price": 255.45,
+      "price": 256.4,
       "original_price": 439.9,
       "discount": 42,
-      "pix_price": 229.91,
+      "pix_price": 230.76,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 260.2,
+      "price": 261.15,
       "original_price": 429.0,
       "discount": 39,
-      "pix_price": 234.18,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
+      "pix_price": 235.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 73.23,
+      "price": 67.8,
       "original_price": 109.9,
-      "discount": 33,
-      "pix_price": 65.91,
+      "discount": 38,
+      "pix_price": 61.02,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1809.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1628.1,
+      "installments_qty": 10,
+      "installments_amount": 180.9
     },
     {
       "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v Preto 127/220v",
@@ -100,6 +100,26 @@
       "pix_price": 211.41,
       "installments_qty": 12,
       "installments_amount": 23.25
+    },
+    {
+      "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1889.0,
+      "original_price": 2264.0,
+      "discount": 17,
+      "pix_price": 1700.1,
+      "installments_qty": 10,
+      "installments_amount": 188.9
+    },
+    {
+      "search": "Proteina De Amendoim Amendopro 900g Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 166.9,
+      "original_price": 191.94,
+      "discount": 13,
+      "pix_price": 150.21,
+      "installments_qty": 12,
+      "installments_amount": 16.49
     }
   ]
 }
