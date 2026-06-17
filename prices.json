@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T19:35:50.691658+00:00",
+  "updated": "2026-06-17T03:32:48.738324+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
@@ -72,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 3099.0,
-      "discount": 37,
-      "pix_price": 1754.1,
-      "installments_qty": 10,
-      "installments_amount": 194.9
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -92,7 +82,17 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1809.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1628.1,
+      "installments_qty": 10,
+      "installments_amount": 180.9
+    },
+    {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 232.9,
       "original_price": 329.9,
