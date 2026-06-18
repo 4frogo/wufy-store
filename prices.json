@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-17T03:32:48.738324+00:00",
+  "updated": "2026-06-18T08:42:02.839867+00:00",
   "prices": [
     {
-      "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
+      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 159.9,
       "original_price": 699.9,
@@ -12,22 +12,12 @@
       "installments_amount": 15.8
     },
     {
-      "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.9,
-      "original_price": 249.9,
-      "discount": 61,
-      "pix_price": 87.21,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 100.72,
+      "price": 97.7,
       "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 90.65,
+      "discount": 58,
+      "pix_price": 87.93,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -52,16 +42,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 261.15,
@@ -82,24 +62,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1809.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1628.1,
-      "installments_qty": 10,
-      "installments_amount": 180.9
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 73.99,
+      "original_price": 109.9,
+      "discount": 33,
+      "pix_price": 66.59,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
-      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 232.9,
-      "original_price": 329.9,
-      "discount": 29,
-      "pix_price": 209.61,
-      "installments_qty": 12,
-      "installments_amount": 23.06
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1815.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1633.5,
+      "installments_qty": 10,
+      "installments_amount": 181.51
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil De Alta Pressão Automotiva Sem Fio Hidrolavadora Recarregável Com 2 Baterias + Maleta Completa Bivolt Hardline Preta 127/220v 50hz/60hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.99,
+      "original_price": 129.99,
+      "discount": 25,
+      "pix_price": 87.29,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -120,6 +110,16 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
+    },
+    {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 239.9,
+      "original_price": 261.53,
+      "discount": 8,
+      "pix_price": 215.91,
+      "installments_qty": 12,
+      "installments_amount": 23.75
     }
   ]
 }
