@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T08:42:02.839867+00:00",
+  "updated": "2026-06-18T12:50:43.730626+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -42,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 261.15,
@@ -58,16 +68,6 @@
       "original_price": 119.55,
       "discount": 34,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 73.99,
-      "original_price": 109.9,
-      "discount": 33,
-      "pix_price": 66.59,
       "installments_qty": 0,
       "installments_amount": 0
     },
