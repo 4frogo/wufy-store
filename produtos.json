@@ -1,38 +1,38 @@
 {
-  "updated": "2026-06-19T14:13:02.824634+00:00",
+  "updated": "2026-06-19T16:32:26.177027+00:00",
   "products": [
     {
       "title": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "productUrl": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-chocolate-dark-lab/p/MLB19140416?matt_event_ts=1781878301772&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=8d6cf9cb-6e1a-4b06-8d5b-05ee9b11cdf9#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=1c11ac0e-7344-44f4-89e5-b1d1b9703e36&tracking_id=00605a02-8478-489b-9571-bad28550d8fe&wid=MLB3754602329&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=0e99b3e7-2c54-4037-ac21-9e9a4a81337e",
+      "productUrl": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-chocolate-dark-lab/p/MLB19140416?matt_event_ts=1781886664229&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=fcf40724-a4e3-4f32-a97a-9f5a49773a44#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=4d80f647-50e8-4390-8ac8-acfe2376d09f&tracking_id=173743f0-83a2-452c-bc1d-ceeae1e4bbbc&wid=MLB3754602329&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=c7e91324-d3bc-4b9e-810e-c72cddf69f33",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959030-MLA99595836842_122025-T.webp",
       "mlProductId": "MLB19140416",
       "mlItemId": "MLB3754602329",
-      "price": 159.9,
+      "price": 151.9,
       "original_price": 699.9,
-      "installments_qty": 12,
-      "installments_amount": 15.8,
-      "discount": 77,
-      "pix_price": 143.91
+      "installments_qty": 0,
+      "installments_amount": 0,
+      "discount": 78,
+      "pix_price": 136.71
     },
     {
       "title": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-pressao-2-baterias--maleta/up/MLBU605239077?pdp_filters=item_id%3AMLB3621404839&matt_event_ts=1781878304016&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=5643e54d-989b-4c15-aafd-697f0c4edca0#polycard_client=recommendations_home_affiliate-profile&wid=MLB3621404839&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6e1b5b6b-d6b2-4153-b4db-26d0c312838f&tracking_id=3ab95341-e7f5-4284-9438-6d20c739b064&c_id=/home/card-featured/element&c_uid=f6115f44-351e-418a-b542-4aec83386f17",
+      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-pressao-2-baterias--maleta/up/MLBU605239077?pdp_filters=item_id%3AMLB3621404839&matt_event_ts=1781886666539&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=26c420ed-9d45-41b5-8d38-62c4e1bc9959#polycard_client=recommendations_home_affiliate-profile&wid=MLB3621404839&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7b862954-3c8a-4a94-9355-4efe91384d03&tracking_id=9a3b0acf-c8f0-415d-a881-594492bece40&c_id=/home/card-featured/element&c_uid=8daa70d3-2189-47ec-9140-547063d0ea31",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_710675-MLB89102120983_082025-V.webp",
       "mlProductId": "",
       "mlItemId": "MLB3621404839",
-      "price": 100.72,
+      "price": 103.24,
       "original_price": 229.9,
       "installments_qty": 0,
       "installments_amount": 0,
-      "discount": 56,
-      "pix_price": 90.65
+      "discount": 55,
+      "pix_price": 92.92
     },
     {
       "title": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "productUrl": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826?matt_event_ts=1781878301772&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=dbcd9807-9435-4c83-a6c2-f3fc4bfe559d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bd282054-7a46-47f0-94db-98baa4c6e076&tracking_id=00605a02-8478-489b-9571-bad28550d8fe&wid=MLB5052099634&sid=recos&c_id=/home/card-featured/element&c_uid=a3a47dda-714a-4f5f-ba1f-872031b7756d",
+      "productUrl": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826?matt_event_ts=1781886664229&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=115b37f4-4740-489f-b200-0d90e02f174d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=29ccfe5b-c6a7-4d51-a8cf-3eda3d4e884d&tracking_id=173743f0-83a2-452c-bc1d-ceeae1e4bbbc&wid=MLB5052099634&sid=recos&c_id=/home/card-featured/element&c_uid=6656c5ff-0704-43b7-b336-82153e3d164e",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_827032-MLA100010410071_122025-V.webp",
       "mlProductId": "MLB40182826",
       "mlItemId": "MLB5052099634",
@@ -46,7 +46,7 @@
     {
       "title": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "productUrl": "https://produto.mercadolivre.com.br/MLB-5058572138-bota-bull-terrier-sparks-masculina-couro-original-trilha-it-_JM?searchVariation=184836419481&matt_event_ts=1781878308342&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=2503de92-ba66-4ceb-921e-c1709cd63c38#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=6841563a-64fc-4184-a2e3-572e8350e580&tracking_id=1cc3b1a0-3af8-4fb4-a685-f893d2dedeb0&c_id=/home/affiliate-profile-recommendations/element&c_uid=8cad5a6b-1fa3-4da9-857b-a9af268b66d2",
+      "productUrl": "https://produto.mercadolivre.com.br/MLB-5058572138-bota-bull-terrier-sparks-masculina-couro-original-trilha-it-_JM?searchVariation=184836419481&matt_event_ts=1781886670916&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=6ea98105-23c9-49f1-a460-23bb9712a525#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=b3e9aee4-a368-42ca-8bbc-926ae13c5f8f&tracking_id=dddade77-d427-46c0-99b6-34885b34bbba&c_id=/home/affiliate-profile-recommendations/element&c_uid=0a46722d-1459-4325-b2ee-022018f48309",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_771707-MLB79197042739_092024-T-bota-bull-terrier-sparks-masculina-couro-original-trilha-it.webp",
       "mlProductId": "",
       "mlItemId": "MLB5058572138",
@@ -60,7 +60,7 @@
     {
       "title": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "productUrl": "https://produto.mercadolivre.com.br/MLB-2941304516-bota-bull-terrier-bruce-masculina-original-couro-resistente-_JM?searchVariation=175747971235&matt_event_ts=1781878308341&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=2b7c897b-48b3-4d7a-84e9-5979572ab36c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=707a4d20-fed5-4967-a27b-dab73838fd9a&tracking_id=1cc3b1a0-3af8-4fb4-a685-f893d2dedeb0&c_id=/home/card-featured/element&c_uid=c513fac4-4fcd-482f-896c-94c90038f209",
+      "productUrl": "https://produto.mercadolivre.com.br/MLB-2941304516-bota-bull-terrier-bruce-masculina-original-couro-resistente-_JM?searchVariation=175747971235&matt_event_ts=1781886670915&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=d4e9c833-882a-4a63-90b5-5fc391d5bb8f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bcbe6788-c1a7-4819-9a26-26de6e2e31e0&tracking_id=dddade77-d427-46c0-99b6-34885b34bbba&c_id=/home/card-featured/element&c_uid=ea8110e0-8324-4d3b-9d89-dda961e0059d",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_856845-MLB78789224991_082024-V-bota-bull-terrier-bruce-masculina-original-couro-resistente.webp",
       "mlProductId": "",
       "mlItemId": "MLB2941304516",
@@ -74,7 +74,7 @@
     {
       "title": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "productUrl": "https://www.mercadolivre.com.br/whey-protein-1kg-whey-pro-max-titanium-sabor-chocolate-bcaa-e-aminoacidos/p/MLB6087972?matt_event_ts=1781878306286&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=880c1a55-f975-43b9-ac78-4ae890c4933a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e5b511be-8fb9-4524-89ac-62324f1beda8&tracking_id=6a8bc802-6afc-4bc3-8a1e-b9b2c7fd29fe&wid=MLB5456967392&sid=recos&c_id=/home/card-featured/element&c_uid=41044766-20a7-4c1f-b694-5a89716d8a6b",
+      "productUrl": "https://www.mercadolivre.com.br/whey-protein-1kg-whey-pro-max-titanium-sabor-chocolate-bcaa-e-aminoacidos/p/MLB6087972?matt_event_ts=1781886668815&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=86ea9940-7753-4add-bd9f-06aeb2bae6c0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f07464f5-0997-4f07-88a8-8bceec0c99d9&tracking_id=f0f1ec74-4cf7-4c70-85f2-2617fd3fbdd6&wid=MLB5456967392&sid=recos&c_id=/home/card-featured/element&c_uid=0c1b315c-1530-4026-8b53-73433ae3fd81",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_932009-MLA111725033726_062026-V.webp",
       "mlProductId": "MLB6087972",
       "mlItemId": "MLB5456967392",
@@ -88,7 +88,7 @@
     {
       "title": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "productUrl": "https://www.mercadolivre.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph-sabor-chocolate/p/MLB18995413?matt_event_ts=1781878306286&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=ff3e5f85-7f36-4877-92c5-8fdafec2798a#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=d4265a29-b5b2-46e4-bf80-afc31c42488d&tracking_id=6a8bc802-6afc-4bc3-8a1e-b9b2c7fd29fe&wid=MLB4279501999&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=64818894-3fad-4c97-9084-d541f94a28e0",
+      "productUrl": "https://www.mercadolivre.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph-sabor-chocolate/p/MLB18995413?matt_event_ts=1781886668815&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=ff2729d1-33a7-4462-8c41-42845d00d6a1#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=d45eec45-5ff4-451f-a62d-cfddafb1e54a&tracking_id=f0f1ec74-4cf7-4c70-85f2-2617fd3fbdd6&wid=MLB4279501999&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=fe47c6e8-8cdb-4757-93fc-47b1dbd06607",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_953920-MLA111544908875_052026-T.webp",
       "mlProductId": "MLB18995413",
       "mlItemId": "MLB4279501999",
@@ -102,7 +102,7 @@
     {
       "title": "Lavadora Lava Jato Portátil De Alta Pressão Automotiva Sem Fio Hidrolavadora Recarregável Com 2 Baterias + Maleta Completa Bivolt Hardline Preta 127/220v 50hz/60hz",
       "link": "https://meli.la/19ErgKc",
-      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-de-alta-presso-automotiva-sem-fio-hidrolavadora-recarregavel-com-2-baterias-maleta-completa-bivolt-hardline/p/MLB68723058?matt_event_ts=1781878304017&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=949a9892-d0be-46a8-8c03-87d88d730298#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=3c29cf42-c103-4e78-a12d-337161c74d25&tracking_id=3ab95341-e7f5-4284-9438-6d20c739b064&wid=MLB6756757792&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=8f48a803-5b04-4015-b593-61c9d2ff5ffd",
+      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-de-alta-presso-automotiva-sem-fio-hidrolavadora-recarregavel-com-2-baterias-maleta-completa-bivolt-hardline/p/MLB68723058?matt_event_ts=1781886666539&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=5b1f477c-a203-4aaa-9edc-3143aab76e7c#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=d71df390-f50a-4fa8-8a46-b5a78918b322&tracking_id=9a3b0acf-c8f0-415d-a881-594492bece40&wid=MLB6756757792&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=5980ad27-4930-44fd-b1d2-d686987a41ef",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_742414-MLA112249497757_052026-T.webp",
       "mlProductId": "MLB68723058",
       "mlItemId": "MLB6756757792",
@@ -116,7 +116,7 @@
     {
       "title": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "productUrl": "https://www.mercadolivre.com.br/smart-tv-roku-tv-50-7045-4k-uhd-aoc-bivolt/p/MLB51202548?matt_event_ts=1781878310532&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=7d54a452-6f54-41fd-87ef-f4fa391dc14e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8c99227d-5ec0-48a4-b0cc-e8ecfaf509f1&tracking_id=f3417dc4-233d-4ac8-84d4-fa80a50b68ce&wid=MLB4119277221&sid=recos&c_id=/home/card-featured/element&c_uid=86da5ddf-c700-44ac-8cbb-8bcf3d2a422e",
+      "productUrl": "https://www.mercadolivre.com.br/smart-tv-roku-tv-50-7045-4k-uhd-aoc-bivolt/p/MLB51202548?matt_event_ts=1781886673125&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=111186e3-049e-4090-82cd-b76abb21bcdc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d33189f0-9528-464d-976d-728f9b04b170&tracking_id=dbf32d29-aadd-43af-a350-71a0ec29c482&wid=MLB4119277221&sid=recos&c_id=/home/card-featured/element&c_uid=8620d3a3-eea1-4269-b67e-355889c14e4f",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-V.webp",
       "mlProductId": "MLB51202548",
       "mlItemId": "MLB4119277221",
@@ -130,16 +130,16 @@
     {
       "title": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aiwa-50-android-4k-borda-ultrafina-hdr10-dolby-audio-aws-tv-50-bl-02-a/p/MLB20921202?matt_event_ts=1781878310532&matt_d2id=dabe84f5-f2c3-4c1f-a004-78153b72ebc4&matt_tracing_id=81705a66-af6e-4821-8a7a-10e3f1517400#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=d9c94228-5dca-47e5-a324-fc2fefeb7a6e&tracking_id=f3417dc4-233d-4ac8-84d4-fa80a50b68ce&wid=MLB4199303564&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=3e1945b8-8d77-40cd-a5a5-16dd51ef5922",
+      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aiwa-50-android-4k-borda-ultrafina-hdr10-dolby-audio-aws-tv-50-bl-02-a/p/MLB20921202?matt_event_ts=1781886673125&matt_d2id=70d62a13-4a7b-4e60-8163-857b1c322191&matt_tracing_id=96aa40e8-d0f2-48d9-a571-e24d7a41ea72#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=2ce4fb33-cd68-4ad7-a7ee-77785e2ac51f&tracking_id=dbf32d29-aadd-43af-a350-71a0ec29c482&wid=MLB4199303564&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=8eaae358-96f2-43ca-b3d9-8019674a61f5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_768600-MLA99887667399_112025-T.webp",
       "mlProductId": "MLB20921202",
       "mlItemId": "MLB4199303564",
-      "price": 2264.0,
-      "original_price": 2603.6,
+      "price": 1899.0,
+      "original_price": 2264.0,
       "installments_qty": 10,
-      "installments_amount": 226.43,
-      "discount": 13,
-      "pix_price": 2037.6
+      "installments_amount": 189.9,
+      "discount": 16,
+      "pix_price": 1709.1
     }
   ]
 }

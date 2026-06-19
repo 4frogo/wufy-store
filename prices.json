@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-19T14:13:02.825155+00:00",
+  "updated": "2026-06-19T16:32:26.177466+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 159.9,
+      "price": 151.9,
       "original_price": 699.9,
-      "discount": 77,
-      "pix_price": 143.91,
-      "installments_qty": 12,
-      "installments_amount": 15.8
+      "discount": 78,
+      "pix_price": 136.71,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 100.72,
+      "price": 103.24,
       "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 90.65,
+      "discount": 55,
+      "pix_price": 92.92,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -94,12 +94,12 @@
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2264.0,
-      "original_price": 2603.6,
-      "discount": 13,
-      "pix_price": 2037.6,
+      "price": 1899.0,
+      "original_price": 2264.0,
+      "discount": 16,
+      "pix_price": 1709.1,
       "installments_qty": 10,
-      "installments_amount": 226.43
+      "installments_amount": 189.9
     }
   ]
 }
