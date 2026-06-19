@@ -177,40 +177,59 @@ def main():
         seen_urls = set()
         all_products = []
 
-        page.goto(PRODUCTS[0]["link"], wait_until="domcontentloaded", timeout=30000)
-        time.sleep(1.5)
-        page.wait_for_selector("[class*='poly-card']", timeout=15000)
+        # Tenta primar cookies: visita cada link ate achar cards
+        print(">>> Primando cookies...")
+        primed = False
+        for attempt_link in [p["link"] for p in PRODUCTS]:
+            try:
+                page.goto(attempt_link, wait_until="domcontentloaded", timeout=30000)
+                time.sleep(1.5)
+                cards = page.query_selector_all("[class*='poly-card']")
+                if len(cards) > 0:
+                    primed = True
+                    print(f"  Cookies primados ({len(cards)} cards em {attempt_link[:30]}...)")
+                    break
+            except:
+                continue
+        if not primed:
+            print("  AVISO: nenhum link mostrou cards, seguindo mesmo assim...")
 
         for prod in PRODUCTS:
             try:
                 page.goto(prod["link"], wait_until="domcontentloaded", timeout=30000)
-                page.wait_for_selector("[class*='poly-card']", timeout=15000)
+                try:
+                    page.wait_for_selector("[class*='poly-card']", timeout=12000)
+                except:
+                    pass
                 time.sleep(1.5)
             except:
                 print(f"  AVISO: {prod['search'][:40]}... sem cards")
                 continue
 
-            found = page.evaluate("""
-                () => {
-                    const cards = document.querySelectorAll('[class*="poly-card"]');
-                    return Array.from(cards).map(c => {
-                        const title = c.querySelector('.poly-component__title');
-                        const img = c.querySelector('.poly-component__picture');
-                        const amts = c.querySelectorAll('.andes-money-amount');
-                        const inst = c.querySelector('.poly-price__installments');
-                        return {
-                            title: title ? title.innerText.trim() : '',
-                            href: title ? title.href : '',
-                            image: img ? (img.getAttribute('src') || img.getAttribute('data-src') || '') : '',
-                            amounts: Array.from(amts).map(a => ({
-                                text: a.innerText.trim().replace(/\\s+/g, ' '),
-                                cls: a.className
-                            })),
-                            installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
-                        };
-                    });
-                }
-            """)
+            try:
+                found = page.evaluate("""
+                    () => {
+                        const cards = document.querySelectorAll('[class*="poly-card"]');
+                        return Array.from(cards).map(c => {
+                            const title = c.querySelector('.poly-component__title');
+                            const img = c.querySelector('.poly-component__picture');
+                            const amts = c.querySelectorAll('.andes-money-amount');
+                            const inst = c.querySelector('.poly-price__installments');
+                            return {
+                                title: title ? title.innerText.trim() : '',
+                                href: title ? title.href : '',
+                                image: img ? (img.getAttribute('src') || img.getAttribute('data-src') || '') : '',
+                                amounts: Array.from(amts).map(a => ({
+                                    text: a.innerText.trim().replace(/\\s+/g, ' '),
+                                    cls: a.className
+                                })),
+                                installments: inst ? inst.innerText.trim().replace(/\\s+/g, ' ') : ''
+                            };
+                        });
+                    }
+                """)
+            except:
+                found = []
 
             for card in found[:5]:
                 url_key = card.get("href", "").split("?")[0]
@@ -242,8 +261,16 @@ def main():
         context.close()
 
         if not all_products:
-            print("Nenhum produto encontrado!")
-            return
+            print("Nenhum produto encontrado nos cards! Mantendo dados anteriores...")
+            # Le dados anteriores para nao sobrescrever com vazio
+            old_path = os.path.join(repo_root, "produtos.json")
+            if os.path.exists(old_path):
+                with open(old_path, "r", encoding="utf-8") as f:
+                    old = json.load(f)
+                all_products = old.get("products", [])
+                print(f"  {len(all_products)} produtos restaurados do arquivo anterior")
+            if not all_products:
+                return
 
         # -- PASSO 2: Scraping das paginas reais dos produtos --
         # Usa um context fresh (mobile-like evita mais captchas)
