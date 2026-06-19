@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:07:07.435819+00:00",
+  "updated": "2026-06-19T22:52:43.758086+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -42,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 200.82,
+      "original_price": 329.9,
+      "discount": 39,
+      "pix_price": 180.74,
+      "installments_qty": 6,
+      "installments_amount": 40.82
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 261.15,
@@ -54,10 +64,10 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 70.55,
+      "price": 67.8,
       "original_price": 109.9,
-      "discount": 36,
-      "pix_price": 63.49,
+      "discount": 38,
+      "pix_price": 61.02,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -80,6 +90,16 @@
       "pix_price": 87.29,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 229.9,
+      "original_price": 299.9,
+      "discount": 23,
+      "pix_price": 206.91,
+      "installments_qty": 12,
+      "installments_amount": 22.76
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
