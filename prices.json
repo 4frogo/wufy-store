@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:51:01.025530+00:00",
+  "updated": "2026-06-20T07:47:46.440524+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -42,6 +42,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 256.4,
@@ -50,6 +60,16 @@
       "pix_price": 230.76,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 200.82,
+      "original_price": 329.9,
+      "discount": 39,
+      "pix_price": 180.74,
+      "installments_qty": 6,
+      "installments_amount": 40.82
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -72,24 +92,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 229.9,
+      "original_price": 299.9,
+      "discount": 23,
+      "pix_price": 206.91,
+      "installments_qty": 12,
+      "installments_amount": 22.76
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1809.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1628.1,
+      "price": 1842.0,
+      "original_price": 2199.0,
+      "discount": 16,
+      "pix_price": 1657.8,
       "installments_qty": 10,
-      "installments_amount": 180.9
+      "installments_amount": 193.9
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
