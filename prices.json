@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T15:44:41.421513+00:00",
+  "updated": "2026-06-20T17:22:32.780331+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -52,6 +52,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 200.82,
+      "original_price": 329.9,
+      "discount": 39,
+      "pix_price": 180.74,
+      "installments_qty": 6,
+      "installments_amount": 40.82
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -82,6 +92,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 229.9,
+      "original_price": 299.9,
+      "discount": 23,
+      "pix_price": 206.91,
+      "installments_qty": 12,
+      "installments_amount": 22.76
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1842.0,
@@ -94,12 +114,12 @@
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1899.0,
-      "original_price": 2264.0,
-      "discount": 16,
-      "pix_price": 1709.1,
-      "installments_qty": 10,
-      "installments_amount": 189.9
+      "price": 2499.0,
+      "original_price": 2873.85,
+      "discount": 13,
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
     }
   ]
 }
