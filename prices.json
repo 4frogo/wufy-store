@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T12:10:17.876036+00:00",
+  "updated": "2026-06-21T15:50:27.198697+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -72,6 +72,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 71.99,
+      "original_price": 109.9,
+      "discount": 34,
+      "pix_price": 64.79,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1842.0,
@@ -88,8 +98,8 @@
       "original_price": 2873.85,
       "discount": 13,
       "pix_price": 2249.1,
-      "installments_qty": 12,
-      "installments_amount": 240.2
+      "installments_qty": 10,
+      "installments_amount": 249.99
     }
   ]
 }
