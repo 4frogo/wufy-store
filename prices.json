@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:25:41.651880+00:00",
+  "updated": "2026-06-21T19:24:43.473211+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -94,12 +94,12 @@
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2264.0,
-      "original_price": 2603.6,
+      "price": 2499.0,
+      "original_price": 2873.85,
       "discount": 13,
-      "pix_price": 2037.6,
-      "installments_qty": 10,
-      "installments_amount": 226.43
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
     }
   ]
 }
