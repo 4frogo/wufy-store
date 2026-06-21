@@ -1,26 +1,6 @@
 {
-  "updated": "2026-06-20T23:04:10.526767+00:00",
+  "updated": "2026-06-21T03:34:12.903383+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 151.9,
-      "original_price": 699.9,
-      "discount": 78,
-      "pix_price": 136.71,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.9,
-      "original_price": 249.9,
-      "discount": 61,
-      "pix_price": 87.21,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -63,7 +43,7 @@
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
+      "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
@@ -100,6 +80,16 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.99,
+      "original_price": 119.99,
+      "discount": 8,
+      "pix_price": 98.99,
+      "installments_qty": 4,
+      "installments_amount": 27.5
     }
   ]
 }
