@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T22:00:29.913906+00:00",
+  "updated": "2026-06-22T23:25:00.948178+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -68,6 +68,16 @@
       "original_price": 119.55,
       "discount": 34,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 75.46,
+      "original_price": 109.9,
+      "discount": 31,
+      "pix_price": 67.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
