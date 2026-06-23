@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T11:00:15.739018+00:00",
+  "updated": "2026-06-23T14:38:45.687769+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -12,6 +12,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 108.59,
+      "original_price": 229.9,
+      "discount": 53,
+      "pix_price": 97.73,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 169.9,
@@ -20,26 +30,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 125.9,
-      "original_price": 229.9,
-      "discount": 45,
-      "pix_price": 113.31,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
@@ -68,6 +58,16 @@
       "original_price": 429.0,
       "discount": 39,
       "pix_price": 235.03,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
