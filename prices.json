@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:50:07.542188+00:00",
+  "updated": "2026-06-23T19:55:47.773246+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -114,12 +114,12 @@
     {
       "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 232.9,
-      "original_price": 261.53,
-      "discount": 11,
-      "pix_price": 209.61,
+      "price": 229.99,
+      "original_price": 264.49,
+      "discount": 13,
+      "pix_price": 206.99,
       "installments_qty": 12,
-      "installments_amount": 23.06
+      "installments_amount": 22.77
     }
   ]
 }
