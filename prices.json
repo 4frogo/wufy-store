@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-24T14:17:20.838155+00:00",
+  "updated": "2026-06-24T17:52:00.678591+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 86.87,
+      "price": 103.16,
       "original_price": 229.9,
-      "discount": 62,
-      "pix_price": 78.18,
+      "discount": 55,
+      "pix_price": 92.84,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,22 +22,12 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "price": 256.4,
+      "price": 234.81,
       "original_price": 439.9,
-      "discount": 42,
-      "pix_price": 230.76,
+      "discount": 47,
+      "pix_price": 211.33,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,6 +62,26 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1809.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1628.1,
+      "installments_qty": 10,
+      "installments_amount": 180.9
+    },
+    {
       "search": "Lavadora Lava Jato Portátil De Alta Pressão Automotiva Sem Fio Hidrolavadora Recarregável Com 2 Baterias + Maleta Completa Bivolt Hardline Preta 127/220v 50hz/60hz",
       "link": "https://meli.la/19ErgKc",
       "price": 96.99,
@@ -90,16 +100,6 @@
       "pix_price": 211.41,
       "installments_qty": 12,
       "installments_amount": 23.25
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2103.0,
-      "original_price": 2599.0,
-      "discount": 19,
-      "pix_price": 1892.7,
-      "installments_qty": 10,
-      "installments_amount": 221.46
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
