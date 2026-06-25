@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T07:39:35.880932+00:00",
+  "updated": "2026-06-25T10:39:45.886838+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -64,10 +64,10 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 67.8,
+      "price": 71.11,
       "original_price": 109.9,
-      "discount": 38,
-      "pix_price": 61.02,
+      "discount": 35,
+      "pix_price": 64.0,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -84,12 +84,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1799.0,
+      "price": 1799.1,
       "original_price": 2499.0,
       "discount": 28,
-      "pix_price": 1619.1,
+      "pix_price": 1619.19,
       "installments_qty": 10,
-      "installments_amount": 199.9
+      "installments_amount": 189.9
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -112,14 +112,14 @@
       "installments_amount": 189.9
     },
     {
-      "search": "Projetor Portátil Tomada Full Hd Led Hdmi Usb Cinema Casa Preto 127/220v",
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 310.0,
-      "original_price": 356.5,
-      "discount": 13,
-      "pix_price": 279.0,
-      "installments_qty": 6,
-      "installments_amount": 51.67
+      "price": 232.9,
+      "original_price": 261.53,
+      "discount": 11,
+      "pix_price": 209.61,
+      "installments_qty": 12,
+      "installments_amount": 23.06
     }
   ]
 }
