@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T07:46:50.958907+00:00",
+  "updated": "2026-06-26T10:48:36.192818+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -30,16 +30,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 12,
-      "installments_amount": 7.77
     },
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
@@ -82,6 +72,16 @@
       "installments_amount": 7.0
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
+      "installments_qty": 12,
+      "installments_amount": 7.77
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1799.0,
@@ -102,6 +102,16 @@
       "installments_amount": 23.25
     },
     {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 239.99,
+      "original_price": 289.99,
+      "discount": 17,
+      "pix_price": 215.99,
+      "installments_qty": 12,
+      "installments_amount": 23.76
+    },
+    {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
       "price": 1899.0,
@@ -110,16 +120,6 @@
       "pix_price": 1709.1,
       "installments_qty": 10,
       "installments_amount": 189.9
-    },
-    {
-      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 232.9,
-      "original_price": 261.53,
-      "discount": 11,
-      "pix_price": 209.61,
-      "installments_qty": 12,
-      "installments_amount": 23.06
     }
   ]
 }
