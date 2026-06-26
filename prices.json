@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:42:30.881510+00:00",
+  "updated": "2026-06-26T21:16:55.749576+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -42,16 +42,6 @@
       "installments_amount": 7.77
     },
     {
-      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
-      "link": "https://meli.la/1RuihHY",
-      "price": 234.81,
-      "original_price": 439.9,
-      "discount": 47,
-      "pix_price": 211.33,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -60,16 +50,6 @@
       "pix_price": 71.01,
       "installments_qty": 12,
       "installments_amount": 7.77
-    },
-    {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 261.15,
-      "original_price": 429.0,
-      "discount": 39,
-      "pix_price": 235.03,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
@@ -92,24 +72,54 @@
       "installments_amount": 23.25
     },
     {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 239.99,
-      "original_price": 289.99,
-      "discount": 17,
-      "pix_price": 215.99,
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 70.0,
+      "original_price": 80.5,
+      "discount": 13,
+      "pix_price": 63.0,
       "installments_qty": 12,
-      "installments_amount": 23.76
+      "installments_amount": 6.89
+    },
+    {
+      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
+      "link": "https://meli.la/1RuihHY",
+      "price": 382.71,
+      "original_price": 439.9,
+      "discount": 13,
+      "pix_price": 344.44,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1899.0,
-      "original_price": 2264.0,
-      "discount": 16,
-      "pix_price": 1709.1,
-      "installments_qty": 10,
-      "installments_amount": 189.9
+      "price": 2499.0,
+      "original_price": 2873.85,
+      "discount": 13,
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
+    },
+    {
+      "search": "Projetor 4k Ultra Hd Hy320 Smart Wi-fi 6 Bluetooth Android Cor Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 232.9,
+      "original_price": 261.53,
+      "discount": 11,
+      "pix_price": 209.61,
+      "installments_qty": 12,
+      "installments_amount": 23.06
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 407.55,
+      "original_price": 429.0,
+      "discount": 5,
+      "pix_price": 366.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
