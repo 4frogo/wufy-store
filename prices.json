@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:50:11.002093+00:00",
+  "updated": "2026-06-26T07:46:50.958907+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -8,8 +8,8 @@
       "original_price": 249.9,
       "discount": 61,
       "pix_price": 87.21,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_qty": 12,
+      "installments_amount": 9.54
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,6 +32,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 12,
+      "installments_amount": 7.77
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 234.81,
@@ -48,8 +58,8 @@
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_qty": 12,
+      "installments_amount": 7.77
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -68,18 +78,18 @@
       "original_price": 109.9,
       "discount": 35,
       "pix_price": 64.0,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_qty": 12,
+      "installments_amount": 7.0
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1799.0,
+      "original_price": 2499.0,
+      "discount": 28,
+      "pix_price": 1619.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -90,16 +100,6 @@
       "pix_price": 211.41,
       "installments_qty": 12,
       "installments_amount": 23.25
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1842.0,
-      "original_price": 2199.0,
-      "discount": 16,
-      "pix_price": 1657.8,
-      "installments_qty": 10,
-      "installments_amount": 193.9
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
