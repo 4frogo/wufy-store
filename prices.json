@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T07:48:17.834354+00:00",
+  "updated": "2026-06-28T10:25:20.102459+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
@@ -64,22 +64,12 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 78.0,
+      "price": 78.99,
       "original_price": 109.9,
-      "discount": 29,
-      "pix_price": 70.2,
-      "installments_qty": 12,
-      "installments_amount": 7.68
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1880.0,
-      "original_price": 2599.0,
       "discount": 28,
-      "pix_price": 1692.0,
-      "installments_qty": 10,
-      "installments_amount": 197.91
+      "pix_price": 71.09,
+      "installments_qty": 12,
+      "installments_amount": 7.78
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -90,6 +80,16 @@
       "pix_price": 211.41,
       "installments_qty": 12,
       "installments_amount": 23.25
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2103.0,
+      "original_price": 2599.0,
+      "discount": 19,
+      "pix_price": 1892.7,
+      "installments_qty": 10,
+      "installments_amount": 221.46
     },
     {
       "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
