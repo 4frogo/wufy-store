@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-29T14:02:31.483942+00:00",
+  "updated": "2026-06-29T18:07:41.875826+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 151.9,
-      "original_price": 699.9,
-      "discount": 78,
-      "pix_price": 136.71,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
@@ -42,21 +32,11 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
-      "link": "https://meli.la/1RuihHY",
-      "price": 283.14,
-      "original_price": 439.9,
-      "discount": 36,
-      "pix_price": 254.83,
-      "installments_qty": 12,
-      "installments_amount": 27.7
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
+      "original_price": 149.9,
+      "discount": 47,
       "pix_price": 71.01,
       "installments_qty": 12,
       "installments_amount": 7.77
@@ -72,54 +52,54 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1756.0,
+      "original_price": 2599.0,
+      "discount": 32,
+      "pix_price": 1580.4,
+      "installments_qty": 10,
+      "installments_amount": 184.9
+    },
+    {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 78,
+      "price": 78.0,
       "original_price": 109.9,
       "discount": 29,
       "pix_price": 70.2,
       "installments_qty": 12,
-      "installments_amount": 7.77
+      "installments_amount": 7.68
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1880.0,
-      "original_price": 2599.0,
-      "discount": 28,
-      "pix_price": 1692.0,
-      "installments_qty": 10,
-      "installments_amount": 197.91
-    },
-    {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 234.9,
-      "original_price": 299.9,
-      "discount": 22,
-      "pix_price": 211.41,
+      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
+      "link": "https://meli.la/1RuihHY",
+      "price": 439.9,
+      "original_price": 505.88,
+      "discount": 13,
+      "pix_price": 395.91,
       "installments_qty": 12,
-      "installments_amount": 23.25
-    },
-    {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 239.99,
-      "original_price": 289.99,
-      "discount": 17,
-      "pix_price": 215.99,
-      "installments_qty": 12,
-      "installments_amount": 23.76
+      "installments_amount": 42.54
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2599.0,
-      "original_price": 2988.85,
+      "price": 2499.0,
+      "original_price": 2873.85,
       "discount": 13,
-      "pix_price": 2339.1,
+      "pix_price": 2249.1,
       "installments_qty": 12,
-      "installments_amount": 148.97
+      "installments_amount": 240.2
+    },
+    {
+      "search": "Whey Protein 100% Concentrado Premium 2kg - Profit Labs Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 153.33,
+      "original_price": 169.9,
+      "discount": 10,
+      "pix_price": 138.0,
+      "installments_qty": 12,
+      "installments_amount": 15.15
     }
   ]
 }
