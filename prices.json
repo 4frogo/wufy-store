@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T14:09:01.953936+00:00",
+  "updated": "2026-06-30T17:50:50.640422+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
@@ -30,6 +30,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
+      "link": "https://meli.la/1RuihHY",
+      "price": 249.89,
+      "original_price": 439.9,
+      "discount": 43,
+      "pix_price": 224.9,
+      "installments_qty": 12,
+      "installments_amount": 24.74
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -100,16 +110,6 @@
       "pix_price": 84.14,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
-      "link": "https://meli.la/1RuihHY",
-      "price": 439.9,
-      "original_price": 505.88,
-      "discount": 13,
-      "pix_price": 395.91,
-      "installments_qty": 12,
-      "installments_amount": 42.54
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
