@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T07:50:25.554879+00:00",
+  "updated": "2026-06-30T10:54:52.195877+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
@@ -32,6 +32,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 283.14,
@@ -40,16 +50,6 @@
       "pix_price": 254.83,
       "installments_qty": 12,
       "installments_amount": 27.7
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1809.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1628.1,
+      "installments_qty": 10,
+      "installments_amount": 180.9
+    },
+    {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.0,
@@ -70,16 +80,6 @@
       "pix_price": 70.2,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1799.0,
-      "original_price": 2499.0,
-      "discount": 28,
-      "pix_price": 1619.1,
-      "installments_qty": 10,
-      "installments_amount": 199.9
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
