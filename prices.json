@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:52:54.312290+00:00",
+  "updated": "2026-06-30T02:50:09.361066+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
@@ -42,16 +42,6 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 12,
-      "installments_amount": 7.77
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 283.14,
@@ -60,6 +50,16 @@
       "pix_price": 254.83,
       "installments_qty": 12,
       "installments_amount": 27.7
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
+      "installments_qty": 12,
+      "installments_amount": 7.77
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
