@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:24:33.777422+00:00",
+  "updated": "2026-07-01T23:10:01.598135+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -82,14 +82,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 247.9,
-      "original_price": 345.9,
-      "discount": 28,
-      "pix_price": 223.11,
-      "installments_qty": 12,
-      "installments_amount": 24.54
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 88.82,
+      "original_price": 109.99,
+      "discount": 19,
+      "pix_price": 79.94,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
@@ -100,26 +100,6 @@
       "pix_price": 1700.1,
       "installments_qty": 10,
       "installments_amount": 188.9
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 93.49,
-      "original_price": 109.99,
-      "discount": 15,
-      "pix_price": 84.14,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.99,
-      "original_price": 333.49,
-      "discount": 13,
-      "pix_price": 260.99,
-      "installments_qty": 12,
-      "installments_amount": 28.37
     }
   ]
 }
