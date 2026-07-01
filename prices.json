@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T19:47:16.122152+00:00",
+  "updated": "2026-07-01T21:24:33.777422+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -32,22 +32,22 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 237.4,
       "original_price": 439.9,
       "discount": 46,
       "pix_price": 213.66,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,6 +82,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 247.9,
+      "original_price": 345.9,
+      "discount": 28,
+      "pix_price": 223.11,
+      "installments_qty": 12,
+      "installments_amount": 24.54
+    },
+    {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
       "price": 1889.0,
@@ -100,6 +110,16 @@
       "pix_price": 84.14,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.99,
+      "original_price": 333.49,
+      "discount": 13,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     }
   ]
 }
