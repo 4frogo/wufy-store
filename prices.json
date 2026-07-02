@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T16:04:27.919459+00:00",
+  "updated": "2026-07-02T19:18:25.338725+00:00",
   "prices": [
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -64,22 +64,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1756.0,
+      "price": 1849.0,
       "original_price": 2599.0,
-      "discount": 32,
-      "pix_price": 1580.4,
+      "discount": 29,
+      "pix_price": 1664.1,
       "installments_qty": 10,
       "installments_amount": 184.9
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Cookies & Cream",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 109.99,
-      "discount": 28,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
@@ -94,12 +84,22 @@
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1889.0,
+      "price": 1832.0,
       "original_price": 2264.0,
-      "discount": 17,
-      "pix_price": 1700.1,
+      "discount": 19,
+      "pix_price": 1648.8,
       "installments_qty": 10,
       "installments_amount": 188.9
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Cookies & Cream",
+      "link": "https://meli.la/25unFmR",
+      "price": 77.0,
+      "original_price": 88.55,
+      "discount": 13,
+      "pix_price": 69.3,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
