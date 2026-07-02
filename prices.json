@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-02T19:18:25.338725+00:00",
+  "updated": "2026-07-02T21:00:18.468941+00:00",
   "prices": [
+    {
+      "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 159.9,
+      "original_price": 699.9,
+      "discount": 77,
+      "pix_price": 143.91,
+      "installments_qty": 12,
+      "installments_amount": 15.8
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 103.16,
+      "original_price": 229.9,
+      "discount": 55,
+      "pix_price": 92.84,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -12,32 +32,12 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 119.6,
-      "original_price": 229.9,
-      "discount": 48,
-      "pix_price": 107.64,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 237.4,
       "original_price": 439.9,
       "discount": 46,
       "pix_price": 213.66,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
