@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T02:27:55.985306+00:00",
+  "updated": "2026-07-03T06:59:35.288596+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme De Avelã",
@@ -22,22 +22,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 149.9,
-      "discount": 47,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
       "price": 237.4,
       "original_price": 439.9,
       "discount": 46,
       "pix_price": 213.66,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 119.55,
+      "discount": 34,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -84,12 +84,12 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 135.99,
-      "original_price": 156.39,
+      "price": 141.98,
+      "original_price": 163.28,
       "discount": 13,
-      "pix_price": 122.39,
+      "pix_price": 127.78,
       "installments_qty": 4,
-      "installments_amount": 34.0
+      "installments_amount": 35.49
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Cookies & Cream",
