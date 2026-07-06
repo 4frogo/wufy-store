@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T19:49:52.205221+00:00",
+  "updated": "2026-07-06T21:26:24.562076+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -32,22 +32,22 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 149.9,
+      "discount": 47,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Masculina Adventure Coturno Botina Com Brindes",
       "link": "https://meli.la/1RuihHY",
       "price": 92.52,
       "original_price": 149.9,
       "discount": 38,
       "pix_price": 83.27,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -70,6 +70,26 @@
       "pix_price": 1664.1,
       "installments_qty": 10,
       "installments_amount": 184.9
+    },
+    {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 269.9,
+      "original_price": 345.9,
+      "discount": 22,
+      "pix_price": 242.91,
+      "installments_qty": 12,
+      "installments_amount": 26.4
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.99,
+      "original_price": 333.49,
+      "discount": 13,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Cookies & Cream",
