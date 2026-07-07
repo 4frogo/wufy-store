@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T23:04:11.622609+00:00",
+  "updated": "2026-07-07T02:35:40.404978+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -42,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 275.4,
+      "original_price": 429.0,
+      "discount": 36,
+      "pix_price": 247.86,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -52,24 +62,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 292.94,
-      "original_price": 429.0,
-      "discount": 32,
-      "pix_price": 263.65,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1859.0,
-      "original_price": 2499.0,
-      "discount": 26,
-      "pix_price": 1673.1,
+      "price": 1979.0,
+      "original_price": 2599.0,
+      "discount": 24,
+      "pix_price": 1781.1,
       "installments_qty": 10,
-      "installments_amount": 199.9
+      "installments_amount": 197.91
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 102.0,
+      "original_price": 117.3,
+      "discount": 13,
+      "pix_price": 91.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Cookies & Cream",
@@ -78,16 +88,6 @@
       "original_price": 86.25,
       "discount": 13,
       "pix_price": 67.5,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 104.49,
-      "original_price": 109.99,
-      "discount": 5,
-      "pix_price": 94.04,
       "installments_qty": 0,
       "installments_amount": 0
     },
