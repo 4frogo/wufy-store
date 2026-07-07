@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T07:34:49.707593+00:00",
+  "updated": "2026-07-07T10:52:36.005319+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,6 +22,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 283.95,
+      "original_price": 499.9,
+      "discount": 43,
+      "pix_price": 255.56,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -38,16 +48,6 @@
       "original_price": 429.0,
       "discount": 39,
       "pix_price": 235.12,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Masculina Adventure Coturno Botina Com Brindes",
-      "link": "https://meli.la/1RuihHY",
-      "price": 92.52,
-      "original_price": 149.9,
-      "discount": 38,
-      "pix_price": 83.27,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -74,12 +74,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1979.0,
+      "price": 1849.0,
       "original_price": 2599.0,
-      "discount": 24,
-      "pix_price": 1781.1,
+      "discount": 29,
+      "pix_price": 1664.1,
       "installments_qty": 10,
-      "installments_amount": 197.91
+      "installments_amount": 184.9
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
