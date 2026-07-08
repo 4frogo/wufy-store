@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T13:51:35.855307+00:00",
+  "updated": "2026-07-08T16:01:31.390349+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -20,16 +20,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 283.95,
-      "original_price": 499.9,
-      "discount": 43,
-      "pix_price": 255.56,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -62,14 +52,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 75.66,
-      "original_price": 109.9,
-      "discount": 31,
-      "pix_price": 68.09,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Sapato Campeiro Cadarço Couro Nobuck Legítimo Confortável Nobuck Ferrugem Liso 45 Br",
+      "link": "https://meli.la/1RuihHY",
+      "price": 159.9,
+      "original_price": 239.9,
+      "discount": 33,
+      "pix_price": 143.91,
+      "installments_qty": 5,
+      "installments_amount": 31.98
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
@@ -92,6 +82,16 @@
       "installments_amount": 26.4
     },
     {
+      "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 2264.0,
+      "discount": 16,
+      "pix_price": 1709.1,
+      "installments_qty": 10,
+      "installments_amount": 189.9
+    },
+    {
       "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 289.99,
@@ -112,14 +112,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2499.0,
-      "original_price": 2873.85,
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 74.72,
+      "original_price": 85.93,
       "discount": 13,
-      "pix_price": 2249.1,
-      "installments_qty": 12,
-      "installments_amount": 240.2
+      "pix_price": 67.25,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
