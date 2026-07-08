@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:45:27.077741+00:00",
+  "updated": "2026-07-08T19:18:03.450776+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -20,6 +20,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1880.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1692.0,
+      "installments_qty": 10,
+      "installments_amount": 197.9
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -62,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1979.0,
-      "original_price": 2599.0,
-      "discount": 24,
-      "pix_price": 1781.1,
-      "installments_qty": 10,
-      "installments_amount": 197.91
-    },
-    {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 269.9,
@@ -92,6 +92,16 @@
       "installments_amount": 28.37
     },
     {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Recarregáveis 48v Sem Fio Maleta Preto 50 Hz X 60 Hz 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.9,
+      "original_price": 126.38,
+      "discount": 13,
+      "pix_price": 98.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 74.72,
@@ -110,16 +120,6 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias + Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 104.5,
-      "original_price": 110.0,
-      "discount": 5,
-      "pix_price": 94.05,
-      "installments_qty": 4,
-      "installments_amount": 27.5
     }
   ]
 }
