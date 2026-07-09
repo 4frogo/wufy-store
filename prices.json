@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T10:51:20.588270+00:00",
+  "updated": "2026-07-09T14:46:13.065443+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -14,10 +14,10 @@
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 103.16,
+      "price": 99.9,
       "original_price": 229.9,
-      "discount": 55,
-      "pix_price": 92.84,
+      "discount": 57,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -52,22 +52,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 76.97,
+      "original_price": 119.55,
+      "discount": 36,
+      "pix_price": 69.27,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
       "original_price": 429.0,
       "discount": 36,
       "pix_price": 247.86,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 119.55,
-      "discount": 34,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
