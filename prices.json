@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T10:49:30.315845+00:00",
+  "updated": "2026-07-10T14:11:00.695615+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -18,6 +18,16 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 92.0,
+      "original_price": 199.0,
+      "discount": 54,
+      "pix_price": 82.8,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,16 +100,6 @@
       "pix_price": 260.99,
       "installments_qty": 12,
       "installments_amount": 28.37
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 74.72,
-      "original_price": 85.93,
-      "discount": 13,
-      "pix_price": 67.25,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
