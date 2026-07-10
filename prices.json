@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T02:29:32.705276+00:00",
+  "updated": "2026-07-10T07:32:20.897626+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -18,16 +18,6 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 92.0,
-      "original_price": 199.0,
-      "discount": 54,
-      "pix_price": 82.8,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,16 +62,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2631.0,
-      "original_price": 4199.0,
-      "discount": 37,
-      "pix_price": 2367.9,
-      "installments_qty": 10,
-      "installments_amount": 279.9
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -92,14 +72,24 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 75.66,
+      "original_price": 109.9,
+      "discount": 31,
+      "pix_price": 68.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1979.0,
+      "price": 1849.0,
       "original_price": 2599.0,
-      "discount": 24,
-      "pix_price": 1781.1,
+      "discount": 29,
+      "pix_price": 1664.1,
       "installments_qty": 10,
-      "installments_amount": 197.91
+      "installments_amount": 184.9
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -120,6 +110,16 @@
       "pix_price": 260.99,
       "installments_qty": 12,
       "installments_amount": 28.37
+    },
+    {
+      "search": "Smart Tv Aiwa 50 Android 4k Borda Ultrafina Hdr10 Dolby Áudio Aws-tv-50-bl-02-a",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2499.0,
+      "original_price": 2873.85,
+      "discount": 13,
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
     }
   ]
 }
