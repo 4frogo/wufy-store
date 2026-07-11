@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:49:20.879374+00:00",
+  "updated": "2026-07-11T16:51:36.719765+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -110,6 +110,16 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
+    },
+    {
+      "search": "Creatina Monoidratada 100% Pura Muscle Labs 300g Sem Sabor",
+      "link": "https://meli.la/25unFmR",
+      "price": 85.1,
+      "original_price": 92.35,
+      "discount": 8,
+      "pix_price": 76.59,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
