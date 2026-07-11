@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:10:30.517803+00:00",
+  "updated": "2026-07-11T09:24:05.604572+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -102,14 +102,14 @@
       "installments_amount": 219.9
     },
     {
-      "search": "Mini Projetor Wifi Para Celular Digital",
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 116.68,
-      "original_price": 134.18,
+      "price": 289.99,
+      "original_price": 333.49,
       "discount": 13,
-      "pix_price": 105.01,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     }
   ]
 }
