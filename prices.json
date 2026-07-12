@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:43:21.783522+00:00",
+  "updated": "2026-07-12T02:11:05.960500+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -73,7 +73,7 @@
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
+      "link": "https://meli.la/25unFmR",
       "price": 78.99,
       "original_price": 109.9,
       "discount": 28,
@@ -110,6 +110,16 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
+    },
+    {
+      "search": "Stabilon 60 Cápsulas Original - Loja Oficial Fórmula Premium Envio Imediato",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 69.9,
+      "original_price": 77.67,
+      "discount": 10,
+      "pix_price": 62.91,
+      "installments_qty": 3,
+      "installments_amount": 23.3
     }
   ]
 }
