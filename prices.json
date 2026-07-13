@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T14:21:58.021488+00:00",
+  "updated": "2026-07-13T17:52:57.063563+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -30,16 +30,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1880.0,
-      "original_price": 3799.0,
-      "discount": 51,
-      "pix_price": 1692.0,
-      "installments_qty": 10,
-      "installments_amount": 197.9
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -120,6 +110,16 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1830.0,
+      "original_price": 2034.0,
+      "discount": 10,
+      "pix_price": 1647.0,
+      "installments_qty": 10,
+      "installments_amount": 203.4
     }
   ]
 }
