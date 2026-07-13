@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T17:52:57.063563+00:00",
+  "updated": "2026-07-13T19:19:04.351207+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -32,6 +32,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 270.75,
+      "original_price": 499.9,
+      "discount": 46,
+      "pix_price": 243.68,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -40,16 +50,6 @@
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
-      "link": "https://meli.la/1RuihHY",
-      "price": 274.8,
-      "original_price": 439.9,
-      "discount": 38,
-      "pix_price": 247.32,
-      "installments_qty": 12,
-      "installments_amount": 26.88
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -82,6 +82,16 @@
       "installments_amount": 27.38
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2169.0,
+      "original_price": 2599.0,
+      "discount": 17,
+      "pix_price": 1952.1,
+      "installments_qty": 10,
+      "installments_amount": 216.9
+    },
+    {
       "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 289.99,
@@ -110,16 +120,6 @@
       "pix_price": 2249.1,
       "installments_qty": 12,
       "installments_amount": 240.2
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1830.0,
-      "original_price": 2034.0,
-      "discount": 10,
-      "pix_price": 1647.0,
-      "installments_qty": 10,
-      "installments_amount": 203.4
     }
   ]
 }
