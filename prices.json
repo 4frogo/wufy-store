@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T15:24:32.230181+00:00",
+  "updated": "2026-07-15T17:13:07.909350+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -72,24 +72,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv 40s5045/78g Série 5045 Full Hd 40 Roku Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1269.0,
-      "original_price": 1749.0,
-      "discount": 27,
-      "pix_price": 1142.1,
-      "installments_qty": 10,
-      "installments_amount": 126.9
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 109.9,
+      "discount": 28,
+      "pix_price": 71.09,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 279.9,
+      "price": 289.9,
       "original_price": 345.9,
-      "discount": 19,
-      "pix_price": 251.91,
+      "discount": 16,
+      "pix_price": 260.91,
       "installments_qty": 12,
-      "installments_amount": 27.38
+      "installments_amount": 28.36
     },
     {
       "search": "Projetor Portátil Magcubic Hy300pro Full Hd 8k Smart Tv Com Android 14 Wi-fi 6 E Bluetooth 5.0 Branco 127/220v",
@@ -100,26 +100,6 @@
       "pix_price": 357.3,
       "installments_qty": 7,
       "installments_amount": 56.71
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.0,
-      "original_price": 89.7,
-      "discount": 13,
-      "pix_price": 70.2,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1978.0,
-      "original_price": 2274.7,
-      "discount": 13,
-      "pix_price": 1780.2,
-      "installments_qty": 10,
-      "installments_amount": 197.8
     }
   ]
 }
