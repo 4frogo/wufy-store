@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T17:13:07.909350+00:00",
+  "updated": "2026-07-15T19:04:05.107649+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -42,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2041.0,
+      "original_price": 3799.0,
+      "discount": 46,
+      "pix_price": 1836.9,
+      "installments_qty": 10,
+      "installments_amount": 214.9
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -72,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.99,
-      "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 289.9,
@@ -92,14 +92,34 @@
       "installments_amount": 28.36
     },
     {
-      "search": "Projetor Portátil Magcubic Hy300pro Full Hd 8k Smart Tv Com Android 14 Wi-fi 6 E Bluetooth 5.0 Branco 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 397.0,
-      "original_price": 456.55,
+      "search": "Smart Tv 40s5045/78g Série 5045 Full Hd 40 Roku Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1478.0,
+      "original_price": 1749.0,
+      "discount": 15,
+      "pix_price": 1330.2,
+      "installments_qty": 10,
+      "installments_amount": 147.89
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.0,
+      "original_price": 89.7,
       "discount": 13,
-      "pix_price": 357.3,
-      "installments_qty": 7,
-      "installments_amount": 56.71
+      "pix_price": 70.2,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Hy320 Grande Full Hd 4k Android 11 Wifi 5g 390 Ansi Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 357.93,
+      "original_price": 369.0,
+      "discount": 3,
+      "pix_price": 322.14,
+      "installments_qty": 12,
+      "installments_amount": 35.01
     }
   ]
 }
