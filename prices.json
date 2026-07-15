@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-14T22:54:46.721088+00:00",
+  "updated": "2026-07-15T01:54:32.897677+00:00",
   "prices": [
-    {
-      "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 93.99,
-      "original_price": 249.9,
-      "discount": 62,
-      "pix_price": 84.59,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -22,14 +12,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 169.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 152.91,
-      "installments_qty": 12,
-      "installments_amount": 16.79
+      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional... Preto 127/220v 50hz/ 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 116.0,
+      "original_price": 249.97,
+      "discount": 54,
+      "pix_price": 104.4,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -82,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.99,
-      "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv 40s5045/78g Série 5045 Full Hd 40 Roku Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1269.0,
@@ -120,6 +100,26 @@
       "pix_price": 350.91,
       "installments_qty": 12,
       "installments_amount": 38.14
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 118.85,
+      "original_price": 136.68,
+      "discount": 13,
+      "pix_price": 106.97,
+      "installments_qty": 4,
+      "installments_amount": 29.71
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.0,
+      "original_price": 89.7,
+      "discount": 13,
+      "pix_price": 70.2,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
