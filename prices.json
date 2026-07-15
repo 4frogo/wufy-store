@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:56:03.715375+00:00",
+  "updated": "2026-07-15T22:55:56.670806+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,16 +22,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 169.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 152.91,
-      "installments_qty": 12,
-      "installments_amount": 16.79
-    },
-    {
       "search": "Projetor Portátil Magcubic Hy300pro Full Hd 8k Smart Tv Com Android 14 Wi-fi 6 E Bluetooth 5.0 Branco 127/220v",
       "link": "https://meli.la/1yBfiUy",
       "price": 231.79,
@@ -42,14 +32,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2041.0,
-      "original_price": 3799.0,
-      "discount": 46,
-      "pix_price": 1836.9,
-      "installments_qty": 10,
-      "installments_amount": 214.9
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
@@ -70,6 +60,26 @@
       "pix_price": 247.86,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 109.9,
+      "discount": 28,
+      "pix_price": 71.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1859.0,
+      "original_price": 2499.0,
+      "discount": 26,
+      "pix_price": 1673.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -102,24 +112,14 @@
       "installments_amount": 147.9
     },
     {
-      "search": "Whey Protein 100% Federal 1kg",
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 199.9,
-      "original_price": 229.88,
+      "price": 112.0,
+      "original_price": 128.8,
       "discount": 13,
-      "pix_price": 179.91,
-      "installments_qty": 12,
-      "installments_amount": 19.79
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.0,
-      "original_price": 89.7,
-      "discount": 13,
-      "pix_price": 70.2,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "pix_price": 100.8,
+      "installments_qty": 4,
+      "installments_amount": 28.0
     }
   ]
 }
