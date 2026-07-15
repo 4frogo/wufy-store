@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T07:59:02.777508+00:00",
+  "updated": "2026-07-15T10:04:12.208118+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,16 +18,6 @@
       "original_price": 249.97,
       "discount": 54,
       "pix_price": 104.4,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor Portátil Magcubic Hy300pro Full Hd 8k Smart Tv Com Android 14 Wi-fi 6 E Bluetooth 5.0 Branco 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 260.77,
-      "original_price": 439.0,
-      "discount": 41,
-      "pix_price": 234.69,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,6 +80,16 @@
       "pix_price": 251.91,
       "installments_qty": 12,
       "installments_amount": 27.38
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.99,
+      "original_price": 333.49,
+      "discount": 13,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
