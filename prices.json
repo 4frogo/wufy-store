@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T06:12:59.750449+00:00",
+  "updated": "2026-07-17T09:54:01.404614+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,6 +32,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1979.0,
+      "original_price": 3799.0,
+      "discount": 48,
+      "pix_price": 1781.1,
+      "installments_qty": 10,
+      "installments_amount": 219.9
+    },
+    {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
       "price": 270.75,
@@ -58,16 +68,6 @@
       "original_price": 429.0,
       "discount": 36,
       "pix_price": 247.86,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.99,
-      "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -112,14 +112,14 @@
       "installments_amount": 27.28
     },
     {
-      "search": "Smart Tv 40s5045/78g Série 5045 Full Hd 40 Roku Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1478.0,
-      "original_price": 1749.0,
-      "discount": 15,
-      "pix_price": 1330.2,
-      "installments_qty": 10,
-      "installments_amount": 147.8
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.0,
+      "original_price": 89.7,
+      "discount": 13,
+      "pix_price": 70.2,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
