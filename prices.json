@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T17:08:28.661174+00:00",
+  "updated": "2026-07-17T19:01:10.994905+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -82,20 +82,10 @@
       "installments_amount": 199.8
     },
     {
-      "search": "Projetor Mini Hy320 Wi-fi Smart Tv 4k Hd 110v/220v Portatil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 236.92,
-      "original_price": 299.9,
-      "discount": 21,
-      "pix_price": 213.23,
-      "installments_qty": 12,
-      "installments_amount": 23.45
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 20,
       "pix_price": 107.9,
       "installments_qty": 0,
@@ -110,6 +100,16 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
+    },
+    {
+      "search": "Mini Projetor Portátil 4k Android Full Hd Smart Wifi Hy320 Cor Preto Ponto Kit 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 305.99,
+      "original_price": 351.89,
+      "discount": 13,
+      "pix_price": 275.39,
+      "installments_qty": 12,
+      "installments_amount": 29.93
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
