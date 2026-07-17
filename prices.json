@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T15:11:26.404140+00:00",
+  "updated": "2026-07-17T17:08:28.661174+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -74,12 +74,22 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1999.0,
+      "price": 1998.0,
       "original_price": 2599.0,
       "discount": 23,
-      "pix_price": 1799.1,
+      "pix_price": 1798.2,
       "installments_qty": 10,
-      "installments_amount": 199.9
+      "installments_amount": 199.8
+    },
+    {
+      "search": "Projetor Mini Hy320 Wi-fi Smart Tv 4k Hd 110v/220v Portatil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 236.92,
+      "original_price": 299.9,
+      "discount": 21,
+      "pix_price": 213.23,
+      "installments_qty": 12,
+      "installments_amount": 23.45
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -110,16 +120,6 @@
       "pix_price": 70.2,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Projetor Vlx Hy320 Mini 4k Wi-fi Preto Bluetooth Android Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 258.9,
-      "original_price": 295.0,
-      "discount": 12,
-      "pix_price": 233.01,
-      "installments_qty": 12,
-      "installments_amount": 25.33
     }
   ]
 }
