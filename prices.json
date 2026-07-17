@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:08:32.526071+00:00",
+  "updated": "2026-07-17T06:12:59.750449+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -62,14 +62,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Profissional 4k 50 LG Uhd 50au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2087.0,
-      "original_price": 2899.0,
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 109.9,
       "discount": 28,
-      "pix_price": 1878.3,
-      "installments_qty": 10,
-      "installments_amount": 239.9
+      "pix_price": 71.09,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
@@ -112,14 +112,14 @@
       "installments_amount": 27.28
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.0,
-      "original_price": 89.7,
-      "discount": 13,
-      "pix_price": 70.2,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv 40s5045/78g Série 5045 Full Hd 40 Roku Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1478.0,
+      "original_price": 1749.0,
+      "discount": 15,
+      "pix_price": 1330.2,
+      "installments_qty": 10,
+      "installments_amount": 147.8
     }
   ]
 }
