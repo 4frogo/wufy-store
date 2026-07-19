@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T02:08:54.475460+00:00",
+  "updated": "2026-07-19T06:27:56.184893+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -62,16 +62,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1969.0,
-      "original_price": 2999.0,
-      "discount": 34,
-      "pix_price": 1772.1,
-      "installments_qty": 12,
-      "installments_amount": 189.25
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1869.0,
@@ -80,6 +70,16 @@
       "pix_price": 1682.1,
       "installments_qty": 10,
       "installments_amount": 186.9
+    },
+    {
+      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2014.0,
+      "original_price": 2539.0,
+      "discount": 21,
+      "pix_price": 1812.6,
+      "installments_qty": 10,
+      "installments_amount": 201.41
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
