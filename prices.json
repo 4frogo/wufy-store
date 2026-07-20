@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T02:29:19.455262+00:00",
+  "updated": "2026-07-20T06:42:44.610683+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -20,16 +20,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1979.0,
-      "original_price": 3799.0,
-      "discount": 48,
-      "pix_price": 1781.1,
-      "installments_qty": 10,
-      "installments_amount": 219.9
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -82,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.99,
-      "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1869.0,
@@ -100,6 +80,16 @@
       "pix_price": 1682.1,
       "installments_qty": 10,
       "installments_amount": 186.9
+    },
+    {
+      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2014.0,
+      "original_price": 2539.0,
+      "discount": 21,
+      "pix_price": 1812.6,
+      "installments_qty": 10,
+      "installments_amount": 201.41
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -120,6 +110,16 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
+    },
+    {
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.13,
+      "original_price": 89.85,
+      "discount": 13,
+      "pix_price": 70.32,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
