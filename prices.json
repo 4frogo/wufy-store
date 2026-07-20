@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:37:16.226936+00:00",
+  "updated": "2026-07-20T19:39:11.389194+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -38,6 +38,16 @@
       "original_price": 499.9,
       "discount": 46,
       "pix_price": 243.68,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.0,
+      "original_price": 169.0,
+      "discount": 43,
+      "pix_price": 86.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,16 +120,6 @@
       "pix_price": 69.76,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Alta Pressào Portátil Para Carros 96v 1000w Bivolt",
-      "link": "https://meli.la/19ErgKc",
-      "price": 149.7,
-      "original_price": 169.17,
-      "discount": 12,
-      "pix_price": 134.73,
-      "installments_qty": 5,
-      "installments_amount": 31.52
     }
   ]
 }
