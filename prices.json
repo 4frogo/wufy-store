@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:48:40.970636+00:00",
+  "updated": "2026-07-20T17:37:16.226936+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 55,
       "pix_price": 92.84,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 167.92,
+      "original_price": 349.9,
+      "discount": 52,
+      "pix_price": 151.13,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -28,16 +38,6 @@
       "original_price": 499.9,
       "discount": 46,
       "pix_price": 243.68,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.0,
-      "original_price": 169.0,
-      "discount": 43,
-      "pix_price": 86.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -68,16 +68,6 @@
       "original_price": 429.0,
       "discount": 36,
       "pix_price": 247.86,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor Astronauta Nebula Galáxia Estrelas Led C/ Controle Branco Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 37.81,
-      "original_price": 54.9,
-      "discount": 31,
-      "pix_price": 34.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -114,12 +104,22 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 78.13,
-      "original_price": 89.85,
+      "price": 77.51,
+      "original_price": 89.14,
       "discount": 13,
-      "pix_price": 70.32,
+      "pix_price": 69.76,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Alta Pressào Portátil Para Carros 96v 1000w Bivolt",
+      "link": "https://meli.la/19ErgKc",
+      "price": 149.7,
+      "original_price": 169.17,
+      "discount": 12,
+      "pix_price": 134.73,
+      "installments_qty": 5,
+      "installments_amount": 31.52
     }
   ]
 }
