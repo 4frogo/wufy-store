@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T17:12:34.654529+00:00",
+  "updated": "2026-07-21T19:12:29.205749+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,22 +22,22 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 182.17,
-      "original_price": 349.9,
-      "discount": 48,
-      "pix_price": 163.95,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
       "price": 96.0,
       "original_price": 169.0,
       "discount": 43,
       "pix_price": 86.4,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 202.41,
+      "original_price": 349.9,
+      "discount": 42,
+      "pix_price": 182.17,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,24 +82,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.99,
-      "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1869.0,
-      "original_price": 2599.0,
+      "price": 1796.0,
+      "original_price": 2499.0,
       "discount": 28,
-      "pix_price": 1682.1,
+      "pix_price": 1616.4,
       "installments_qty": 10,
-      "installments_amount": 186.9
+      "installments_amount": 204.1
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
