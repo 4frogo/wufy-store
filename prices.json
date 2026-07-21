@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T22:55:37.465418+00:00",
+  "updated": "2026-07-21T02:08:08.719390+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -14,12 +14,22 @@
     {
       "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
       "link": "https://meli.la/1yBfiUy",
-      "price": 171.92,
+      "price": 159.99,
       "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 154.73,
+      "discount": 54,
+      "pix_price": 143.99,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 169.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 152.91,
+      "installments_qty": 12,
+      "installments_amount": 16.79
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -62,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1952.0,
-      "original_price": 2799.0,
-      "discount": 30,
-      "pix_price": 1756.8,
-      "installments_qty": 10,
-      "installments_amount": 209.9
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1869.0,
@@ -80,6 +80,16 @@
       "pix_price": 1682.1,
       "installments_qty": 10,
       "installments_amount": 186.9
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1939.0,
+      "original_price": 2529.0,
+      "discount": 23,
+      "pix_price": 1745.1,
+      "installments_qty": 12,
+      "installments_amount": 186.37
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -100,16 +110,6 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 118.99,
-      "original_price": 136.84,
-      "discount": 13,
-      "pix_price": 107.09,
-      "installments_qty": 4,
-      "installments_amount": 29.75
     },
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
