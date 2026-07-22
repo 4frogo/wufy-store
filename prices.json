@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:00:48.430289+00:00",
+  "updated": "2026-07-22T22:58:24.729820+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -10,16 +10,6 @@
       "pix_price": 92.84,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 169.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 152.91,
-      "installments_qty": 12,
-      "installments_amount": 16.79
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -100,6 +90,16 @@
       "pix_price": 107.9,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 119.88,
+      "original_price": 137.86,
+      "discount": 13,
+      "pix_price": 107.89,
+      "installments_qty": 4,
+      "installments_amount": 29.97
     }
   ]
 }
