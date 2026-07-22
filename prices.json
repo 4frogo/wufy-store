@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T15:30:05.595494+00:00",
+  "updated": "2026-07-22T17:12:52.263379+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -42,16 +42,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 202.41,
-      "original_price": 349.9,
-      "discount": 42,
-      "pix_price": 182.17,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -70,6 +60,16 @@
       "pix_price": 1763.1,
       "installments_qty": 10,
       "installments_amount": 217.7
+    },
+    {
+      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 224.9,
+      "original_price": 349.9,
+      "discount": 36,
+      "pix_price": 202.41,
+      "installments_qty": 12,
+      "installments_amount": 22.26
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -94,12 +94,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1869.0,
-      "original_price": 2599.0,
-      "discount": 28,
-      "pix_price": 1682.1,
+      "price": 1845.0,
+      "original_price": 2499.0,
+      "discount": 26,
+      "pix_price": 1660.5,
       "installments_qty": 10,
-      "installments_amount": 186.9
+      "installments_amount": 209.7
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
