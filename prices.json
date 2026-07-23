@@ -1,25 +1,55 @@
 {
-  "updated": "2026-07-23T15:53:37.515134+00:00",
+  "updated": "2026-07-23T17:15:47.124290+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 87.96,
+      "price": 103.16,
       "original_price": 229.9,
-      "discount": 62,
-      "pix_price": 79.16,
+      "discount": 55,
+      "pix_price": 92.84,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 169.9,
+      "price": 161.4,
       "original_price": 349.9,
+      "discount": 54,
+      "pix_price": 145.26,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1870.0,
+      "original_price": 3799.0,
       "discount": 51,
-      "pix_price": 152.91,
-      "installments_qty": 12,
-      "installments_amount": 16.79
+      "pix_price": 1683.0,
+      "installments_qty": 10,
+      "installments_amount": 196.9
+    },
+    {
+      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 184.42,
+      "original_price": 349.9,
+      "discount": 47,
+      "pix_price": 165.98,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 270.75,
+      "original_price": 499.9,
+      "discount": 46,
+      "pix_price": 243.68,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
@@ -42,6 +72,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1959.0,
+      "original_price": 3099.0,
+      "discount": 37,
+      "pix_price": 1763.1,
+      "installments_qty": 10,
+      "installments_amount": 217.7
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -52,54 +92,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1845.0,
-      "original_price": 2499.0,
-      "discount": 26,
-      "pix_price": 1660.5,
-      "installments_qty": 10,
-      "installments_amount": 209.7
-    },
-    {
-      "search": "Smart Tv Tcl 40 Qled Full Hd Google Tv Bluetooth 40s5k",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1956.0,
-      "original_price": 2589.0,
-      "discount": 24,
-      "pix_price": 1760.4,
-      "installments_qty": 10,
-      "installments_amount": 195.65
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 109.9,
+      "discount": 28,
+      "pix_price": 71.09,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 20,
       "pix_price": 107.9,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Pote 100% Whey Protein Concentrado 900g Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 199.89,
-      "original_price": 229.87,
-      "discount": 13,
-      "pix_price": 179.9,
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
       "installments_qty": 12,
-      "installments_amount": 19.79
-    },
-    {
-      "search": "Bota Coturno Master Boots X-trail Segurança Trabalho Trilha",
-      "link": "https://meli.la/1RuihHY",
-      "price": 212.0,
-      "original_price": 243.8,
-      "discount": 13,
-      "pix_price": 190.8,
-      "installments_qty": 6,
-      "installments_amount": 35.33
+      "installments_amount": 28.36
     }
   ]
 }
