@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T10:16:43.290265+00:00",
+  "updated": "2026-07-23T13:44:46.187984+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -20,6 +20,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1870.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1683.0,
+      "installments_qty": 10,
+      "installments_amount": 196.9
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -62,6 +72,16 @@
       "installments_amount": 217.7
     },
     {
+      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 224.9,
+      "original_price": 349.9,
+      "discount": 36,
+      "pix_price": 202.41,
+      "installments_qty": 12,
+      "installments_amount": 22.26
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -72,34 +92,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1829.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1646.1,
-      "installments_qty": 10,
-      "installments_amount": 182.9
+      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 109.9,
+      "discount": 28,
+      "pix_price": 71.09,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 20,
       "pix_price": 107.9,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 77.51,
-      "original_price": 89.14,
-      "discount": 13,
-      "pix_price": 69.76,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
     }
   ]
 }
