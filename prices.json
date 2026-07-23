@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-22T22:58:24.729820+00:00",
+  "updated": "2026-07-23T02:12:52.508916+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 103.16,
+      "price": 87.96,
       "original_price": 229.9,
-      "discount": 55,
-      "pix_price": 92.84,
+      "discount": 62,
+      "pix_price": 79.16,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1829.0,
+      "original_price": 2599.0,
+      "discount": 30,
+      "pix_price": 1646.1,
+      "installments_qty": 10,
+      "installments_amount": 182.9
+    },
+    {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.99,
@@ -72,20 +82,10 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1845.0,
-      "original_price": 2499.0,
-      "discount": 26,
-      "pix_price": 1660.5,
-      "installments_qty": 10,
-      "installments_amount": 209.7
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 20,
       "pix_price": 107.9,
       "installments_qty": 0,
