@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:19:18.546102+00:00",
+  "updated": "2026-07-24T20:58:57.111329+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -82,6 +82,16 @@
       "installments_amount": 209.7
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2138.0,
+      "original_price": 2799.0,
+      "discount": 24,
+      "pix_price": 1924.2,
+      "installments_qty": 10,
+      "installments_amount": 229.9
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
@@ -90,16 +100,6 @@
       "pix_price": 107.9,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2299.0,
-      "original_price": 2529.0,
-      "discount": 9,
-      "pix_price": 2069.1,
-      "installments_qty": 10,
-      "installments_amount": 229.9
     }
   ]
 }
