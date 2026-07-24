@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:13:22.857135+00:00",
+  "updated": "2026-07-24T13:26:45.321906+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -64,10 +64,10 @@
     {
       "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
-      "price": 78.99,
+      "price": 76.62,
       "original_price": 109.9,
-      "discount": 28,
-      "pix_price": 71.09,
+      "discount": 30,
+      "pix_price": 68.96,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,34 +92,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.9,
-      "original_price": 345.9,
-      "discount": 16,
-      "pix_price": 260.91,
-      "installments_qty": 12,
-      "installments_amount": 28.36
-    },
-    {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.99,
-      "original_price": 333.49,
-      "discount": 13,
-      "pix_price": 260.99,
-      "installments_qty": 12,
-      "installments_amount": 28.37
-    },
-    {
-      "search": "Televisão Smart Tv Hq 50 Qled, 4k Uhd, Dolby Audio, Wi-fi, Bluetooth, 3 Hdmi, 2 Usb, Netflix, Prime Video, Bivolt",
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1822.0,
-      "original_price": 2062.0,
-      "discount": 12,
-      "pix_price": 1639.8,
-      "installments_qty": 12,
-      "installments_amount": 175.18
+      "price": 2299.0,
+      "original_price": 2529.0,
+      "discount": 9,
+      "pix_price": 2069.1,
+      "installments_qty": 10,
+      "installments_amount": 229.9
     }
   ]
 }
