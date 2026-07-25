@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:42:48.321646+00:00",
+  "updated": "2026-07-25T11:06:49.249523+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -42,16 +42,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -65,7 +55,7 @@
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 33,
       "pix_price": 89.91,
       "installments_qty": 0,
@@ -100,6 +90,36 @@
       "pix_price": 1641.6,
       "installments_qty": 10,
       "installments_amount": 209.7
+    },
+    {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.99,
+      "original_price": 333.49,
+      "discount": 13,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
+    },
+    {
+      "search": "Complemento Alimentar Sustagen Senior 50+ Sem Sabor Lata 370g",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 62.0,
+      "original_price": 71.3,
+      "discount": 13,
+      "pix_price": 55.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
