@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-27T06:59:35.636661+00:00",
+  "updated": "2026-07-27T11:16:01.656763+00:00",
   "prices": [
-    {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 69.9,
-      "original_price": 159.9,
-      "discount": 56,
-      "pix_price": 62.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -32,16 +22,6 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 177.55,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 159.8,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
       "price": 96.0,
@@ -58,6 +38,16 @@
       "original_price": 499.9,
       "discount": 40,
       "pix_price": 270.89,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -104,12 +94,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1824.0,
-      "original_price": 2499.0,
-      "discount": 27,
-      "pix_price": 1641.6,
+      "price": 1869.0,
+      "original_price": 2599.0,
+      "discount": 28,
+      "pix_price": 1682.1,
       "installments_qty": 10,
-      "installments_amount": 209.7
+      "installments_amount": 186.9
     },
     {
       "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
@@ -120,6 +110,16 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.99,
+      "original_price": 333.49,
+      "discount": 13,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     }
   ]
 }
