@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-28T16:03:42.362979+00:00",
+  "updated": "2026-07-28T19:16:25.160106+00:00",
   "prices": [
+    {
+      "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 108.5,
+      "original_price": 249.9,
+      "discount": 57,
+      "pix_price": 97.65,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -24,30 +34,20 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 161.4,
+      "price": 169.9,
       "original_price": 349.9,
-      "discount": 54,
-      "pix_price": 145.26,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.0,
-      "original_price": 169.0,
-      "discount": 43,
-      "pix_price": 86.4,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "discount": 51,
+      "pix_price": 152.91,
+      "installments_qty": 12,
+      "installments_amount": 16.79
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 284.05,
+      "price": 299.0,
       "original_price": 499.9,
-      "discount": 43,
-      "pix_price": 255.65,
+      "discount": 40,
+      "pix_price": 269.1,
       "installments_qty": 6,
       "installments_amount": 49.83
     },
@@ -72,6 +72,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1969.0,
+      "original_price": 2999.0,
+      "discount": 34,
+      "pix_price": 1772.1,
+      "installments_qty": 12,
+      "installments_amount": 189.25
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -90,16 +100,6 @@
       "pix_price": 1619.1,
       "installments_qty": 10,
       "installments_amount": 206.8
-    },
-    {
-      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2014.0,
-      "original_price": 2539.0,
-      "discount": 21,
-      "pix_price": 1812.6,
-      "installments_qty": 10,
-      "installments_amount": 201.41
     }
   ]
 }
