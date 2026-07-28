@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T05:22:36.813951+00:00",
+  "updated": "2026-07-28T08:25:42.060698+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
@@ -42,12 +42,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 300.99,
+      "price": 284.05,
       "original_price": 499.9,
-      "discount": 40,
-      "pix_price": 270.89,
+      "discount": 43,
+      "pix_price": 255.65,
+      "installments_qty": 6,
+      "installments_amount": 49.83
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,16 +100,6 @@
       "pix_price": 1619.1,
       "installments_qty": 10,
       "installments_amount": 206.8
-    },
-    {
-      "search": "Suplemento En Gel Bodyaction Web Series Cafeína Sabor Guaraná Com Açaí/morango/tangerina X 30g",
-      "link": "https://meli.la/25unFmR",
-      "price": 76.05,
-      "original_price": 95.06,
-      "discount": 20,
-      "pix_price": 68.44,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
