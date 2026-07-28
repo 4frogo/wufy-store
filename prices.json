@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T02:01:44.774788+00:00",
+  "updated": "2026-07-28T05:22:36.813951+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
@@ -52,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -82,24 +72,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2025.0,
-      "original_price": 2799.0,
-      "discount": 28,
-      "pix_price": 1822.5,
+      "price": 1812.0,
+      "original_price": 2539.0,
+      "discount": 29,
+      "pix_price": 1630.8,
       "installments_qty": 10,
-      "installments_amount": 217.77
+      "installments_amount": 201.41
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1859.0,
-      "original_price": 1999.0,
-      "discount": 7,
-      "pix_price": 1673.1,
+      "price": 1799.0,
+      "original_price": 2499.0,
+      "discount": 28,
+      "pix_price": 1619.1,
       "installments_qty": 10,
-      "installments_amount": 199.9
+      "installments_amount": 206.8
+    },
+    {
+      "search": "Suplemento En Gel Bodyaction Web Series Cafeína Sabor Guaraná Com Açaí/morango/tangerina X 30g",
+      "link": "https://meli.la/25unFmR",
+      "price": 76.05,
+      "original_price": 95.06,
+      "discount": 20,
+      "pix_price": 68.44,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
