@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T13:52:43.010044+00:00",
+  "updated": "2026-07-28T16:03:42.362979+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor",
@@ -100,26 +100,6 @@
       "pix_price": 1812.6,
       "installments_qty": 10,
       "installments_amount": 201.41
-    },
-    {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.9,
-      "original_price": 345.9,
-      "discount": 16,
-      "pix_price": 260.91,
-      "installments_qty": 12,
-      "installments_amount": 28.36
-    },
-    {
-      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 226.65,
-      "original_price": 260.65,
-      "discount": 13,
-      "pix_price": 203.99,
-      "installments_qty": 12,
-      "installments_amount": 22.44
     }
   ]
 }
