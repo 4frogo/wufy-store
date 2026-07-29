@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:57:41.838586+00:00",
+  "updated": "2026-07-29T15:49:17.290751+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -85,7 +85,7 @@
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 33,
       "pix_price": 89.91,
       "installments_qty": 0,
@@ -100,26 +100,6 @@
       "pix_price": 1641.6,
       "installments_qty": 10,
       "installments_amount": 209.7
-    },
-    {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.9,
-      "original_price": 345.9,
-      "discount": 16,
-      "pix_price": 260.91,
-      "installments_qty": 12,
-      "installments_amount": 28.36
-    },
-    {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 275.49,
-      "original_price": 289.99,
-      "discount": 5,
-      "pix_price": 247.94,
-      "installments_qty": 12,
-      "installments_amount": 26.95
     }
   ]
 }
