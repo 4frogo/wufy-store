@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T06:28:12.169046+00:00",
+  "updated": "2026-07-29T10:35:20.622265+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -42,14 +42,14 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
-      "price": 299.0,
+      "price": 300.99,
       "original_price": 499.9,
       "discount": 40,
-      "pix_price": 269.1,
-      "installments_qty": 6,
-      "installments_amount": 49.83
+      "pix_price": 270.89,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 3089.0,
+      "discount": 39,
+      "pix_price": 1709.1,
+      "installments_qty": 12,
+      "installments_amount": 182.53
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -70,16 +80,6 @@
       "pix_price": 247.86,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Aoc 50u6125 50'' 4k Led",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1969.0,
-      "original_price": 2999.0,
-      "discount": 34,
-      "pix_price": 1772.1,
-      "installments_qty": 12,
-      "installments_amount": 189.25
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
@@ -100,6 +100,26 @@
       "pix_price": 1641.6,
       "installments_qty": 10,
       "installments_amount": 209.7
+    },
+    {
+      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 345.9,
+      "original_price": 397.78,
+      "discount": 13,
+      "pix_price": 311.31,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 275.49,
+      "original_price": 289.99,
+      "discount": 5,
+      "pix_price": 247.94,
+      "installments_qty": 12,
+      "installments_amount": 26.95
     }
   ]
 }
