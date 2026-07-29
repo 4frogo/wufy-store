@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T20:49:12.090870+00:00",
+  "updated": "2026-07-29T22:58:14.320770+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 3089.0,
+      "discount": 39,
+      "pix_price": 1709.1,
+      "installments_qty": 12,
+      "installments_amount": 182.53
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -90,36 +100,6 @@
       "pix_price": 1660.5,
       "installments_qty": 10,
       "installments_amount": 209.7
-    },
-    {
-      "search": "Projetor Hy320 Davely Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 289.9,
-      "original_price": 345.9,
-      "discount": 16,
-      "pix_price": 260.91,
-      "installments_qty": 12,
-      "installments_amount": 28.36
-    },
-    {
-      "search": "Hisense Smart Tv 4k 50 Polegadas 50a6nv Com Dolby Vision, Hdr10, HLG, Dolby Gaming, Film Maker, Dts Virtual X, Compatibilidade Alexa E Google Home",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2999.0,
-      "original_price": 3448.85,
-      "discount": 13,
-      "pix_price": 2699.1,
-      "installments_qty": 10,
-      "installments_amount": 299.9
-    },
-    {
-      "search": "Projetor Hy320 Hardline Smart Tv Android Wifi 6 390 Ansi Lumens Full Hd Suporte 4k Hdmi Bluetooth Hy 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 275.49,
-      "original_price": 289.99,
-      "discount": 5,
-      "pix_price": 247.94,
-      "installments_qty": 12,
-      "installments_amount": 26.95
     }
   ]
 }
