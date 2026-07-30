@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T01:54:57.796832+00:00",
+  "updated": "2026-07-30T04:56:10.527751+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 161.4,
+      "original_price": 349.9,
+      "discount": 54,
+      "pix_price": 145.26,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
       "price": 300.99,
@@ -54,20 +64,20 @@
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1899.0,
-      "original_price": 3089.0,
-      "discount": 39,
-      "pix_price": 1709.1,
-      "installments_qty": 12,
-      "installments_amount": 182.53
+      "price": 1959.0,
+      "original_price": 3099.0,
+      "discount": 37,
+      "pix_price": 1763.1,
+      "installments_qty": 10,
+      "installments_amount": 217.7
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 275.4,
+      "price": 274.45,
       "original_price": 429.0,
       "discount": 36,
-      "pix_price": 247.86,
+      "pix_price": 247.0,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,24 +92,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Dark Lab Suplementação Proteínas Whey Protein Concetrada Pó Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 119.66,
-      "original_price": 137.61,
-      "discount": 13,
-      "pix_price": 107.69,
-      "installments_qty": 4,
-      "installments_amount": 29.92
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1859.0,
-      "original_price": 1999.0,
-      "discount": 7,
-      "pix_price": 1673.1,
+      "price": 1845.0,
+      "original_price": 2499.0,
+      "discount": 26,
+      "pix_price": 1660.5,
       "installments_qty": 10,
-      "installments_amount": 199.9
+      "installments_amount": 209.7
     }
   ]
 }
