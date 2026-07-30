@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T22:58:14.320770+00:00",
+  "updated": "2026-07-30T01:54:57.796832+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
@@ -28,16 +28,6 @@
       "original_price": 229.9,
       "discount": 55,
       "pix_price": 92.84,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 161.4,
-      "original_price": 349.9,
-      "discount": 54,
-      "pix_price": 145.26,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -85,21 +75,31 @@
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate Bcaa E Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 33,
       "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
+      "search": "Dark Lab Suplementação Proteínas Whey Protein Concetrada Pó Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 119.66,
+      "original_price": 137.61,
+      "discount": 13,
+      "pix_price": 107.69,
+      "installments_qty": 4,
+      "installments_amount": 29.92
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1845.0,
-      "original_price": 2499.0,
-      "discount": 26,
-      "pix_price": 1660.5,
+      "price": 1859.0,
+      "original_price": 1999.0,
+      "discount": 7,
+      "pix_price": 1673.1,
       "installments_qty": 10,
-      "installments_amount": 209.7
+      "installments_amount": 199.9
     }
   ]
 }
