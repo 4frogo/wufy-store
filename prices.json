@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-30T13:47:03.864479+00:00",
+  "updated": "2026-07-30T15:49:39.777468+00:00",
   "prices": [
     {
       "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
-      "price": 108.5,
+      "price": 103.07,
       "original_price": 249.9,
-      "discount": 57,
-      "pix_price": 97.65,
+      "discount": 59,
+      "pix_price": 92.76,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -100,6 +100,26 @@
       "pix_price": 1660.5,
       "installments_qty": 10,
       "installments_amount": 209.7
+    },
+    {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
+    },
+    {
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 275.49,
+      "original_price": 289.99,
+      "discount": 5,
+      "pix_price": 247.94,
+      "installments_qty": 12,
+      "installments_amount": 26.95
     }
   ]
 }
