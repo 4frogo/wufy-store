@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-31T06:41:09.921042+00:00",
+  "updated": "2026-07-31T10:34:25.523044+00:00",
   "prices": [
-    {
-      "search": "Lavadora Portátil Lava Jato De Alta Pressão 2 Baterias Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 103.07,
-      "original_price": 249.9,
-      "discount": 59,
-      "pix_price": 92.76,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -40,6 +30,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.0,
+      "original_price": 169.0,
+      "discount": 43,
+      "pix_price": 86.4,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
