@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T10:34:25.523044+00:00",
+  "updated": "2026-07-31T13:52:27.395566+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -92,14 +92,34 @@
       "installments_amount": 209.7
     },
     {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 92.58,
-      "original_price": 106.47,
+      "price": 119.89,
+      "original_price": 137.87,
       "discount": 13,
-      "pix_price": 83.32,
+      "pix_price": 107.9,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 275.49,
+      "original_price": 289.99,
+      "discount": 5,
+      "pix_price": 247.94,
+      "installments_qty": 12,
+      "installments_amount": 26.95
     }
   ]
 }
