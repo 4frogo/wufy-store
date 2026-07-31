@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:00:22.469331+00:00",
+  "updated": "2026-07-31T22:56:28.625279+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -18,16 +18,6 @@
       "original_price": 229.9,
       "discount": 55,
       "pix_price": 92.84,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 161.4,
-      "original_price": 349.9,
-      "discount": 54,
-      "pix_price": 145.26,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -85,7 +75,7 @@
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
-      "original_price": 149.86,
+      "original_price": 149.9,
       "discount": 33,
       "pix_price": 89.91,
       "installments_qty": 0,
@@ -100,6 +90,16 @@
       "pix_price": 1660.5,
       "installments_qty": 10,
       "installments_amount": 209.7
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 126.0,
+      "original_price": 144.9,
+      "discount": 13,
+      "pix_price": 113.4,
+      "installments_qty": 4,
+      "installments_amount": 31.5
     }
   ]
 }
