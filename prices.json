@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T09:55:18.626807+00:00",
+  "updated": "2026-08-01T11:14:30.382725+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Preto 127/220v",
@@ -28,6 +28,16 @@
       "original_price": 229.9,
       "discount": 55,
       "pix_price": 92.84,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,24 +102,14 @@
       "installments_amount": 28.36
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 109.9,
-      "original_price": 129.9,
-      "discount": 15,
-      "pix_price": 98.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 119.21,
-      "original_price": 137.09,
+      "price": 128.0,
+      "original_price": 147.2,
       "discount": 13,
-      "pix_price": 107.29,
-      "installments_qty": 4,
-      "installments_amount": 29.8
+      "pix_price": 115.2,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
