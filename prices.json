@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:56:28.625279+00:00",
+  "updated": "2026-08-01T02:14:43.177789+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -32,16 +32,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 300.99,
-      "original_price": 499.9,
-      "discount": 40,
-      "pix_price": 270.89,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -60,16 +50,6 @@
       "pix_price": 1763.1,
       "installments_qty": 10,
       "installments_amount": 217.7
-    },
-    {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 275.4,
-      "original_price": 429.0,
-      "discount": 36,
-      "pix_price": 247.86,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -94,12 +74,32 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 126.0,
-      "original_price": 144.9,
+      "price": 119.21,
+      "original_price": 137.09,
       "discount": 13,
-      "pix_price": 113.4,
+      "pix_price": 107.29,
       "installments_qty": 4,
-      "installments_amount": 31.5
+      "installments_amount": 29.8
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 407.55,
+      "original_price": 429.0,
+      "discount": 5,
+      "pix_price": 366.8,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 474.9,
+      "original_price": 499.9,
+      "discount": 5,
+      "pix_price": 427.41,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
