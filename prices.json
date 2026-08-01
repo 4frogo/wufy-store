@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:14:43.177789+00:00",
+  "updated": "2026-08-01T06:25:13.507135+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -22,34 +22,44 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta 21v Preto 127/220v 50 Hz/60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 96.0,
-      "original_price": 169.0,
-      "discount": 43,
-      "pix_price": 86.4,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 94.04,
+      "original_price": 149.99,
+      "discount": 37,
+      "pix_price": 84.64,
+      "installments_qty": 3,
+      "installments_amount": 33.0
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 313.4,
+      "original_price": 499.9,
+      "discount": 37,
+      "pix_price": 282.06,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1959.0,
-      "original_price": 3099.0,
-      "discount": 37,
-      "pix_price": 1763.1,
+      "price": 1812.0,
+      "original_price": 2799.0,
+      "discount": 35,
+      "pix_price": 1630.8,
       "installments_qty": 10,
-      "installments_amount": 217.7
+      "installments_amount": 194.9
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 284.9,
+      "original_price": 429.0,
+      "discount": 34,
+      "pix_price": 256.41,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -64,12 +74,22 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1845.0,
-      "original_price": 2499.0,
-      "discount": 26,
-      "pix_price": 1660.5,
+      "price": 1799.0,
+      "original_price": 2599.0,
+      "discount": 31,
+      "pix_price": 1619.1,
       "installments_qty": 10,
-      "installments_amount": 209.7
+      "installments_amount": 179.9
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 109.9,
+      "original_price": 129.9,
+      "discount": 15,
+      "pix_price": 98.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -80,26 +100,6 @@
       "pix_price": 107.29,
       "installments_qty": 4,
       "installments_amount": 29.8
-    },
-    {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 407.55,
-      "original_price": 429.0,
-      "discount": 5,
-      "pix_price": 366.8,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 474.9,
-      "original_price": 499.9,
-      "discount": 5,
-      "pix_price": 427.41,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
