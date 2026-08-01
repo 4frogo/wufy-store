@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-01T06:25:13.507135+00:00",
+  "updated": "2026-08-01T09:55:18.626807+00:00",
   "prices": [
+    {
+      "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 108.5,
+      "original_price": 249.9,
+      "discount": 57,
+      "pix_price": 97.65,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -20,16 +30,6 @@
       "pix_price": 92.84,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta 21v Preto 127/220v 50 Hz/60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.04,
-      "original_price": 149.99,
-      "discount": 37,
-      "pix_price": 84.64,
-      "installments_qty": 3,
-      "installments_amount": 33.0
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -82,6 +82,16 @@
       "installments_amount": 179.9
     },
     {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 109.9,
@@ -100,6 +110,16 @@
       "pix_price": 107.29,
       "installments_qty": 4,
       "installments_amount": 29.8
+    },
+    {
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 275.49,
+      "original_price": 289.99,
+      "discount": 5,
+      "pix_price": 247.94,
+      "installments_qty": 12,
+      "installments_amount": 26.95
     }
   ]
 }
