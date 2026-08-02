@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-02T06:30:27.126408+00:00",
+  "updated": "2026-08-02T09:52:52.592044+00:00",
   "prices": [
-    {
-      "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 108.5,
-      "original_price": 249.9,
-      "discount": 57,
-      "pix_price": 97.65,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -40,6 +30,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.0,
+      "original_price": 200.0,
+      "discount": 45,
+      "pix_price": 98.1,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -82,22 +82,22 @@
       "installments_amount": 179.9
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 2799.0,
-      "discount": 30,
-      "pix_price": 1754.1,
-      "installments_qty": 10,
-      "installments_amount": 194.9
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 119.89,
       "original_price": 137.87,
       "discount": 13,
       "pix_price": 107.9,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1940.0,
+      "original_price": 2109.0,
+      "discount": 8,
+      "pix_price": 1746.0,
       "installments_qty": 0,
       "installments_amount": 0
     }
