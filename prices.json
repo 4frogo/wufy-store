@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T16:55:18.762033+00:00",
+  "updated": "2026-08-02T19:02:45.826843+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -30,16 +30,6 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
-    },
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 109.0,
-      "original_price": 200.0,
-      "discount": 45,
-      "pix_price": 98.1,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -88,6 +78,16 @@
       "original_price": 149.86,
       "discount": 30,
       "pix_price": 94.19,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.0,
+      "original_price": 125.35,
+      "discount": 13,
+      "pix_price": 98.1,
       "installments_qty": 0,
       "installments_amount": 0
     },
