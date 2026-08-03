@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:52:18.947237+00:00",
+  "updated": "2026-08-03T02:14:02.392370+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -32,6 +32,26 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1859.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1673.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 176.69,
+      "original_price": 299.0,
+      "discount": 41,
+      "pix_price": 159.02,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -62,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1799.0,
-      "original_price": 2599.0,
-      "discount": 31,
-      "pix_price": 1619.1,
-      "installments_qty": 10,
-      "installments_amount": 179.9
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 104.66,
@@ -80,6 +90,16 @@
       "pix_price": 94.19,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 289.9,
+      "original_price": 345.9,
+      "discount": 16,
+      "pix_price": 260.91,
+      "installments_qty": 12,
+      "installments_amount": 28.36
     },
     {
       "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
