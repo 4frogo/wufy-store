@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T06:56:15.322263+00:00",
+  "updated": "2026-08-03T11:19:07.023790+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -32,12 +32,12 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
-      "price": 109.0,
-      "original_price": 200.0,
+      "price": 93.12,
+      "original_price": 169.0,
       "discount": 45,
-      "pix_price": 98.1,
+      "pix_price": 83.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -58,16 +58,6 @@
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 303.9,
-      "original_price": 499.9,
-      "discount": 39,
-      "pix_price": 273.51,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,6 +100,16 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
+    },
+    {
+      "search": "Bota Chelsea Masculina Milano Tipo Botina Feita Em Couro",
+      "link": "https://meli.la/1RuihHY",
+      "price": 449.9,
+      "original_price": 517.38,
+      "discount": 13,
+      "pix_price": 404.91,
+      "installments_qty": 8,
+      "installments_amount": 56.24
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
