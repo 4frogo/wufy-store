@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T11:19:07.023790+00:00",
+  "updated": "2026-08-03T14:27:35.656498+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 303.9,
+      "original_price": 499.9,
+      "discount": 39,
+      "pix_price": 273.51,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -74,10 +84,10 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1799.0,
+      "price": 1745.0,
       "original_price": 2599.0,
-      "discount": 31,
-      "pix_price": 1619.1,
+      "discount": 33,
+      "pix_price": 1570.5,
       "installments_qty": 10,
       "installments_amount": 179.9
     },
@@ -100,16 +110,6 @@
       "pix_price": 260.91,
       "installments_qty": 12,
       "installments_amount": 28.36
-    },
-    {
-      "search": "Bota Chelsea Masculina Milano Tipo Botina Feita Em Couro",
-      "link": "https://meli.la/1RuihHY",
-      "price": 449.9,
-      "original_price": 517.38,
-      "discount": 13,
-      "pix_price": 404.91,
-      "installments_qty": 8,
-      "installments_amount": 56.24
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
