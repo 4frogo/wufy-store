@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-03T17:47:53.016612+00:00",
+  "updated": "2026-08-03T19:25:16.496440+00:00",
   "prices": [
     {
-      "search": "Proteína Uêvo Recovery 4:1 Chocolate 1kg Suplemento Proteico Chocolate",
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
-      "price": 59.9,
-      "original_price": 150.0,
-      "discount": 60,
-      "pix_price": 53.91,
+      "price": 69.9,
+      "original_price": 159.9,
+      "discount": 56,
+      "pix_price": 62.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -30,6 +30,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.0,
+      "original_price": 200.0,
+      "discount": 45,
+      "pix_price": 98.1,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -78,16 +88,6 @@
       "original_price": 149.86,
       "discount": 30,
       "pix_price": 94.19,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Canhão De Espuma Snow Foam 1l Profissional Espuma Densa Engate Rápido Para Wap Kärcher Electrolux Vonder Bosch Branco",
-      "link": "https://meli.la/19ErgKc",
-      "price": 68.0,
-      "original_price": 90.67,
-      "discount": 25,
-      "pix_price": 61.2,
       "installments_qty": 0,
       "installments_amount": 0
     },
