@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:31:41.423318+00:00",
+  "updated": "2026-08-04T17:41:21.990033+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -32,6 +32,16 @@
       "installments_amount": 16.7
     },
     {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.0,
+      "original_price": 169.0,
+      "discount": 43,
+      "pix_price": 86.4,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/25unFmR",
       "price": 78.9,
@@ -44,10 +54,10 @@
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
-      "price": 313.4,
+      "price": 303.9,
       "original_price": 499.9,
-      "discount": 37,
-      "pix_price": 282.06,
+      "discount": 39,
+      "pix_price": 273.51,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -84,22 +94,12 @@
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1940.0,
-      "original_price": 2109.0,
-      "discount": 8,
-      "pix_price": 1746.0,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 105.73,
-      "original_price": 109.0,
-      "discount": 3,
-      "pix_price": 95.16,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 2109.0,
+      "original_price": 2425.35,
+      "discount": 13,
+      "pix_price": 1898.1,
+      "installments_qty": 12,
+      "installments_amount": 202.71
     }
   ]
 }
