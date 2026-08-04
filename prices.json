@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T22:57:29.212032+00:00",
+  "updated": "2026-08-04T01:59:59.682541+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -32,6 +32,16 @@
       "installments_amount": 16.79
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1859.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1673.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
+    },
+    {
       "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
       "link": "https://meli.la/19ErgKc",
       "price": 109.0,
@@ -62,6 +72,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1925.0,
+      "original_price": 3099.0,
+      "discount": 38,
+      "pix_price": 1732.5,
+      "installments_qty": 10,
+      "installments_amount": 218.8
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 275.4,
@@ -72,32 +92,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1745.0,
-      "original_price": 2599.0,
-      "discount": 33,
-      "pix_price": 1570.5,
-      "installments_qty": 10,
-      "installments_amount": 179.9
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 104.66,
+      "price": 99.9,
       "original_price": 149.86,
-      "discount": 30,
-      "pix_price": 94.19,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Smart TV AOC 50U6125 50'' 4K LED",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1940.0,
-      "original_price": 2109.0,
-      "discount": 8,
-      "pix_price": 1746.0,
+      "discount": 33,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     }
