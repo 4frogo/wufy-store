@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:08:11.981304+00:00",
+  "updated": "2026-08-04T22:58:57.862780+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -22,32 +22,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 169.0,
-      "original_price": 349.9,
-      "discount": 52,
-      "pix_price": 152.1,
-      "installments_qty": 12,
-      "installments_amount": 16.7
-    },
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
-      "price": 113.0,
-      "original_price": 200.0,
-      "discount": 44,
-      "pix_price": 101.7,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
+      "price": 96.0,
+      "original_price": 169.0,
+      "discount": 43,
+      "pix_price": 86.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,24 +52,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 149.86,
-      "discount": 33,
-      "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1749.0,
-      "original_price": 2599.0,
-      "discount": 33,
-      "pix_price": 1574.1,
+      "price": 1846.0,
+      "original_price": 2499.0,
+      "discount": 26,
+      "pix_price": 1661.4,
       "installments_qty": 10,
-      "installments_amount": 174.9
+      "installments_amount": 209.8
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 119.21,
+      "original_price": 137.09,
+      "discount": 13,
+      "pix_price": 107.29,
+      "installments_qty": 4,
+      "installments_amount": 29.8
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
