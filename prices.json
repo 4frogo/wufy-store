@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:44:05.351642+00:00",
+  "updated": "2026-08-05T19:23:30.772961+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -94,12 +94,12 @@
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1979.0,
-      "original_price": 2109.0,
-      "discount": 6,
-      "pix_price": 1781.1,
-      "installments_qty": 12,
-      "installments_amount": 190.3
+      "price": 1983.0,
+      "original_price": 2559.0,
+      "discount": 23,
+      "pix_price": 1784.7,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
