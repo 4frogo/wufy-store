@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-06T06:26:35.395583+00:00",
+  "updated": "2026-08-06T10:35:04.866441+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 160.11,
-      "original_price": 699.9,
-      "discount": 77,
-      "pix_price": 144.1,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -18,6 +8,16 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 88.2,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 69.9,
+      "original_price": 159.9,
+      "discount": 56,
+      "pix_price": 62.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
