@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:52:49.793911+00:00",
+  "updated": "2026-08-06T23:55:23.443336+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,16 +32,6 @@
       "installments_amount": 16.79
     },
     {
-      "search": "Lava Jato Portátil Alta Pressao Lavadora 2 Baterias + Maleta Preto Recarregavel Elétrica Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Lavagem Automotivo Evolufix",
-      "link": "https://meli.la/19ErgKc",
-      "price": 98.99,
-      "original_price": 200.0,
-      "discount": 51,
-      "pix_price": 89.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1859.0,
@@ -50,6 +40,26 @@
       "pix_price": 1673.1,
       "installments_qty": 10,
       "installments_amount": 199.9
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 93.12,
+      "original_price": 169.0,
+      "discount": 45,
+      "pix_price": 83.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 185.99,
+      "original_price": 299.0,
+      "discount": 38,
+      "pix_price": 167.39,
+      "installments_qty": 12,
+      "installments_amount": 18.41
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -72,12 +82,32 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 149.86,
+      "discount": 33,
+      "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
       "price": 1983.0,
       "original_price": 2559.0,
       "discount": 23,
       "pix_price": 1784.7,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/25unFmR",
+      "price": 109.9,
+      "original_price": 129.9,
+      "discount": 15,
+      "pix_price": 98.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,16 +120,6 @@
       "pix_price": 266.31,
       "installments_qty": 12,
       "installments_amount": 28.95
-    },
-    {
-      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 234.32,
-      "original_price": 246.65,
-      "discount": 5,
-      "pix_price": 210.89,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
