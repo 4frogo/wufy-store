@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T02:02:42.835803+00:00",
+  "updated": "2026-08-06T06:26:35.395583+00:00",
   "prices": [
     {
       "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
@@ -30,6 +30,16 @@
       "pix_price": 152.91,
       "installments_qty": 12,
       "installments_amount": 16.79
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1859.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1673.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
@@ -100,16 +110,6 @@
       "pix_price": 266.31,
       "installments_qty": 12,
       "installments_amount": 28.95
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1989.0,
-      "original_price": 2287.35,
-      "discount": 13,
-      "pix_price": 1790.1,
-      "installments_qty": 12,
-      "installments_amount": 191.18
     },
     {
       "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
