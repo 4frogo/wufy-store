@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:07:19.378157+00:00",
+  "updated": "2026-08-07T08:53:25.656806+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,16 +8,6 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 88.2,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 69.9,
-      "original_price": 159.9,
-      "discount": 56,
-      "pix_price": 62.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,6 +52,16 @@
       "installments_amount": 18.41
     },
     {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 313.4,
+      "original_price": 499.9,
+      "discount": 37,
+      "pix_price": 282.06,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.9,
@@ -82,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Coturno Masculina Adventure Engenheiro Macia Segurança",
-      "link": "https://meli.la/1RuihHY",
-      "price": 94.19,
-      "original_price": 134.9,
-      "discount": 30,
-      "pix_price": 84.77,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
       "price": 1983.0,
@@ -103,7 +93,7 @@
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
+      "link": "https://meli.la/2LMdTFf",
       "price": 109.9,
       "original_price": 129.9,
       "discount": 15,
