@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:34:44.470308+00:00",
+  "updated": "2026-08-08T10:26:53.790362+00:00",
   "prices": [
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -88,6 +88,16 @@
       "original_price": 129.9,
       "discount": 23,
       "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavitan Sf Omega 3 + Q10 C/60 Capsulas Cimed Sem Sabor",
+      "link": "https://meli.la/25unFmR",
+      "price": 34.87,
+      "original_price": 44.94,
+      "discount": 22,
+      "pix_price": 31.38,
       "installments_qty": 0,
       "installments_amount": 0
     },
