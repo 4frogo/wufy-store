@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-08T03:21:35.502447+00:00",
+  "updated": "2026-08-08T04:52:42.913966+00:00",
   "prices": [
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 161.4,
+      "original_price": 349.9,
+      "discount": 54,
+      "pix_price": 145.26,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1859.0,
+      "original_price": 3799.0,
+      "discount": 51,
+      "pix_price": 1673.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
+    },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
@@ -22,14 +42,24 @@
       "installments_amount": 18.41
     },
     {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1925.0,
+      "original_price": 3099.0,
+      "discount": 38,
+      "pix_price": 1732.5,
+      "installments_qty": 10,
+      "installments_amount": 218.8
+    },
+    {
+      "search": "Bota Chelsea Botina Masculina Couro Solado Anatômico Gel Are",
       "link": "https://meli.la/1RuihHY",
-      "price": 313.4,
-      "original_price": 499.9,
-      "discount": 37,
-      "pix_price": 282.06,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 181.74,
+      "original_price": 279.6,
+      "discount": 35,
+      "pix_price": 163.57,
+      "installments_qty": 6,
+      "installments_amount": 30.29
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -42,22 +72,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1809.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1628.1,
-      "installments_qty": 10,
-      "installments_amount": 180.91
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 149.86,
+      "discount": 33,
+      "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
-      "search": "Smart TV AOC 50U6125 50'' 4K LED",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1983.0,
-      "original_price": 2559.0,
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 99.9,
+      "original_price": 129.9,
       "discount": 23,
-      "pix_price": 1784.7,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
