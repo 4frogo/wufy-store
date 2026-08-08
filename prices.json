@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-08T10:26:53.790362+00:00",
+  "updated": "2026-08-08T12:36:41.953342+00:00",
   "prices": [
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 103.16,
+      "original_price": 229.9,
+      "discount": 55,
+      "pix_price": 92.84,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -32,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
       "link": "https://meli.la/1yBfiUy",
       "price": 185.99,
@@ -40,16 +60,6 @@
       "pix_price": 167.39,
       "installments_qty": 12,
       "installments_amount": 18.41
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1925.0,
-      "original_price": 3099.0,
-      "discount": 38,
-      "pix_price": 1732.5,
-      "installments_qty": 10,
-      "installments_amount": 218.8
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -82,22 +92,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 99.9,
-      "original_price": 129.9,
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1983.0,
+      "original_price": 2559.0,
       "discount": 23,
-      "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavitan Sf Omega 3 + Q10 C/60 Capsulas Cimed Sem Sabor",
-      "link": "https://meli.la/25unFmR",
-      "price": 34.87,
-      "original_price": 44.94,
-      "discount": 22,
-      "pix_price": 31.38,
+      "pix_price": 1784.7,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,16 +110,6 @@
       "pix_price": 266.31,
       "installments_qty": 12,
       "installments_amount": 28.95
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 218.4,
-      "original_price": 229.9,
-      "discount": 5,
-      "pix_price": 196.56,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
