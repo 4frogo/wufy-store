@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-09T06:46:08.672498+00:00",
+  "updated": "2026-08-09T08:36:48.569824+00:00",
   "prices": [
+    {
+      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 151.12,
+      "original_price": 699.9,
+      "discount": 78,
+      "pix_price": 136.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -38,16 +48,6 @@
       "original_price": 169.0,
       "discount": 45,
       "pix_price": 83.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Isolate Protein Fuse Refil 900g - Dark Lab Sabor Creme de avelã",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 138.76,
-      "discount": 43,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
