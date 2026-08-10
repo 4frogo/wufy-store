@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-10T14:54:37.083451+00:00",
+  "updated": "2026-08-10T16:50:03.871176+00:00",
   "prices": [
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 102.72,
-      "original_price": 229.9,
-      "discount": 55,
-      "pix_price": 92.45,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -18,6 +8,16 @@
       "original_price": 349.9,
       "discount": 54,
       "pix_price": 145.26,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 106.07,
+      "original_price": 229.9,
+      "discount": 54,
+      "pix_price": 95.46,
       "installments_qty": 0,
       "installments_amount": 0
     },
