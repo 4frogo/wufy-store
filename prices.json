@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-11T14:54:52.465096+00:00",
+  "updated": "2026-08-11T16:59:26.237412+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 106.07,
+      "price": 102.72,
       "original_price": 229.9,
-      "discount": 54,
-      "pix_price": 95.46,
+      "discount": 55,
+      "pix_price": 92.45,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 169.9,
+      "price": 161.4,
       "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 152.91,
-      "installments_qty": 12,
-      "installments_amount": 16.79
+      "discount": 54,
+      "pix_price": 145.26,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
@@ -52,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 185.99,
-      "original_price": 299.0,
-      "discount": 38,
-      "pix_price": 167.39,
-      "installments_qty": 12,
-      "installments_amount": 18.41
-    },
-    {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
       "price": 313.4,
@@ -90,6 +80,16 @@
       "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 209.9,
+      "original_price": 299.0,
+      "discount": 30,
+      "pix_price": 188.91,
+      "installments_qty": 12,
+      "installments_amount": 20.78
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
