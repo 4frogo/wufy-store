@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:53:49.538606+00:00",
+  "updated": "2026-08-12T18:56:24.852830+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -12,16 +12,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 161.4,
-      "original_price": 349.9,
-      "discount": 54,
-      "pix_price": 145.26,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1859.0,
@@ -30,6 +20,16 @@
       "pix_price": 1673.1,
       "installments_qty": 10,
       "installments_amount": 199.9
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
@@ -62,16 +62,6 @@
       "installments_amount": 18.41
     },
     {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 313.4,
-      "original_price": 499.9,
-      "discount": 37,
-      "pix_price": 282.06,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.9,
@@ -92,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart TV Tronos 43\" Full HD Android Wi-Fi Bluetooth HDMI USB HDR",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1279.0,
-      "original_price": 1499.0,
-      "discount": 15,
-      "pix_price": 1151.1,
-      "installments_qty": 12,
-      "installments_amount": 124.16
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 295.9,
@@ -110,6 +90,26 @@
       "pix_price": 266.31,
       "installments_qty": 12,
       "installments_amount": 28.95
+    },
+    {
+      "search": "Botina Zebu Masculina Couro Country Casual Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 355.0,
+      "original_price": 415.0,
+      "discount": 14,
+      "pix_price": 319.5,
+      "installments_qty": 7,
+      "installments_amount": 50.71
+    },
+    {
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2003.0,
+      "original_price": 2109.0,
+      "discount": 5,
+      "pix_price": 1802.7,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
