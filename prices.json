@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:56:43.836992+00:00",
+  "updated": "2026-08-12T14:53:59.861916+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -30,6 +30,16 @@
       "pix_price": 1673.1,
       "installments_qty": 10,
       "installments_amount": 199.9
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 93.12,
+      "original_price": 169.0,
+      "discount": 45,
+      "pix_price": 83.81,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -92,24 +102,14 @@
       "installments_amount": 28.95
     },
     {
-      "search": "Canhão Espuma Snow Foam Aplicador Para Wap Wl 1800 Wl1800",
-      "link": "https://meli.la/19ErgKc",
-      "price": 78.9,
-      "original_price": 90.73,
-      "discount": 13,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2109.0,
-      "original_price": 2425.35,
-      "discount": 13,
-      "pix_price": 1898.1,
-      "installments_qty": 12,
-      "installments_amount": 202.71
+      "price": 2003.0,
+      "original_price": 2109.0,
+      "discount": 5,
+      "pix_price": 1802.7,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
