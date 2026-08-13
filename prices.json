@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T22:35:51.941229+00:00",
+  "updated": "2026-08-13T01:25:34.182687+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -33,7 +33,7 @@
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
+      "link": "https://meli.la/25unFmR",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
@@ -90,26 +90,6 @@
       "pix_price": 266.31,
       "installments_qty": 12,
       "installments_amount": 28.95
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 128.12,
-      "original_price": 147.34,
-      "discount": 13,
-      "pix_price": 115.31,
-      "installments_qty": 4,
-      "installments_amount": 32.03
-    },
-    {
-      "search": "Ômega 3 Dux Fish Oil Sem Sabor 120 Cápsulas Suplemento Meg-3",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.0,
-      "original_price": 113.85,
-      "discount": 13,
-      "pix_price": 89.1,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
