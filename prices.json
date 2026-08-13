@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T01:25:34.182687+00:00",
+  "updated": "2026-08-13T04:07:17.335496+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,6 +22,16 @@
       "installments_amount": 199.9
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
+    },
+    {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
       "price": 93.12,
@@ -33,23 +43,13 @@
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
+      "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 185.99,
-      "original_price": 299.0,
-      "discount": 38,
-      "pix_price": 167.39,
-      "installments_qty": 12,
-      "installments_amount": 18.41
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
@@ -80,6 +80,16 @@
       "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 209.9,
+      "original_price": 299.0,
+      "discount": 30,
+      "pix_price": 188.91,
+      "installments_qty": 12,
+      "installments_amount": 20.78
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
