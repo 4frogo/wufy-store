@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-13T20:37:37.255428+00:00",
+  "updated": "2026-08-13T22:36:28.313904+00:00",
   "prices": [
+    {
+      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "link": "https://meli.la/19ErgKc",
+      "price": 97.42,
+      "original_price": 260.0,
+      "discount": 63,
+      "pix_price": 87.68,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -58,16 +68,6 @@
       "original_price": 149.86,
       "discount": 33,
       "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 91.91,
-      "original_price": 136.0,
-      "discount": 32,
-      "pix_price": 82.72,
       "installments_qty": 0,
       "installments_amount": 0
     },
