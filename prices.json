@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-13T22:36:28.313904+00:00",
+  "updated": "2026-08-14T01:24:28.617637+00:00",
   "prices": [
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 97.42,
-      "original_price": 260.0,
-      "discount": 63,
-      "pix_price": 87.68,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -30,6 +20,16 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 93.12,
+      "original_price": 169.0,
+      "discount": 45,
+      "pix_price": 83.81,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -94,12 +94,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2149.0,
+      "price": 2199.0,
       "original_price": 2499.0,
-      "discount": 14,
-      "pix_price": 1934.1,
+      "discount": 12,
+      "pix_price": 1979.1,
       "installments_qty": 12,
-      "installments_amount": 206.64
+      "installments_amount": 211.45
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
