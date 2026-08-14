@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:53:54.905947+00:00",
+  "updated": "2026-08-14T14:47:13.359683+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -10,16 +10,6 @@
       "pix_price": 92.45,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1859.0,
-      "original_price": 3799.0,
-      "discount": 51,
-      "pix_price": 1673.1,
-      "installments_qty": 10,
-      "installments_amount": 199.9
     },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -90,6 +80,16 @@
       "pix_price": 188.91,
       "installments_qty": 12,
       "installments_amount": 20.78
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1949.0,
+      "original_price": 2599.0,
+      "discount": 25,
+      "pix_price": 1754.1,
+      "installments_qty": 10,
+      "installments_amount": 194.9
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
