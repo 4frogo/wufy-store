@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T06:29:07.671736+00:00",
+  "updated": "2026-08-15T08:21:57.063840+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -100,6 +100,16 @@
       "pix_price": 258.32,
       "installments_qty": 12,
       "installments_amount": 28.08
+    },
+    {
+      "search": "Beef Protein Melancia Limao 900g Luva - Shark Pro Melancia/limão",
+      "link": "https://meli.la/25unFmR",
+      "price": 173.9,
+      "original_price": 199.98,
+      "discount": 13,
+      "pix_price": 156.51,
+      "installments_qty": 12,
+      "installments_amount": 17.19
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
