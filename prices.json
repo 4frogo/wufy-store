@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-15T04:25:04.287811+00:00",
+  "updated": "2026-08-15T06:29:07.671736+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 165.51,
-      "original_price": 699.9,
-      "discount": 76,
-      "pix_price": 148.96,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -18,6 +8,16 @@
       "original_price": 229.9,
       "discount": 55,
       "pix_price": 92.45,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -38,6 +38,16 @@
       "original_price": 169.0,
       "discount": 45,
       "pix_price": 83.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,16 +102,6 @@
       "installments_amount": 28.08
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 165.0,
-      "original_price": 189.75,
-      "discount": 13,
-      "pix_price": 148.5,
-      "installments_qty": 12,
-      "installments_amount": 16.31
-    },
-    {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
       "price": 2109.0,
@@ -110,16 +110,6 @@
       "pix_price": 1898.1,
       "installments_qty": 12,
       "installments_amount": 202.71
-    },
-    {
-      "search": "Whey 100% Hd Refil Black Skull - 900g (wpc, Wpi E Wph) Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 102.0,
-      "original_price": 109.9,
-      "discount": 7,
-      "pix_price": 91.8,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
