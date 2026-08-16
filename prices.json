@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T14:18:19.490290+00:00",
+  "updated": "2026-08-16T16:19:17.271877+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -104,12 +104,12 @@
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2109.0,
-      "original_price": 2425.35,
-      "discount": 13,
-      "pix_price": 1898.1,
-      "installments_qty": 12,
-      "installments_amount": 202.71
+      "price": 1940.0,
+      "original_price": 2109.0,
+      "discount": 8,
+      "pix_price": 1746.0,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
