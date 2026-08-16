@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:16:52.398905+00:00",
+  "updated": "2026-08-16T22:15:59.669351+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -20,6 +20,16 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 262.2,
+      "original_price": 499.9,
+      "discount": 48,
+      "pix_price": 235.98,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
