@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:22:43.117694+00:00",
+  "updated": "2026-08-17T16:21:48.120788+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -14,20 +14,20 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 170.9,
       "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
       "link": "https://meli.la/1RuihHY",
-      "price": 252.7,
+      "price": 262.2,
       "original_price": 499.9,
-      "discount": 49,
-      "pix_price": 227.43,
+      "discount": 48,
+      "pix_price": 235.98,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -42,22 +42,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 182.61,
-      "original_price": 299.0,
-      "discount": 39,
-      "pix_price": 164.35,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 188.91,
+      "original_price": 299.0,
+      "discount": 37,
+      "pix_price": 170.02,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -94,22 +94,22 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2280.0,
-      "original_price": 2599.0,
-      "discount": 12,
-      "pix_price": 2052.0,
+      "price": 2542.0,
+      "original_price": 2923.3,
+      "discount": 13,
+      "pix_price": 2287.8,
       "installments_qty": 10,
-      "installments_amount": 228.0
+      "installments_amount": 254.29
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1940.0,
-      "original_price": 2109.0,
-      "discount": 8,
-      "pix_price": 1746.0,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 2109.0,
+      "original_price": 2425.35,
+      "discount": 13,
+      "pix_price": 1898.1,
+      "installments_qty": 12,
+      "installments_amount": 202.71
     }
   ]
 }
