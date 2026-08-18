@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T04:30:53.770153+00:00",
+  "updated": "2026-08-18T06:35:18.400479+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -52,6 +52,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 188.91,
+      "original_price": 299.0,
+      "discount": 37,
+      "pix_price": 170.02,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.9,
@@ -100,16 +110,6 @@
       "pix_price": 1898.1,
       "installments_qty": 12,
       "installments_amount": 202.71
-    },
-    {
-      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 234.32,
-      "original_price": 246.65,
-      "discount": 5,
-      "pix_price": 210.89,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
