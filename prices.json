@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T20:22:02.907421+00:00",
+  "updated": "2026-08-19T22:19:54.533526+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -62,6 +62,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1949.0,
+      "original_price": 2599.0,
+      "discount": 25,
+      "pix_price": 1754.1,
+      "installments_qty": 10,
+      "installments_amount": 194.9
+    },
+    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 287.02,
@@ -70,16 +80,6 @@
       "pix_price": 258.32,
       "installments_qty": 12,
       "installments_amount": 28.08
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2542.0,
-      "original_price": 2923.3,
-      "discount": 13,
-      "pix_price": 2287.8,
-      "installments_qty": 10,
-      "installments_amount": 254.29
     },
     {
       "search": "Smart TV AOC 50U6125 50'' 4K LED",
