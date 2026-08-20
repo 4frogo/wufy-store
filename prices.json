@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T12:37:11.202407+00:00",
+  "updated": "2026-08-20T14:31:06.158253+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -12,24 +12,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.91,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 153.82,
-      "installments_qty": 12,
-      "installments_amount": 34.47
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "search": "Lavadora Lava Jato Portátil Duoseg Com 2 Baterias Maleta Completa Preto",
       "link": "https://meli.la/19ErgKc",
-      "price": 93.12,
-      "original_price": 169.0,
-      "discount": 45,
-      "pix_price": 83.81,
+      "price": 108.9,
+      "original_price": 229.9,
+      "discount": 53,
+      "pix_price": 98.01,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 3799.0,
+      "discount": 50,
+      "pix_price": 1709.1,
+      "installments_qty": 10,
+      "installments_amount": 199.9
     },
     {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
@@ -82,6 +92,16 @@
       "installments_amount": 28.08
     },
     {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 304.41,
+      "original_price": 349.9,
+      "discount": 13,
+      "pix_price": 273.97,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2542.0,
@@ -90,26 +110,6 @@
       "pix_price": 2287.8,
       "installments_qty": 10,
       "installments_amount": 254.29
-    },
-    {
-      "search": "Smart TV AOC 50U6125 50'' 4K LED",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2109.0,
-      "original_price": 2425.35,
-      "discount": 13,
-      "pix_price": 1898.1,
-      "installments_qty": 12,
-      "installments_amount": 202.71
-    },
-    {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 332.4,
-      "original_price": 349.9,
-      "discount": 5,
-      "pix_price": 299.16,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
