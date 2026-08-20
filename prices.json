@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:55:25.782120+00:00",
+  "updated": "2026-08-20T02:53:58.148891+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,22 +22,32 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 93.12,
-      "original_price": 169.0,
-      "discount": 45,
-      "pix_price": 83.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 188.91,
+      "original_price": 299.0,
+      "discount": 37,
+      "pix_price": 170.02,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 313.4,
+      "original_price": 499.9,
+      "discount": 37,
+      "pix_price": 282.06,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,6 +72,16 @@
       "installments_amount": 28.08
     },
     {
+      "search": "Lavadora Elétrica De Água De Lavagem De Bocal Alto Para Rega",
+      "link": "https://meli.la/19ErgKc",
+      "price": 25.06,
+      "original_price": 28.82,
+      "discount": 13,
+      "pix_price": 22.55,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2542.0,
@@ -82,16 +102,6 @@
       "installments_amount": 202.71
     },
     {
-      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 234.32,
-      "original_price": 246.65,
-      "discount": 5,
-      "pix_price": 210.89,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 332.4,
@@ -100,16 +110,6 @@
       "pix_price": 299.16,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Botina De Couro Sola De Borracha Costurado Antiderrapante",
-      "link": "https://meli.la/1RuihHY",
-      "price": 66.4,
-      "original_price": 69.9,
-      "discount": 5,
-      "pix_price": 59.76,
-      "installments_qty": 3,
-      "installments_amount": 22.13
     }
   ]
 }
