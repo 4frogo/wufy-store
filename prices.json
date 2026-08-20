@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:28:55.404877+00:00",
+  "updated": "2026-08-20T18:31:21.246183+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -14,32 +14,52 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 170.9,
       "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
-    },
-    {
-      "search": "Creatina Monohidratada em Pote 300g 100% Pura Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 39.9,
-      "original_price": 78.9,
-      "discount": 49,
-      "pix_price": 35.91,
+      "discount": 51,
+      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Philco 40'' Full Hd Roku Tv Ptv40 Hdr10 Dolby",
+      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 93.12,
+      "original_price": 169.0,
+      "discount": 45,
+      "pix_price": 83.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 129.9,
+      "discount": 39,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
       "link": "https://meli.la/1yBfiUy",
-      "price": 1277.0,
-      "original_price": 2059.0,
-      "discount": 38,
-      "pix_price": 1149.3,
-      "installments_qty": 10,
-      "installments_amount": 141.9
+      "price": 188.91,
+      "original_price": 299.0,
+      "discount": 37,
+      "pix_price": 170.02,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 313.4,
+      "original_price": 499.9,
+      "discount": 37,
+      "pix_price": 282.06,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -48,16 +68,6 @@
       "original_price": 149.86,
       "discount": 33,
       "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
-      "link": "https://meli.la/19ErgKc",
-      "price": 302.0,
-      "original_price": 399.89,
-      "discount": 24,
-      "pix_price": 271.8,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,16 +82,6 @@
       "installments_amount": 28.08
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 304.41,
-      "original_price": 349.9,
-      "discount": 13,
-      "pix_price": 273.97,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2199.0,
@@ -92,14 +92,24 @@
       "installments_amount": 219.92
     },
     {
-      "search": "Crocs Santa Cruz Mens Khaki/khaki",
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 350.99,
-      "original_price": 369.0,
-      "discount": 5,
-      "pix_price": 315.89,
-      "installments_qty": 7,
-      "installments_amount": 50.14
+      "price": 314.91,
+      "original_price": 349.9,
+      "discount": 10,
+      "pix_price": 283.42,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1940.0,
+      "original_price": 2109.0,
+      "discount": 8,
+      "pix_price": 1746.0,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
