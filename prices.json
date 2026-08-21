@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T00:58:50.429004+00:00",
+  "updated": "2026-08-21T02:59:23.947901+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,22 +32,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 179.09,
+      "original_price": 299.0,
+      "discount": 40,
+      "pix_price": 161.18,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 188.91,
-      "original_price": 299.0,
-      "discount": 37,
-      "pix_price": 170.02,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,6 +90,26 @@
       "pix_price": 258.32,
       "installments_qty": 12,
       "installments_amount": 28.08
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2542.0,
+      "original_price": 2923.3,
+      "discount": 13,
+      "pix_price": 2287.8,
+      "installments_qty": 10,
+      "installments_amount": 254.29
+    },
+    {
+      "search": "Smart TV AOC 50U6125 50'' 4K LED",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1940.0,
+      "original_price": 2109.0,
+      "discount": 8,
+      "pix_price": 1746.0,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
