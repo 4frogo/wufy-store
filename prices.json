@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-25T16:31:31.115761+00:00",
+  "updated": "2026-08-25T18:33:27.598038+00:00",
   "prices": [
+    {
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 69.9,
+      "original_price": 159.9,
+      "discount": 56,
+      "pix_price": 62.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -14,52 +24,52 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 170.9,
       "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 99.5,
+      "discount": 51,
+      "pix_price": 44.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Magcubic HY300PRO Smart Mini LED Android 14 8K Wi-Fi 6 e Bluetooth 5.4 para Cinema em Casa Allwinner H726",
       "link": "https://meli.la/1yBfiUy",
-      "price": 170.42,
-      "original_price": 299.0,
-      "discount": 43,
-      "pix_price": 153.38,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 95.74,
-      "original_price": 169.0,
-      "discount": 43,
-      "pix_price": 86.17,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 129.9,
-      "discount": 39,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Masculina Bull Terrier Bruce De Couro Natural Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 313.4,
-      "original_price": 499.9,
+      "price": 274.74,
+      "original_price": 439.0,
       "discount": 37,
-      "pix_price": 282.06,
+      "pix_price": 247.27,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 78.69,
+      "original_price": 124.9,
+      "discount": 37,
+      "pix_price": 70.82,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2045.0,
+      "original_price": 3099.0,
+      "discount": 34,
+      "pix_price": 1840.5,
+      "installments_qty": 10,
+      "installments_amount": 219.9
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -102,14 +112,14 @@
       "installments_amount": 206.45
     },
     {
-      "search": "Smart TV AOC 50U6125 50'' 4K LED",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2109.0,
-      "original_price": 2425.35,
-      "discount": 13,
-      "pix_price": 1898.1,
-      "installments_qty": 12,
-      "installments_amount": 202.71
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 290.9,
+      "original_price": 319.99,
+      "discount": 9,
+      "pix_price": 261.81,
+      "installments_qty": 6,
+      "installments_amount": 48.48
     }
   ]
 }
