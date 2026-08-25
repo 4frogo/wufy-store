@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:23:03.447755+00:00",
+  "updated": "2026-08-25T22:22:06.003585+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
@@ -12,32 +12,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 102.72,
-      "original_price": 229.9,
-      "discount": 55,
-      "pix_price": 92.45,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 170.9,
       "original_price": 349.9,
       "discount": 51,
       "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 48.99,
-      "original_price": 99.5,
-      "discount": 51,
-      "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -120,6 +100,26 @@
       "pix_price": 261.81,
       "installments_qty": 6,
       "installments_amount": 48.48
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 211.51,
+      "original_price": 229.9,
+      "discount": 8,
+      "pix_price": 190.36,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.32,
+      "original_price": 47.0,
+      "discount": 8,
+      "pix_price": 38.99,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
