@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:26:40.437949+00:00",
+  "updated": "2026-08-25T12:37:30.571978+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,6 +22,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 170.42,
+      "original_price": 299.0,
+      "discount": 43,
+      "pix_price": 153.38,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Lavadora Lava Jato Portátil Alta Pressão 2 Baterias Maleta",
       "link": "https://meli.la/19ErgKc",
       "price": 95.74,
@@ -38,16 +48,6 @@
       "original_price": 129.9,
       "discount": 39,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 186.1,
-      "original_price": 299.0,
-      "discount": 38,
-      "pix_price": 167.49,
       "installments_qty": 0,
       "installments_amount": 0
     },
