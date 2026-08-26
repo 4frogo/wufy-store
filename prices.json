@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:40:49.956902+00:00",
+  "updated": "2026-08-26T14:39:51.760433+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,16 +22,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 48.99,
-      "original_price": 99.5,
-      "discount": 51,
-      "pix_price": 44.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 179.9,
@@ -42,6 +32,16 @@
       "installments_amount": 17.78
     },
     {
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 299.9,
+      "original_price": 499.9,
+      "discount": 40,
+      "pix_price": 269.91,
+      "installments_qty": 6,
+      "installments_amount": 49.98
+    },
+    {
       "search": "Projetor Magcubic HY300PRO Smart Mini LED Android 14 8K Wi-Fi 6 e Bluetooth 5.4 para Cinema em Casa Allwinner H726",
       "link": "https://meli.la/1yBfiUy",
       "price": 274.74,
@@ -50,16 +50,6 @@
       "pix_price": 247.27,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 319.99,
-      "original_price": 499.9,
-      "discount": 36,
-      "pix_price": 287.99,
-      "installments_qty": 6,
-      "installments_amount": 53.33
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -74,12 +64,12 @@
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 263.81,
+      "price": 255.9,
       "original_price": 345.9,
-      "discount": 24,
-      "pix_price": 237.43,
+      "discount": 26,
+      "pix_price": 230.31,
       "installments_qty": 12,
-      "installments_amount": 25.81
+      "installments_amount": 25.03
     },
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -110,6 +100,16 @@
       "pix_price": 2114.1,
       "installments_qty": 10,
       "installments_amount": 234.9
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.63,
+      "original_price": 48.99,
+      "discount": 11,
+      "pix_price": 39.27,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
