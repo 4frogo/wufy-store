@@ -1,16 +1,6 @@
 {
-  "updated": "2026-08-26T19:43:50.677780+00:00",
+  "updated": "2026-08-26T22:40:50.586525+00:00",
   "prices": [
-    {
-      "search": "Lavadora Lava Jato Portátil Sem Fio 2 Baterias Maleta 21v Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 100.69,
-      "original_price": 259.99,
-      "discount": 61,
-      "pix_price": 90.62,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -32,16 +22,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 48.99,
-      "original_price": 99.5,
-      "discount": 51,
-      "pix_price": 44.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 179.9,
@@ -50,6 +30,16 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Lavadora Portátil Sem Fio Rubrox 300w 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 162.38,
+      "original_price": 279.0,
+      "discount": 42,
+      "pix_price": 146.14,
+      "installments_qty": 5,
+      "installments_amount": 32.48
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
@@ -100,6 +90,16 @@
       "pix_price": 1932.3,
       "installments_qty": 12,
       "installments_amount": 206.45
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.63,
+      "original_price": 48.99,
+      "discount": 11,
+      "pix_price": 39.27,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
