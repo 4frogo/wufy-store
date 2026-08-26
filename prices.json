@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:31:11.228497+00:00",
+  "updated": "2026-08-26T12:40:49.956902+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,6 +18,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 99.5,
+      "discount": 51,
+      "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -64,12 +74,12 @@
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 281.11,
+      "price": 263.81,
       "original_price": 345.9,
-      "discount": 19,
-      "pix_price": 253.0,
+      "discount": 24,
+      "pix_price": 237.43,
       "installments_qty": 12,
-      "installments_amount": 27.5
+      "installments_amount": 25.81
     },
     {
       "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -92,24 +102,14 @@
       "installments_amount": 206.45
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "search": "Smart TV AIWA 55” Android 4K Borda Ultrafina Dolby Vision&Atmos AWS-TV-55-BL-01-A",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2539.0,
-      "original_price": 2799.0,
-      "discount": 9,
-      "pix_price": 2285.1,
+      "price": 2349.0,
+      "original_price": 2699.0,
+      "discount": 13,
+      "pix_price": 2114.1,
       "installments_qty": 10,
-      "installments_amount": 253.99
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.32,
-      "original_price": 47.0,
-      "discount": 8,
-      "pix_price": 38.99,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_amount": 234.9
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
