@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T22:40:50.586525+00:00",
+  "updated": "2026-08-27T06:44:32.930427+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,6 +18,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 99.5,
+      "discount": 51,
+      "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,16 +100,6 @@
       "pix_price": 1932.3,
       "installments_qty": 12,
       "installments_amount": 206.45
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.63,
-      "original_price": 48.99,
-      "discount": 11,
-      "pix_price": 39.27,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
