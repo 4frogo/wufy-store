@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-27T18:46:12.199898+00:00",
+  "updated": "2026-08-28T04:00:09.918265+00:00",
   "prices": [
+    {
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 69.9,
+      "original_price": 159.9,
+      "discount": 56,
+      "pix_price": 62.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -12,12 +22,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
+      "price": 170.9,
+      "original_price": 349.9,
       "discount": 51,
-      "pix_price": 71.01,
+      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -30,16 +40,6 @@
       "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
     },
     {
       "search": "Lavadora Portátil Sem Fio Rubrox 300w 2 Baterias Maleta",
@@ -62,16 +62,6 @@
       "installments_amount": 53.33
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 94.9,
-      "original_price": 149.86,
-      "discount": 37,
-      "pix_price": 85.41,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor Magcubic HY300PRO Smart Mini LED Android 14 8K Wi-Fi 6 e Bluetooth 5.4 para Cinema em Casa Allwinner H726",
       "link": "https://meli.la/1yBfiUy",
       "price": 289.74,
@@ -80,6 +70,16 @@
       "pix_price": 260.77,
       "installments_qty": 12,
       "installments_amount": 28.34
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 149.86,
+      "discount": 33,
+      "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
