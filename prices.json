@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:24:36.104746+00:00",
+  "updated": "2026-08-29T08:33:34.046159+00:00",
   "prices": [
     {
       "search": "Lavadora de Alta Pressão Portátil Sem Fio com 2 Baterias e Maleta",
@@ -24,20 +24,10 @@
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
-      "price": 69.9,
+      "price": 78.9,
       "original_price": 159.9,
-      "discount": 56,
-      "pix_price": 62.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 48.99,
-      "original_price": 99.5,
       "discount": 51,
-      "pix_price": 44.09,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -54,20 +44,20 @@
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 299.9,
+      "price": 297.59,
       "original_price": 499.9,
       "discount": 40,
-      "pix_price": 269.91,
+      "pix_price": 267.83,
       "installments_qty": 6,
-      "installments_amount": 49.98
+      "installments_amount": 53.33
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 94.9,
+      "price": 99.9,
       "original_price": 149.86,
-      "discount": 37,
-      "pix_price": 85.41,
+      "discount": 33,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,6 +82,16 @@
       "installments_amount": 222.11
     },
     {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 46.69,
+      "original_price": 53.69,
+      "discount": 13,
+      "pix_price": 42.02,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 304.41,
@@ -104,12 +104,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2147.0,
-      "original_price": 2469.05,
-      "discount": 13,
-      "pix_price": 1932.3,
-      "installments_qty": 12,
-      "installments_amount": 206.45
+      "price": 2493.0,
+      "original_price": 2681.0,
+      "discount": 7,
+      "pix_price": 2243.7,
+      "installments_qty": 10,
+      "installments_amount": 268.1
     },
     {
       "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
