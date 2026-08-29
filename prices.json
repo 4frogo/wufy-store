@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:06:14.137851+00:00",
+  "updated": "2026-08-29T22:12:42.388306+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -8,16 +8,6 @@
       "original_price": 239.9,
       "discount": 71,
       "pix_price": 62.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora de Alta Pressão Portátil Sem Fio com 2 Baterias e Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 107.82,
-      "original_price": 300.0,
-      "discount": 64,
-      "pix_price": 97.04,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -52,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Rubrox Lavadora Portátil Gt7 Li-ion Bivolt 5m 300w Cobre",
+      "link": "https://meli.la/19ErgKc",
+      "price": 164.47,
+      "original_price": 299.0,
+      "discount": 45,
+      "pix_price": 148.02,
+      "installments_qty": 6,
+      "installments_amount": 31.51
+    },
+    {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
       "price": 297.59,
@@ -70,6 +70,16 @@
       "pix_price": 85.41,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Projetor Mini Hy320 Wi-fi Smart Tv 4k Hd 110v/220v Portatil",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 233.9,
+      "original_price": 329.9,
+      "discount": 29,
+      "pix_price": 210.51,
+      "installments_qty": 12,
+      "installments_amount": 23.15
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -110,16 +120,6 @@
       "pix_price": 2243.7,
       "installments_qty": 10,
       "installments_amount": 268.1
-    },
-    {
-      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 234.32,
-      "original_price": 246.65,
-      "discount": 5,
-      "pix_price": 210.89,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
