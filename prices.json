@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T14:55:27.845283+00:00",
+  "updated": "2026-08-29T19:06:14.137851+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -40,16 +50,6 @@
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
@@ -62,22 +62,12 @@
       "installments_amount": 53.33
     },
     {
-      "search": "Smart Projetor Profissional Android 11 Com Wifi 4k 1920 × 1080p 14000lm Hd 30 - 200 Led 2 Gb De Ram + 8 Gb De Rom",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 376.32,
-      "original_price": 588.0,
-      "discount": 36,
-      "pix_price": 338.69,
-      "installments_qty": 12,
-      "installments_amount": 36.81
-    },
-    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 99.9,
+      "price": 94.9,
       "original_price": 149.86,
-      "discount": 33,
-      "pix_price": 89.91,
+      "discount": 37,
+      "pix_price": 85.41,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -94,12 +84,12 @@
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2221.0,
+      "price": 2334.0,
       "original_price": 2799.0,
-      "discount": 21,
-      "pix_price": 1998.9,
+      "discount": 17,
+      "pix_price": 2100.6,
       "installments_qty": 10,
-      "installments_amount": 222.11
+      "installments_amount": 233.49
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -120,6 +110,16 @@
       "pix_price": 2243.7,
       "installments_qty": 10,
       "installments_amount": 268.1
+    },
+    {
+      "search": "Projetor Mini 4k Android 11 Wi-fi Bluetooth Cinema Em Casa Preto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 234.32,
+      "original_price": 246.65,
+      "discount": 5,
+      "pix_price": 210.89,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
