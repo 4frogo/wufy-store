@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-28T16:25:55.586827+00:00",
+  "updated": "2026-08-29T01:24:36.104746+00:00",
   "prices": [
+    {
+      "search": "Lavadora de Alta Pressão Portátil Sem Fio com 2 Baterias e Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 107.82,
+      "original_price": 300.0,
+      "discount": 64,
+      "pix_price": 97.04,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -22,34 +32,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 349.9,
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 99.5,
       "discount": 51,
-      "pix_price": 153.81,
+      "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 47.0,
-      "original_price": 78.9,
-      "discount": 40,
-      "pix_price": 42.3,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 297.59,
+      "price": 299.9,
       "original_price": 499.9,
       "discount": 40,
-      "pix_price": 267.83,
+      "pix_price": 269.91,
       "installments_qty": 6,
-      "installments_amount": 53.33
+      "installments_amount": 49.98
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -80,16 +90,6 @@
       "pix_price": 1998.9,
       "installments_qty": 10,
       "installments_amount": 222.11
-    },
-    {
-      "search": "Lavadora Lava Jato Portatil Pressao 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 103.0,
-      "original_price": 124.9,
-      "discount": 18,
-      "pix_price": 92.7,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
