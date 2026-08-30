@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T22:12:42.388306+00:00",
+  "updated": "2026-08-30T03:06:29.824050+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -52,14 +52,14 @@
       "installments_amount": 31.51
     },
     {
-      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 297.59,
-      "original_price": 499.9,
-      "discount": 40,
-      "pix_price": 267.83,
+      "price": 285.66,
+      "original_price": 469.99,
+      "discount": 39,
+      "pix_price": 257.09,
       "installments_qty": 6,
-      "installments_amount": 53.33
+      "installments_amount": 47.61
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2493.0,
-      "original_price": 2681.0,
-      "discount": 7,
-      "pix_price": 2243.7,
-      "installments_qty": 10,
-      "installments_amount": 268.1
+      "price": 2147.0,
+      "original_price": 2469.05,
+      "discount": 13,
+      "pix_price": 1932.3,
+      "installments_qty": 12,
+      "installments_amount": 206.45
     }
   ]
 }
