@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T14:39:57.543441+00:00",
+  "updated": "2026-08-30T19:01:08.657733+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -22,16 +22,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -40,6 +30,16 @@
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Rubrox Lavadora Portátil Gt7 Li-ion Bivolt 5m 300w Cobre",
