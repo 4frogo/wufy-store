@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T03:00:10.399391+00:00",
+  "updated": "2026-08-31T10:23:22.157589+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -62,16 +62,6 @@
       "installments_amount": 47.61
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 94.9,
-      "original_price": 149.86,
-      "discount": 37,
-      "pix_price": 85.41,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor Mini Hy320 Wi-fi Smart Tv 4k Hd 110v/220v Portatil",
       "link": "https://meli.la/1yBfiUy",
       "price": 233.9,
@@ -100,6 +90,16 @@
       "pix_price": 2037.6,
       "installments_qty": 10,
       "installments_amount": 233.49
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 139.9,
+      "original_price": 160.88,
+      "discount": 13,
+      "pix_price": 125.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
