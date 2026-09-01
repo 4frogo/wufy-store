@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T23:35:27.378178+00:00",
+  "updated": "2026-09-01T03:07:54.505715+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -18,16 +18,6 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.88,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -74,12 +64,12 @@
     {
       "search": "Projetor Mini Hy320 Wi-fi Smart Tv 4k Hd 110v/220v Portatil",
       "link": "https://meli.la/1yBfiUy",
-      "price": 233.9,
+      "price": 229.79,
       "original_price": 329.9,
-      "discount": 29,
-      "pix_price": 210.51,
+      "discount": 30,
+      "pix_price": 206.81,
       "installments_qty": 12,
-      "installments_amount": 23.15
+      "installments_amount": 22.75
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -100,6 +90,16 @@
       "pix_price": 2056.5,
       "installments_qty": 10,
       "installments_amount": 253.99
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 168.98,
+      "original_price": 194.33,
+      "discount": 13,
+      "pix_price": 152.08,
+      "installments_qty": 5,
+      "installments_amount": 33.8
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
