@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:25:51.709237+00:00",
+  "updated": "2026-09-02T23:47:56.802884+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -82,6 +82,16 @@
       "installments_amount": 25.03
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2154.0,
+      "original_price": 2799.0,
+      "discount": 23,
+      "pix_price": 1938.6,
+      "installments_qty": 10,
+      "installments_amount": 222.11
+    },
+    {
       "search": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
       "link": "https://meli.la/19ErgKc",
       "price": 94.34,
@@ -110,16 +120,6 @@
       "pix_price": 1932.3,
       "installments_qty": 12,
       "installments_amount": 206.45
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2521.0,
-      "original_price": 2799.0,
-      "discount": 10,
-      "pix_price": 2268.9,
-      "installments_qty": 10,
-      "installments_amount": 259.9
     }
   ]
 }
