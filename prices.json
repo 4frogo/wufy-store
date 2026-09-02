@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:27:44.457232+00:00",
+  "updated": "2026-09-02T08:20:26.278847+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -22,7 +22,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "search": "Whey Protein Concentrado 1kg Chocolate Branco Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 170.9,
       "original_price": 349.9,
@@ -32,22 +32,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.9,
+      "original_price": 199.0,
       "discount": 51,
-      "pix_price": 71.01,
+      "pix_price": 87.21,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
-      "link": "https://meli.la/19ErgKc",
-      "price": 99.9,
-      "original_price": 199.0,
-      "discount": 50,
-      "pix_price": 89.91,
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 189.9,
+      "original_price": 349.9,
+      "discount": 46,
+      "pix_price": 170.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,14 +62,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 285.66,
-      "original_price": 469.99,
-      "discount": 39,
-      "pix_price": 257.09,
-      "installments_qty": 6,
-      "installments_amount": 47.61
+      "search": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 844.55,
+      "original_price": 1289.0,
+      "discount": 34,
+      "pix_price": 760.1,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projeto Hy320 Smart TV Android 11 WiFi6 390 ANSI Lumens Full HD 4K Mini Projeto Portátil Preto com Controle Remoto Bluetoth Cinema Em Casa",
@@ -112,14 +112,14 @@
       "installments_amount": 206.45
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2521.0,
-      "original_price": 2799.0,
-      "discount": 10,
-      "pix_price": 2268.9,
-      "installments_qty": 10,
-      "installments_amount": 259.9
+      "search": "Bota Coturno Impermeável Brizon Masculino Palmilha De Gel Marrom-claro 43 Br",
+      "link": "https://meli.la/1RuihHY",
+      "price": 123.4,
+      "original_price": 129.9,
+      "discount": 5,
+      "pix_price": 111.06,
+      "installments_qty": 4,
+      "installments_amount": 32.48
     }
   ]
 }
