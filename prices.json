@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:51:03.746259+00:00",
+  "updated": "2026-09-02T20:25:51.709237+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -22,22 +22,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Branco Dark Lab",
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 349.9,
+      "price": 78.9,
+      "original_price": 159.9,
       "discount": 51,
-      "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.9,
-      "original_price": 199.0,
-      "discount": 51,
-      "pix_price": 87.21,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,14 +52,24 @@
       "installments_amount": 19.79
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1859.0,
-      "original_price": 2681.0,
+      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 285.66,
+      "original_price": 469.99,
+      "discount": 39,
+      "pix_price": 257.09,
+      "installments_qty": 6,
+      "installments_amount": 47.61
+    },
+    {
+      "search": "Projeto Hy320 Smart TV Android 11 WiFi6 390 ANSI Lumens Full HD 4K Mini Projeto Portátil Preto com Controle Remoto Bluetoth Cinema Em Casa",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 233.72,
+      "original_price": 339.57,
       "discount": 31,
-      "pix_price": 1673.1,
-      "installments_qty": 10,
-      "installments_amount": 199.9
+      "pix_price": 210.35,
+      "installments_qty": 12,
+      "installments_amount": 23.14
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -82,6 +82,16 @@
       "installments_amount": 25.03
     },
     {
+      "search": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
+      "link": "https://meli.la/19ErgKc",
+      "price": 94.34,
+      "original_price": 109.99,
+      "discount": 14,
+      "pix_price": 84.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 304.41,
@@ -92,6 +102,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2147.0,
+      "original_price": 2469.05,
+      "discount": 13,
+      "pix_price": 1932.3,
+      "installments_qty": 12,
+      "installments_amount": 206.45
+    },
+    {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
       "price": 2521.0,
@@ -100,26 +120,6 @@
       "pix_price": 2268.9,
       "installments_qty": 10,
       "installments_amount": 259.9
-    },
-    {
-      "search": "Mini Projetor Portátil Hy300 Suporta 4k Hd Bluetooth Android Branco",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 185.84,
-      "original_price": 202.0,
-      "discount": 8,
-      "pix_price": 167.26,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Coturno Impermeável Brizon Masculino Palmilha De Gel Marrom-claro 43 Br",
-      "link": "https://meli.la/1RuihHY",
-      "price": 123.4,
-      "original_price": 129.9,
-      "discount": 5,
-      "pix_price": 111.06,
-      "installments_qty": 4,
-      "installments_amount": 32.48
     }
   ]
 }
