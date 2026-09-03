@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T02:34:24.367341+00:00",
+  "updated": "2026-09-03T08:30:00.776789+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.9,
+      "original_price": 199.0,
+      "discount": 51,
+      "pix_price": 87.21,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -60,16 +70,6 @@
       "pix_price": 257.09,
       "installments_qty": 6,
       "installments_amount": 47.61
-    },
-    {
-      "search": "Lavadora Portátil Sem Fio Rubrox 12000mah 2 Baterias+maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 183.0,
-      "original_price": 297.3,
-      "discount": 38,
-      "pix_price": 164.7,
-      "installments_qty": 12,
-      "installments_amount": 18.12
     },
     {
       "search": "Projeto Hy320 Smart TV Android 11 WiFi6 390 ANSI Lumens Full HD 4K Mini Projeto Portátil Preto com Controle Remoto Bluetoth Cinema Em Casa",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2147.0,
-      "original_price": 2469.05,
-      "discount": 13,
-      "pix_price": 1932.3,
-      "installments_qty": 12,
-      "installments_amount": 206.45
+      "price": 2199.0,
+      "original_price": 2499.0,
+      "discount": 12,
+      "pix_price": 1979.1,
+      "installments_qty": 10,
+      "installments_amount": 249.9
     }
   ]
 }
