@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T23:47:56.802884+00:00",
+  "updated": "2026-09-03T02:34:24.367341+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -62,6 +62,16 @@
       "installments_amount": 47.61
     },
     {
+      "search": "Lavadora Portátil Sem Fio Rubrox 12000mah 2 Baterias+maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 183.0,
+      "original_price": 297.3,
+      "discount": 38,
+      "pix_price": 164.7,
+      "installments_qty": 12,
+      "installments_amount": 18.12
+    },
+    {
       "search": "Projeto Hy320 Smart TV Android 11 WiFi6 390 ANSI Lumens Full HD 4K Mini Projeto Portátil Preto com Controle Remoto Bluetoth Cinema Em Casa",
       "link": "https://meli.la/1yBfiUy",
       "price": 233.72,
@@ -84,22 +94,12 @@
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2154.0,
+      "price": 2221.0,
       "original_price": 2799.0,
-      "discount": 23,
-      "pix_price": 1938.6,
+      "discount": 21,
+      "pix_price": 1998.9,
       "installments_qty": 10,
       "installments_amount": 222.11
-    },
-    {
-      "search": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.34,
-      "original_price": 109.99,
-      "discount": 14,
-      "pix_price": 84.91,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
