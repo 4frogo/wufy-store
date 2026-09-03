@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-03T19:03:34.820907+00:00",
+  "updated": "2026-09-03T22:10:25.690602+00:00",
   "prices": [
+    {
+      "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/25unFmR",
+      "price": 68.9,
+      "original_price": 239.9,
+      "discount": 71,
+      "pix_price": 62.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -12,14 +22,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Portátil Sem Fio 48v Lava Jato 2 Baterias Maleta Preto 127/220v 50/60hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 103.16,
-      "original_price": 187.89,
-      "discount": 45,
-      "pix_price": 92.84,
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.9,
+      "original_price": 199.0,
+      "discount": 51,
+      "pix_price": 87.21,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -32,24 +62,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 199.9,
-      "original_price": 349.9,
-      "discount": 43,
-      "pix_price": 179.91,
-      "installments_qty": 12,
-      "installments_amount": 19.79
+      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 285.66,
+      "original_price": 469.99,
+      "discount": 39,
+      "pix_price": 257.09,
+      "installments_qty": 6,
+      "installments_amount": 47.61
     },
     {
-      "search": "Televisão Smart Tv Hq 50 Qled, 4k Uhd, Dolby Audio, Wi-fi, Bluetooth, 3 Hdmi, 2 Usb, Netflix, Prime Video, Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2359.0,
-      "original_price": 3700.0,
-      "discount": 36,
-      "pix_price": 2123.1,
+      "search": "Projeto Hy320 Smart TV Android 11 WiFi6 390 ANSI Lumens Full HD 4K Mini Projeto Portátil Preto com Controle Remoto Bluetoth Cinema Em Casa",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 233.72,
+      "original_price": 339.57,
+      "discount": 31,
+      "pix_price": 210.35,
       "installments_qty": 12,
-      "installments_amount": 226.74
+      "installments_amount": 23.14
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -62,14 +92,14 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Bota Coturno Masculina Adventure Engenheiro Macia Segurança",
-      "link": "https://meli.la/1RuihHY",
-      "price": 97.28,
-      "original_price": 134.9,
-      "discount": 28,
-      "pix_price": 87.55,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2221.0,
+      "original_price": 2799.0,
+      "discount": 21,
+      "pix_price": 1998.9,
+      "installments_qty": 10,
+      "installments_amount": 222.11
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -82,34 +112,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Mini Projetor Portátil Hy300 Suporta 4k Hd Bluetooth Android Branco",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 188.44,
-      "original_price": 228.0,
-      "discount": 17,
-      "pix_price": 169.6,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Suplemento en pó Black Skull Proteína de Whey 100%HD Gourmet sabor chocolate x 900g",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 97.87,
-      "original_price": 112.55,
-      "discount": 13,
-      "pix_price": 88.08,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2147.0,
-      "original_price": 2469.05,
-      "discount": 13,
-      "pix_price": 1932.3,
-      "installments_qty": 12,
-      "installments_amount": 206.45
+      "price": 2199.0,
+      "original_price": 2499.0,
+      "discount": 12,
+      "pix_price": 1979.1,
+      "installments_qty": 10,
+      "installments_amount": 249.9
     }
   ]
 }
