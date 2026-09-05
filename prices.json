@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T02:31:34.126313+00:00",
+  "updated": "2026-09-05T08:00:43.816172+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -102,16 +102,6 @@
       "installments_amount": 222.11
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2147.0,
-      "original_price": 2469.05,
-      "discount": 13,
-      "pix_price": 1932.3,
-      "installments_qty": 12,
-      "installments_amount": 206.45
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -120,6 +110,16 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2199.0,
+      "original_price": 2499.0,
+      "discount": 12,
+      "pix_price": 1979.1,
+      "installments_qty": 10,
+      "installments_amount": 249.9
     }
   ]
 }
