@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T14:25:42.567832+00:00",
+  "updated": "2026-09-05T17:53:13.189278+00:00",
   "prices": [
     {
       "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
@@ -8,16 +8,6 @@
       "original_price": 239.9,
       "discount": 71,
       "pix_price": 62.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
-      "link": "https://meli.la/19ErgKc",
-      "price": 103.55,
-      "original_price": 249.97,
-      "discount": 59,
-      "pix_price": 93.19,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -38,6 +28,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
+      "link": "https://meli.la/19ErgKc",
+      "price": 99.63,
+      "original_price": 199.0,
+      "discount": 50,
+      "pix_price": 89.67,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -102,16 +102,6 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2147.0,
-      "original_price": 2469.05,
-      "discount": 13,
-      "pix_price": 1932.3,
-      "installments_qty": 12,
-      "installments_amount": 206.45
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -120,6 +110,16 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2199.0,
+      "original_price": 2499.0,
+      "discount": 12,
+      "pix_price": 1979.1,
+      "installments_qty": 10,
+      "installments_amount": 249.9
     }
   ]
 }
