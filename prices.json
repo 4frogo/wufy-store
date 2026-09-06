@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T16:41:09.506716+00:00",
+  "updated": "2026-09-06T19:54:11.398253+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -38,16 +38,6 @@
       "original_price": 199.0,
       "discount": 50,
       "pix_price": 89.67,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 46.0,
-      "original_price": 78.9,
-      "discount": 42,
-      "pix_price": 41.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -100,6 +90,16 @@
       "pix_price": 230.31,
       "installments_qty": 12,
       "installments_amount": 25.03
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 45.22,
+      "original_price": 52.0,
+      "discount": 13,
+      "pix_price": 40.7,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
