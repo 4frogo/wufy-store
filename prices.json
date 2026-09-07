@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:25:47.018784+00:00",
+  "updated": "2026-09-07T02:24:59.814032+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,12 +32,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
-      "link": "https://meli.la/19ErgKc",
-      "price": 99.63,
-      "original_price": 199.0,
-      "discount": 50,
-      "pix_price": 89.67,
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 179.84,
+      "discount": 44,
+      "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 46.0,
+      "original_price": 78.9,
+      "discount": 42,
+      "pix_price": 41.4,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,16 +72,6 @@
       "installments_amount": 22.97
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 149.86,
-      "discount": 33,
-      "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
       "price": 1875.0,
@@ -92,16 +92,6 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.22,
-      "original_price": 52.0,
-      "discount": 13,
-      "pix_price": 40.7,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2147.0,
@@ -120,6 +110,16 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
+      "link": "https://meli.la/19ErgKc",
+      "price": 129.94,
+      "original_price": 146.0,
+      "discount": 11,
+      "pix_price": 116.95,
+      "installments_qty": 4,
+      "installments_amount": 32.48
     }
   ]
 }
