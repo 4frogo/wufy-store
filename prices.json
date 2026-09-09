@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T02:38:26.012702+00:00",
+  "updated": "2026-09-09T08:34:23.497157+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.88,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.99,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -42,6 +52,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Monohidratada 300g Pó",
+      "link": "https://meli.la/25unFmR",
+      "price": 41.99,
+      "original_price": 78.9,
+      "discount": 47,
+      "pix_price": 37.79,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
       "link": "https://meli.la/1RuihHY",
       "price": 285.66,
@@ -60,16 +80,6 @@
       "pix_price": 208.8,
       "installments_qty": 12,
       "installments_amount": 22.97
-    },
-    {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 149.86,
-      "discount": 33,
-      "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -110,16 +120,6 @@
       "pix_price": 1960.2,
       "installments_qty": 10,
       "installments_amount": 247.59
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 46.53,
-      "original_price": 47.27,
-      "discount": 2,
-      "pix_price": 41.88,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
