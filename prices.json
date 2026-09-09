@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:34:23.497157+00:00",
+  "updated": "2026-09-09T14:07:47.848475+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -52,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó",
-      "link": "https://meli.la/25unFmR",
-      "price": 41.99,
-      "original_price": 78.9,
-      "discount": 47,
-      "pix_price": 37.79,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
       "link": "https://meli.la/1RuihHY",
       "price": 285.66,
@@ -92,6 +82,16 @@
       "installments_amount": 25.03
     },
     {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 41.33,
+      "original_price": 48.99,
+      "discount": 16,
+      "pix_price": 37.2,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
       "price": 2529.0,
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2178.0,
-      "original_price": 2475.0,
+      "price": 2290.0,
+      "original_price": 2599.0,
       "discount": 12,
-      "pix_price": 1960.2,
+      "pix_price": 2061.0,
       "installments_qty": 10,
-      "installments_amount": 247.59
+      "installments_amount": 229.0
     }
   ]
 }
