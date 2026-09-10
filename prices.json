@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T02:40:53.215520+00:00",
+  "updated": "2026-09-10T08:36:13.387683+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,7 +32,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
+      "search": "Lavadora de Alta Pressão Quicko Portátil a Bateria, com 2 Baterias e Dispenser para Sabão",
       "link": "https://meli.la/19ErgKc",
       "price": 99.63,
       "original_price": 199.0,
@@ -48,16 +48,6 @@
       "original_price": 149.86,
       "discount": 47,
       "pix_price": 71.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 41.99,
-      "original_price": 78.9,
-      "discount": 47,
-      "pix_price": 37.79,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -118,6 +108,16 @@
       "original_price": 349.9,
       "discount": 12,
       "pix_price": 278.22,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 46.53,
+      "original_price": 47.27,
+      "discount": 2,
+      "pix_price": 41.88,
       "installments_qty": 0,
       "installments_amount": 0
     }
