@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:11:34.201998+00:00",
+  "updated": "2026-09-10T02:40:53.215520+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -92,6 +92,16 @@
       "installments_amount": 25.03
     },
     {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2129.0,
+      "original_price": 2448.35,
+      "discount": 13,
+      "pix_price": 1916.1,
+      "installments_qty": 12,
+      "installments_amount": 204.63
+    },
+    {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
       "price": 2529.0,
@@ -110,16 +120,6 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2290.0,
-      "original_price": 2599.0,
-      "discount": 12,
-      "pix_price": 2061.0,
-      "installments_qty": 10,
-      "installments_amount": 229.0
     }
   ]
 }
