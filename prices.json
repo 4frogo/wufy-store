@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-11T20:21:31.211821+00:00",
+  "updated": "2026-09-11T23:49:46.981624+00:00",
   "prices": [
+    {
+      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 699.9,
+      "discount": 76,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -12,32 +22,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
-      "discount": 51,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
-      "link": "https://meli.la/19ErgKc",
-      "price": 99.63,
-      "original_price": 199.0,
-      "discount": 50,
-      "pix_price": 89.67,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Creatina Monohidratada 300g Pó Max Titanium",
       "link": "https://meli.la/25unFmR",
       "price": 45.0,
       "original_price": 85.42,
       "discount": 47,
       "pix_price": 40.5,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.9,
+      "original_price": 199.0,
+      "discount": 45,
+      "pix_price": 98.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
