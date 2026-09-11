@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:41:59.572301+00:00",
+  "updated": "2026-09-11T20:21:31.211821+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,6 +18,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 99.63,
+      "original_price": 199.0,
+      "discount": 50,
+      "pix_price": 89.67,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -80,16 +90,6 @@
       "pix_price": 1774.8,
       "installments_qty": 12,
       "installments_amount": 189.54
-    },
-    {
-      "search": "Lavadora Alta Pressão Portátil Sem Fio 96v 1000w 2 Baterias Preto 127/220v 50 Hz/60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 181.16,
-      "original_price": 239.9,
-      "discount": 24,
-      "pix_price": 163.04,
-      "installments_qty": 6,
-      "installments_amount": 31.78
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
