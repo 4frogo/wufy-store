@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:19:17.904159+00:00",
+  "updated": "2026-09-12T13:20:02.693191+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.9,
+      "original_price": 199.0,
+      "discount": 45,
+      "pix_price": 98.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -60,16 +70,6 @@
       "pix_price": 230.31,
       "installments_qty": 12,
       "installments_amount": 25.03
-    },
-    {
-      "search": "Gatilho Lavadora Alta Pressão Electrolux Ews1800 - Ews1850 Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 69.0,
-      "original_price": 79.35,
-      "discount": 13,
-      "pix_price": 62.1,
-      "installments_qty": 3,
-      "installments_amount": 23.0
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
