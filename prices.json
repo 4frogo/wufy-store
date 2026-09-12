@@ -1,16 +1,6 @@
 {
-  "updated": "2026-09-11T23:49:46.981624+00:00",
+  "updated": "2026-09-12T02:42:34.083577+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 699.9,
-      "discount": 76,
-      "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -22,12 +12,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.0,
-      "original_price": 85.42,
-      "discount": 47,
-      "pix_price": 40.5,
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -40,16 +30,6 @@
       "pix_price": 98.91,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 257.09,
-      "original_price": 469.99,
-      "discount": 45,
-      "pix_price": 231.38,
-      "installments_qty": 6,
-      "installments_amount": 47.61
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -92,6 +72,16 @@
       "installments_amount": 189.54
     },
     {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.1,
+      "original_price": 48.99,
+      "discount": 14,
+      "pix_price": 37.89,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2129.0,
@@ -120,6 +110,16 @@
       "pix_price": 282.06,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 422.99,
+      "original_price": 469.99,
+      "discount": 10,
+      "pix_price": 380.69,
+      "installments_qty": 9,
+      "installments_amount": 52.22
     }
   ]
 }
