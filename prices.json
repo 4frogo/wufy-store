@@ -1,16 +1,6 @@
 {
-  "updated": "2026-09-12T13:20:02.693191+00:00",
+  "updated": "2026-09-12T16:42:57.753065+00:00",
   "prices": [
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 99.87,
-      "original_price": 229.9,
-      "discount": 57,
-      "pix_price": 89.88,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -18,6 +8,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 114.79,
+      "original_price": 229.9,
+      "discount": 50,
+      "pix_price": 103.31,
       "installments_qty": 0,
       "installments_amount": 0
     },
