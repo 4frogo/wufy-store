@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-13T08:43:47.022200+00:00",
+  "updated": "2026-09-13T14:03:06.531001+00:00",
   "prices": [
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 99.87,
+      "original_price": 229.9,
+      "discount": 57,
+      "pix_price": 89.88,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
@@ -8,16 +18,6 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 114.79,
-      "original_price": 229.9,
-      "discount": 50,
-      "pix_price": 103.31,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 227.15,
+      "original_price": 359.99,
+      "discount": 37,
+      "pix_price": 204.44,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
       "link": "https://meli.la/19ErgKc",
       "price": 107.0,
@@ -40,16 +50,6 @@
       "pix_price": 96.3,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 237.99,
-      "original_price": 359.99,
-      "discount": 34,
-      "pix_price": 214.19,
-      "installments_qty": 12,
-      "installments_amount": 23.56
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
