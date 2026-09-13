@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:03:06.531001+00:00",
+  "updated": "2026-09-13T18:30:02.683002+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.88,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -74,10 +84,10 @@
     {
       "search": "Creatina Monohidratada 300g Pó Max Titanium",
       "link": "https://meli.la/25unFmR",
-      "price": 48.9,
-      "original_price": 56.23,
+      "price": 43.0,
+      "original_price": 49.45,
       "discount": 13,
-      "pix_price": 44.01,
+      "pix_price": 38.7,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -100,16 +110,6 @@
       "pix_price": 4139.1,
       "installments_qty": 10,
       "installments_amount": 459.9
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 313.4,
-      "original_price": 349.9,
-      "discount": 10,
-      "pix_price": 282.06,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
