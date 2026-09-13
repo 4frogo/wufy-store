@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:30:02.683002+00:00",
+  "updated": "2026-09-13T22:02:46.535876+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.9,
+      "original_price": 199.0,
+      "discount": 45,
+      "pix_price": 98.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -44,20 +54,10 @@
     {
       "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
       "link": "https://meli.la/1yBfiUy",
-      "price": 227.15,
+      "price": 226.09,
       "original_price": 359.99,
       "discount": 37,
-      "pix_price": 204.44,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
-      "link": "https://meli.la/19ErgKc",
-      "price": 107.0,
-      "original_price": 168.0,
-      "discount": 36,
-      "pix_price": 96.3,
+      "pix_price": 203.48,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.0,
-      "original_price": 49.45,
-      "discount": 13,
-      "pix_price": 38.7,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2129.0,
@@ -110,6 +100,16 @@
       "pix_price": 4139.1,
       "installments_qty": 10,
       "installments_amount": 459.9
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.94,
+      "original_price": 48.99,
+      "discount": 12,
+      "pix_price": 38.65,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
