@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-15T00:11:14.898147+00:00",
+  "updated": "2026-09-15T07:05:57.432052+00:00",
   "prices": [
-    {
-      "search": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 699.9,
-      "discount": 76,
-      "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.02,
-      "original_price": 259.99,
-      "discount": 63,
-      "pix_price": 86.42,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
@@ -28,6 +8,36 @@
       "original_price": 229.9,
       "discount": 57,
       "pix_price": 89.88,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.0,
+      "original_price": 85.42,
+      "discount": 51,
+      "pix_price": 37.8,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 109.9,
+      "original_price": 199.0,
+      "discount": 45,
+      "pix_price": 98.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Super Whey Protein Max Titanium 900 Gramas - Sabor Chocolate",
-      "link": "https://meli.la/25unFmR",
-      "price": 77.52,
-      "original_price": 112.36,
-      "discount": 31,
-      "pix_price": 69.77,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 255.9,
@@ -82,6 +82,16 @@
       "installments_amount": 25.03
     },
     {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1956.0,
+      "original_price": 2799.0,
+      "discount": 30,
+      "pix_price": 1760.4,
+      "installments_qty": 10,
+      "installments_amount": 195.66
+    },
+    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 1949.0,
@@ -90,16 +100,6 @@
       "pix_price": 1754.1,
       "installments_qty": 12,
       "installments_amount": 187.33
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2271.0,
-      "original_price": 2799.0,
-      "discount": 19,
-      "pix_price": 2043.9,
-      "installments_qty": 10,
-      "installments_amount": 227.15
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
