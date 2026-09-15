@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:05:57.432052+00:00",
+  "updated": "2026-09-15T13:05:22.357281+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -24,32 +24,12 @@
     {
       "search": "Creatina Monohidratada 300g Pó Max Titanium",
       "link": "https://meli.la/25unFmR",
-      "price": 42.0,
+      "price": 44.0,
       "original_price": 85.42,
-      "discount": 51,
-      "pix_price": 37.8,
+      "discount": 48,
+      "pix_price": 39.6,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
-      "link": "https://meli.la/19ErgKc",
-      "price": 109.9,
-      "original_price": 199.0,
-      "discount": 45,
-      "pix_price": 98.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Bull Terrier Original Dakar Couro Adventure Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 257.09,
-      "original_price": 469.99,
-      "discount": 45,
-      "pix_price": 231.38,
-      "installments_qty": 6,
-      "installments_amount": 47.61
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -82,24 +62,24 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1956.0,
-      "original_price": 2799.0,
-      "discount": 30,
-      "pix_price": 1760.4,
-      "installments_qty": 10,
-      "installments_amount": 195.66
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 269.7,
+      "original_price": 329.9,
+      "discount": 18,
+      "pix_price": 242.73,
+      "installments_qty": 6,
+      "installments_amount": 51.67
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 2499.0,
-      "discount": 22,
-      "pix_price": 1754.1,
-      "installments_qty": 12,
-      "installments_amount": 187.33
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 107.59,
+      "original_price": 123.73,
+      "discount": 13,
+      "pix_price": 96.83,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -120,6 +100,26 @@
       "pix_price": 282.06,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2365.0,
+      "original_price": 2599.0,
+      "discount": 9,
+      "pix_price": 2128.5,
+      "installments_qty": 10,
+      "installments_amount": 246.91
+    },
+    {
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2045.0,
+      "original_price": 2199.0,
+      "discount": 7,
+      "pix_price": 1840.5,
+      "installments_qty": 10,
+      "installments_amount": 219.9
     }
   ]
 }
