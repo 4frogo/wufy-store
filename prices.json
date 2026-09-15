@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T17:54:56.339511+00:00",
+  "updated": "2026-09-15T20:47:17.223108+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -12,22 +12,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.6,
-      "original_price": 85.42,
-      "discount": 50,
-      "pix_price": 38.34,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,14 +82,14 @@
       "installments_amount": 52.23
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 4599.0,
-      "original_price": 5288.85,
-      "discount": 13,
-      "pix_price": 4139.1,
-      "installments_qty": 10,
-      "installments_amount": 459.9
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.1,
+      "original_price": 48.99,
+      "discount": 14,
+      "pix_price": 37.89,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -102,14 +102,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 313.4,
-      "original_price": 349.9,
-      "discount": 10,
-      "pix_price": 282.06,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2365.0,
+      "original_price": 2599.0,
+      "discount": 9,
+      "pix_price": 2128.5,
+      "installments_qty": 10,
+      "installments_amount": 246.91
     },
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
