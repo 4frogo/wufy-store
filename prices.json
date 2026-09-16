@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T19:19:54.285727+00:00",
+  "updated": "2026-09-16T22:35:59.805456+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -44,10 +44,30 @@
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
       "link": "https://meli.la/25unFmR",
-      "price": 99.9,
+      "price": 88.9,
       "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
+      "discount": 51,
+      "pix_price": 80.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 41.93,
+      "original_price": 85.42,
+      "discount": 51,
+      "pix_price": 37.74,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor Portátil HY320 Mini Hardline Wi-Fi 6 5G 4K Compatível Android 11 Full HD 390 ANSI Bluetooth Smart TV HDMI Controle Remoto Alto-Falante Bivolt Tela Grande Filmes Séries Jogos Home Theater.",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 237.49,
+      "original_price": 359.99,
+      "discount": 34,
+      "pix_price": 213.74,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,24 +82,24 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Projetor Hy320 Mini Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth Alto Falante Cinema Com Controle Remoto Bivolt Portátil Kateluo",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 228.94,
-      "original_price": 289.9,
-      "discount": 21,
-      "pix_price": 206.05,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Bota Atack Bull Terrier Original De Couro Impermeavel Moto",
+      "link": "https://meli.la/1RuihHY",
+      "price": 349.1,
+      "original_price": 459.0,
+      "discount": 24,
+      "pix_price": 314.19,
+      "installments_qty": 12,
+      "installments_amount": 34.15
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.1,
-      "original_price": 48.99,
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2406.0,
+      "original_price": 2799.0,
       "discount": 14,
-      "pix_price": 37.89,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "pix_price": 2165.4,
+      "installments_qty": 10,
+      "installments_amount": 240.69
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -92,16 +112,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2365.0,
-      "original_price": 2599.0,
-      "discount": 9,
-      "pix_price": 2128.5,
-      "installments_qty": 10,
-      "installments_amount": 246.91
-    },
-    {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
       "price": 2349.0,
@@ -110,16 +120,6 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
-    },
-    {
-      "search": "Bota Coturno Bull Terrier Bruce Adventure Masculino Original",
-      "link": "https://meli.la/1RuihHY",
-      "price": 313.45,
-      "original_price": 329.95,
-      "discount": 5,
-      "pix_price": 282.11,
-      "installments_qty": 6,
-      "installments_amount": 54.99
     }
   ]
 }
