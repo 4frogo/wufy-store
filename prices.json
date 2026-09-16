@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:55:40.115582+00:00",
+  "updated": "2026-09-16T02:54:47.362671+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -52,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth HY 320 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 226.09,
-      "original_price": 359.99,
-      "discount": 37,
-      "pix_price": 203.48,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 255.9,
@@ -72,14 +62,24 @@
       "installments_amount": 25.03
     },
     {
-      "search": "Bota Bull Terrier Dakar Couro Original Aventura Trilha",
-      "link": "https://meli.la/1RuihHY",
-      "price": 282.06,
-      "original_price": 329.9,
-      "discount": 15,
-      "pix_price": 253.85,
-      "installments_qty": 6,
-      "installments_amount": 52.23
+      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1949.0,
+      "original_price": 2499.0,
+      "discount": 22,
+      "pix_price": 1754.1,
+      "installments_qty": 12,
+      "installments_amount": 187.33
+    },
+    {
+      "search": "Projetor Hy320 Mini Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth Alto Falante Cinema Com Controle Remoto Bivolt Portátil Kateluo",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 228.94,
+      "original_price": 289.9,
+      "discount": 21,
+      "pix_price": 206.05,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Creatina Monohidratada 300g Pó Max Titanium",
@@ -112,14 +112,14 @@
       "installments_amount": 246.91
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2045.0,
-      "original_price": 2199.0,
-      "discount": 7,
-      "pix_price": 1840.5,
-      "installments_qty": 10,
-      "installments_amount": 219.9
+      "search": "Bota Coturno Bull Terrier Bruce Adventure Masculino Original",
+      "link": "https://meli.la/1RuihHY",
+      "price": 313.45,
+      "original_price": 329.95,
+      "discount": 5,
+      "pix_price": 282.11,
+      "installments_qty": 6,
+      "installments_amount": 54.99
     }
   ]
 }
