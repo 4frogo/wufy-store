@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:35:59.805456+00:00",
+  "updated": "2026-09-17T02:58:51.451031+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -52,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 41.93,
-      "original_price": 85.42,
-      "discount": 51,
-      "pix_price": 37.74,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor Portátil HY320 Mini Hardline Wi-Fi 6 5G 4K Compatível Android 11 Full HD 390 ANSI Bluetooth Smart TV HDMI Controle Remoto Alto-Falante Bivolt Tela Grande Filmes Séries Jogos Home Theater.",
       "link": "https://meli.la/1yBfiUy",
       "price": 237.49,
@@ -102,6 +92,16 @@
       "installments_amount": 240.69
     },
     {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 41.44,
+      "original_price": 47.66,
+      "discount": 13,
+      "pix_price": 37.3,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2349.0,
-      "original_price": 2499.0,
-      "discount": 6,
-      "pix_price": 2114.1,
-      "installments_qty": 12,
-      "installments_amount": 225.86
+      "price": 2299.0,
+      "original_price": 2599.0,
+      "discount": 12,
+      "pix_price": 2069.1,
+      "installments_qty": 10,
+      "installments_amount": 229.9
     }
   ]
 }
