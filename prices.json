@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T19:30:24.425780+00:00",
+  "updated": "2026-09-17T22:37:30.692514+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -52,7 +52,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor Portátil HY320 Mini Hardline Wi-Fi 6 5G 4K Android 11 Full HD 390 ANSI Bluetooth Smart TV HDMI Controle Remoto Alto-Falante Bivolt Tela Grande Filmes Séries Jogos Home Theater",
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
       "price": 229.99,
       "original_price": 359.99,
@@ -64,12 +64,12 @@
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 263.87,
+      "price": 256.95,
       "original_price": 365.9,
-      "discount": 28,
-      "pix_price": 237.48,
+      "discount": 30,
+      "pix_price": 231.25,
       "installments_qty": 12,
-      "installments_amount": 25.81
+      "installments_amount": 25.14
     },
     {
       "search": "Bota Atack Bull Terrier Original De Couro Impermeavel Moto",
@@ -82,6 +82,16 @@
       "installments_amount": 34.15
     },
     {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 40.56,
+      "original_price": 48.99,
+      "discount": 17,
+      "pix_price": 36.5,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -92,7 +102,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2349.0,
       "original_price": 2499.0,
@@ -100,16 +110,6 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.6,
-      "original_price": 48.0,
-      "discount": 5,
-      "pix_price": 41.04,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
