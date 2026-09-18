@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:37:30.692514+00:00",
+  "updated": "2026-09-18T02:45:38.501828+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -8,16 +8,6 @@
       "original_price": 259.99,
       "discount": 63,
       "pix_price": 86.42,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 170.9,
-      "original_price": 349.9,
-      "discount": 51,
-      "pix_price": 153.81,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,6 +82,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 166.98,
+      "original_price": 192.03,
+      "discount": 13,
+      "pix_price": 150.28,
+      "installments_qty": 5,
+      "installments_amount": 33.4
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -104,12 +104,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2349.0,
-      "original_price": 2499.0,
-      "discount": 6,
-      "pix_price": 2114.1,
-      "installments_qty": 12,
-      "installments_amount": 225.86
+      "price": 2022.0,
+      "original_price": 2129.0,
+      "discount": 5,
+      "pix_price": 1819.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
