@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-18T08:41:54.836836+00:00",
+  "updated": "2026-09-18T14:03:52.958420+00:00",
   "prices": [
     {
-      "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 96.02,
-      "original_price": 259.99,
-      "discount": 63,
-      "pix_price": 86.42,
+      "search": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+      "link": "https://meli.la/25unFmR",
+      "price": 77.9,
+      "original_price": 239.9,
+      "discount": 68,
+      "pix_price": 70.11,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,12 +32,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
-      "link": "https://meli.la/25unFmR",
-      "price": 88.9,
-      "original_price": 179.84,
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias 48v + Maleta Preto 48v 50hz X 60hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 96.52,
+      "original_price": 199.0,
       "discount": 51,
-      "pix_price": 80.01,
+      "pix_price": 86.87,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -48,6 +48,16 @@
       "original_price": 229.9,
       "discount": 50,
       "pix_price": 103.31,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 179.84,
+      "discount": 44,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,16 +92,6 @@
       "installments_amount": 34.15
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 40.22,
-      "original_price": 46.25,
-      "discount": 13,
-      "pix_price": 36.2,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -100,26 +100,6 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2349.0,
-      "original_price": 2499.0,
-      "discount": 6,
-      "pix_price": 2114.1,
-      "installments_qty": 12,
-      "installments_amount": 225.86
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2469.0,
-      "original_price": 2599.0,
-      "discount": 5,
-      "pix_price": 2222.1,
-      "installments_qty": 10,
-      "installments_amount": 246.91
     }
   ]
 }
