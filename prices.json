@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-19T22:04:15.246488+00:00",
+  "updated": "2026-09-20T02:56:45.323960+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 96.02,
+      "price": 98.97,
       "original_price": 259.99,
-      "discount": 63,
-      "pix_price": 86.42,
+      "discount": 62,
+      "pix_price": 89.07,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -74,12 +74,12 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 229.99,
+      "price": 240.99,
       "original_price": 359.99,
-      "discount": 36,
-      "pix_price": 206.99,
+      "discount": 33,
+      "pix_price": 216.89,
       "installments_qty": 12,
-      "installments_amount": 22.77
+      "installments_amount": 23.86
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2349.0,
-      "original_price": 2499.0,
-      "discount": 6,
-      "pix_price": 2114.1,
-      "installments_qty": 12,
-      "installments_amount": 225.86
+      "price": 2022.0,
+      "original_price": 2129.0,
+      "discount": 5,
+      "pix_price": 1819.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
