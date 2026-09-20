@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:00:30.083280+00:00",
+  "updated": "2026-09-20T13:54:26.570434+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -22,12 +22,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
-      "price": 49.9,
-      "original_price": 99.8,
-      "discount": 50,
-      "pix_price": 44.91,
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,16 +72,6 @@
       "installments_amount": 22.77
     },
     {
-      "search": "Creatina 100% Pura Integralmedica 300g Força E Performance Sem Sabor",
-      "link": "https://meli.la/25unFmR",
-      "price": 44.1,
-      "original_price": 64.0,
-      "discount": 31,
-      "pix_price": 39.69,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 256.95,
@@ -120,6 +110,16 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 45.6,
+      "original_price": 48.0,
+      "discount": 5,
+      "pix_price": 41.04,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
