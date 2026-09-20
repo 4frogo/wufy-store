@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:54:26.570434+00:00",
+  "updated": "2026-09-20T17:15:39.850183+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -12,22 +12,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 99.87,
-      "original_price": 229.9,
-      "discount": 57,
-      "pix_price": 89.88,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 114.79,
+      "original_price": 229.9,
+      "discount": 50,
+      "pix_price": 103.31,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -64,12 +64,12 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 229.99,
+      "price": 240.99,
       "original_price": 359.99,
-      "discount": 36,
-      "pix_price": 206.99,
+      "discount": 33,
+      "pix_price": 216.89,
       "installments_qty": 12,
-      "installments_amount": 22.77
+      "installments_amount": 23.86
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -102,6 +102,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 40.56,
+      "original_price": 48.99,
+      "discount": 17,
+      "pix_price": 36.5,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2349.0,
@@ -110,16 +120,6 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.6,
-      "original_price": 48.0,
-      "discount": 5,
-      "pix_price": 41.04,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
