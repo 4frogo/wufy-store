@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T02:56:45.323960+00:00",
+  "updated": "2026-09-20T09:00:30.083280+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -22,12 +22,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
+      "search": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
       "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
-      "discount": 51,
-      "pix_price": 71.01,
+      "price": 49.9,
+      "original_price": 99.8,
+      "discount": 50,
+      "pix_price": 44.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -40,16 +40,6 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
-    },
-    {
-      "search": "Creatina 100% Pura Integralmedica 300g Força E Performance Sem Sabor",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.99,
-      "original_price": 79.9,
-      "discount": 46,
-      "pix_price": 38.69,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Whey Protein 1kg Whey Pro Max Titanium Sabor Chocolate BCAA e Aminoácidos",
@@ -74,12 +64,22 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 240.99,
+      "price": 229.99,
       "original_price": 359.99,
-      "discount": 33,
-      "pix_price": 216.89,
+      "discount": 36,
+      "pix_price": 206.99,
       "installments_qty": 12,
-      "installments_amount": 23.86
+      "installments_amount": 22.77
+    },
+    {
+      "search": "Creatina 100% Pura Integralmedica 300g Força E Performance Sem Sabor",
+      "link": "https://meli.la/25unFmR",
+      "price": 44.1,
+      "original_price": 64.0,
+      "discount": 31,
+      "pix_price": 39.69,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2022.0,
-      "original_price": 2129.0,
-      "discount": 5,
-      "pix_price": 1819.8,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 2349.0,
+      "original_price": 2499.0,
+      "discount": 6,
+      "pix_price": 2114.1,
+      "installments_qty": 12,
+      "installments_amount": 225.86
     }
   ]
 }
