@@ -1,23 +1,13 @@
 {
-  "updated": "2026-09-21T02:53:35.023449+00:00",
+  "updated": "2026-09-21T09:32:24.305225+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 105.99,
+      "price": 119.99,
       "original_price": 259.99,
-      "discount": 59,
-      "pix_price": 95.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.98,
-      "original_price": 99.5,
-      "discount": 57,
-      "pix_price": 38.68,
+      "discount": 54,
+      "pix_price": 107.99,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,6 +100,16 @@
       "pix_price": 1754.1,
       "installments_qty": 12,
       "installments_amount": 187.33
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.69,
+      "original_price": 50.24,
+      "discount": 13,
+      "pix_price": 39.32,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
