@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:10:19.819658+00:00",
+  "updated": "2026-09-21T21:36:00.870780+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 170.9,
+      "original_price": 349.9,
+      "discount": 51,
+      "pix_price": 153.81,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -42,22 +52,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
-    },
-    {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 237.49,
+      "price": 229.99,
       "original_price": 359.99,
-      "discount": 34,
-      "pix_price": 213.74,
+      "discount": 36,
+      "pix_price": 206.99,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -102,16 +102,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.16,
-      "original_price": 48.99,
-      "discount": 8,
-      "pix_price": 40.64,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2349.0,
@@ -120,6 +110,16 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 45.6,
+      "original_price": 48.0,
+      "discount": 5,
+      "pix_price": 41.04,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
