@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:36:00.870780+00:00",
+  "updated": "2026-09-22T00:31:41.043923+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -48,6 +48,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 300g Pó Max Titanium",
+      "link": "https://meli.la/25unFmR",
+      "price": 44.7,
+      "original_price": 85.42,
+      "discount": 48,
+      "pix_price": 40.23,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,16 +120,6 @@
       "pix_price": 2114.1,
       "installments_qty": 12,
       "installments_amount": 225.86
-    },
-    {
-      "search": "Creatina Monohidratada 300g Pó Max Titanium",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.6,
-      "original_price": 48.0,
-      "discount": 5,
-      "pix_price": 41.04,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
