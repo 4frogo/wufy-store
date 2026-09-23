@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:59:03.036511+00:00",
+  "updated": "2026-09-23T03:31:36.648215+00:00",
   "prices": [
     {
       "search": "Lavadora Alta Pressão Portátil Sem Fio 2 Baterias Maleta Preto 127/220v 50 Hz/60 Hz",
@@ -52,22 +52,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 218.49,
-      "original_price": 359.99,
-      "discount": 39,
-      "pix_price": 196.64,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Creatina Monohidratada 300g Pó Max Titanium",
       "link": "https://meli.la/25unFmR",
       "price": 42.58,
       "original_price": 69.0,
       "discount": 38,
       "pix_price": 38.32,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 237.49,
+      "original_price": 359.99,
+      "discount": 34,
+      "pix_price": 213.74,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,14 +82,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Atack Bull Terrier Original De Couro Impermeavel Moto",
-      "link": "https://meli.la/1RuihHY",
-      "price": 349.1,
-      "original_price": 459.0,
-      "discount": 24,
-      "pix_price": 314.19,
-      "installments_qty": 12,
-      "installments_amount": 34.15
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2098.0,
+      "original_price": 2638.0,
+      "discount": 20,
+      "pix_price": 1888.2,
+      "installments_qty": 10,
+      "installments_amount": 209.8
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -98,6 +98,26 @@
       "original_price": 349.9,
       "discount": 12,
       "pix_price": 278.22,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 310.0,
+      "original_price": 329.9,
+      "discount": 6,
+      "pix_price": 279.0,
+      "installments_qty": 6,
+      "installments_amount": 51.67
+    },
+    {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2022.0,
+      "original_price": 2129.0,
+      "discount": 5,
+      "pix_price": 1819.8,
       "installments_qty": 0,
       "installments_amount": 0
     }
