@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:47:57.039886+00:00",
+  "updated": "2026-09-25T23:02:42.201230+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,26 +18,6 @@
       "original_price": 349.9,
       "discount": 51,
       "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 39.9,
-      "original_price": 78.9,
-      "discount": 49,
-      "pix_price": 35.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 44.0,
-      "original_price": 85.42,
-      "discount": 48,
-      "pix_price": 39.6,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,7 +52,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 2 Baterias Recarregável proporciona limpeza eficiente em diferentes superfícies Maleta portátil sem fio - Marca Hardline",
+      "search": "Lavadora De Alta Pressão Lava Jato Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
       "link": "https://meli.la/19ErgKc",
       "price": 94.0,
       "original_price": 129.99,
@@ -92,14 +72,24 @@
       "installments_amount": 201.65
     },
     {
-      "search": "Bota Militar Cano Alto Macboot Bronx Vidigal Tam 38 Único117 Mostarda 38,5 Br",
-      "link": "https://meli.la/1RuihHY",
-      "price": 189.0,
-      "original_price": 217.35,
+      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 31.17,
+      "original_price": 35.85,
       "discount": 13,
-      "pix_price": 170.1,
-      "installments_qty": 12,
-      "installments_amount": 18.71
+      "pix_price": 28.05,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.84,
+      "original_price": 50.42,
+      "discount": 13,
+      "pix_price": 39.46,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -110,6 +100,16 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 310.0,
+      "original_price": 329.9,
+      "discount": 6,
+      "pix_price": 279.0,
+      "installments_qty": 6,
+      "installments_amount": 51.67
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
