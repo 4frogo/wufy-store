@@ -1,13 +1,23 @@
 {
-  "updated": "2026-09-28T10:25:51.032789+00:00",
+  "updated": "2026-09-28T19:08:19.951196+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 101.7,
+      "price": 99.36,
       "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 91.53,
+      "discount": 57,
+      "pix_price": 89.42,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 38.97,
+      "original_price": 85.42,
+      "discount": 54,
+      "pix_price": 35.07,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 89.91,
+      "original_price": 179.84,
+      "discount": 50,
+      "pix_price": 80.92,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
       "link": "https://meli.la/2LMdTFf",
       "price": 39.9,
@@ -32,22 +52,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.3,
-      "original_price": 85.42,
-      "discount": 49,
-      "pix_price": 38.97,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 218.49,
+      "original_price": 359.99,
+      "discount": 39,
+      "pix_price": 196.64,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,34 +72,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 228.94,
-      "original_price": 359.99,
-      "discount": 36,
-      "pix_price": 206.05,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1949.0,
-      "original_price": 2799.0,
-      "discount": 30,
-      "pix_price": 1754.1,
-      "installments_qty": 12,
-      "installments_amount": 187.33
-    },
-    {
-      "search": "Lavadora De Alta Pressão Lava Jato Vap Portátil Sem Fio Bateria Compressor Pneu Função Power Bank Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Bico Mangueira Dispenser De Sabão",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.0,
-      "original_price": 129.99,
-      "discount": 28,
-      "pix_price": 84.6,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 1973.0,
+      "original_price": 3089.0,
+      "discount": 36,
+      "pix_price": 1775.7,
+      "installments_qty": 10,
+      "installments_amount": 219.32
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -100,6 +90,16 @@
       "pix_price": 2024.1,
       "installments_qty": 10,
       "installments_amount": 224.99
+    },
+    {
+      "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Hardline",
+      "link": "https://meli.la/19ErgKc",
+      "price": 107.99,
+      "original_price": 129.99,
+      "discount": 17,
+      "pix_price": 97.19,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -114,12 +114,12 @@
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 310.1,
+      "price": 310.0,
       "original_price": 329.9,
       "discount": 6,
-      "pix_price": 279.09,
+      "pix_price": 279.0,
       "installments_qty": 6,
-      "installments_amount": 51.68
+      "installments_amount": 51.67
     }
   ]
 }
