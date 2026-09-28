@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T03:07:35.838001+00:00",
+  "updated": "2026-09-28T10:25:51.032789+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -92,6 +92,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2249.0,
+      "original_price": 2799.0,
+      "discount": 20,
+      "pix_price": 2024.1,
+      "installments_qty": 10,
+      "installments_amount": 224.99
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -110,16 +120,6 @@
       "pix_price": 279.09,
       "installments_qty": 6,
       "installments_amount": 51.68
-    },
-    {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2349.0,
-      "original_price": 2499.0,
-      "discount": 6,
-      "pix_price": 2114.1,
-      "installments_qty": 12,
-      "installments_amount": 225.86
     }
   ]
 }
