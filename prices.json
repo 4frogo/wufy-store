@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T00:09:10.347279+00:00",
+  "updated": "2026-09-29T07:48:21.754697+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -54,10 +54,10 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 218.49,
+      "price": 218.87,
       "original_price": 359.99,
       "discount": 39,
-      "pix_price": 196.64,
+      "pix_price": 196.98,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,16 +92,6 @@
       "installments_amount": 29.22
     },
     {
-      "search": "Bota Nevada Com C.a Bootpillar Confort Premium Couro",
-      "link": "https://meli.la/1RuihHY",
-      "price": 309.9,
-      "original_price": 356.38,
-      "discount": 13,
-      "pix_price": 278.91,
-      "installments_qty": 6,
-      "installments_amount": 51.65
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -110,6 +100,16 @@
       "pix_price": 278.22,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 310.0,
+      "original_price": 329.9,
+      "discount": 6,
+      "pix_price": 279.0,
+      "installments_qty": 6,
+      "installments_amount": 51.67
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
