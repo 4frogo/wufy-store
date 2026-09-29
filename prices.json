@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-29T07:48:21.754697+00:00",
+  "updated": "2026-09-29T14:33:37.939297+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 99.36,
+      "price": 101.7,
       "original_price": 229.9,
-      "discount": 57,
-      "pix_price": 89.42,
+      "discount": 56,
+      "pix_price": 91.53,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -42,26 +42,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 89.91,
-      "original_price": 179.84,
-      "discount": 50,
-      "pix_price": 80.92,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 218.87,
-      "original_price": 359.99,
-      "discount": 39,
-      "pix_price": 196.98,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 231.18,
@@ -72,14 +52,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1973.0,
-      "original_price": 3089.0,
-      "discount": 36,
-      "pix_price": 1775.7,
-      "installments_qty": 10,
-      "installments_amount": 219.32
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 240.99,
+      "original_price": 359.99,
+      "discount": 33,
+      "pix_price": 216.89,
+      "installments_qty": 12,
+      "installments_amount": 23.86
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -90,6 +70,26 @@
       "pix_price": 105.21,
       "installments_qty": 4,
       "installments_amount": 29.22
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1958.0,
+      "original_price": 2799.0,
+      "discount": 30,
+      "pix_price": 1762.2,
+      "installments_qty": 12,
+      "installments_amount": 188.26
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 88.37,
+      "original_price": 101.63,
+      "discount": 13,
+      "pix_price": 79.53,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
