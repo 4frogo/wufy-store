@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:08:19.951196+00:00",
+  "updated": "2026-09-29T00:09:10.347279+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -32,22 +32,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 1kg",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 89.91,
       "original_price": 179.84,
       "discount": 50,
       "pix_price": 80.92,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 39.9,
-      "original_price": 78.9,
-      "discount": 49,
-      "pix_price": 35.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,24 +82,24 @@
       "installments_amount": 219.32
     },
     {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2249.0,
-      "original_price": 2799.0,
-      "discount": 20,
-      "pix_price": 2024.1,
-      "installments_qty": 10,
-      "installments_amount": 224.99
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 116.9,
+      "original_price": 169.9,
+      "discount": 31,
+      "pix_price": 105.21,
+      "installments_qty": 4,
+      "installments_amount": 29.22
     },
     {
-      "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Hardline",
-      "link": "https://meli.la/19ErgKc",
-      "price": 107.99,
-      "original_price": 129.99,
-      "discount": 17,
-      "pix_price": 97.19,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Bota Nevada Com C.a Bootpillar Confort Premium Couro",
+      "link": "https://meli.la/1RuihHY",
+      "price": 309.9,
+      "original_price": 356.38,
+      "discount": 13,
+      "pix_price": 278.91,
+      "installments_qty": 6,
+      "installments_amount": 51.65
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -112,14 +112,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 310.0,
-      "original_price": 329.9,
-      "discount": 6,
-      "pix_price": 279.0,
-      "installments_qty": 6,
-      "installments_amount": 51.67
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2022.0,
+      "original_price": 2129.0,
+      "discount": 5,
+      "pix_price": 1819.8,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
