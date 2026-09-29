@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:33:37.939297+00:00",
+  "updated": "2026-09-29T20:25:39.426901+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -54,12 +54,12 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 240.99,
+      "price": 249.99,
       "original_price": 359.99,
-      "discount": 33,
-      "pix_price": 216.89,
+      "discount": 31,
+      "pix_price": 224.99,
       "installments_qty": 12,
-      "installments_amount": 23.86
+      "installments_amount": 24.75
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -92,6 +92,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2881.0,
+      "original_price": 3313.15,
+      "discount": 13,
+      "pix_price": 2592.9,
+      "installments_qty": 10,
+      "installments_amount": 288.2
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 309.13,
@@ -110,16 +120,6 @@
       "pix_price": 279.0,
       "installments_qty": 6,
       "installments_amount": 51.67
-    },
-    {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2022.0,
-      "original_price": 2129.0,
-      "discount": 5,
-      "pix_price": 1819.8,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
