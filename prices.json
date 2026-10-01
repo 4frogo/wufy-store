@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:29:22.868935+00:00",
+  "updated": "2026-10-01T01:02:42.605800+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -84,12 +84,12 @@
     {
       "search": "Lavadora de Alta Pressão Portátil Recarregável Lava Jato 48V 600W Bivolt",
       "link": "https://meli.la/19ErgKc",
-      "price": 279.9,
-      "original_price": 321.88,
+      "price": 109.99,
+      "original_price": 126.49,
       "discount": 13,
-      "pix_price": 251.91,
-      "installments_qty": 12,
-      "installments_amount": 27.38
+      "pix_price": 98.99,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
