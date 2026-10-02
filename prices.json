@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-02T10:16:20.657066+00:00",
+  "updated": "2026-10-02T17:17:41.712621+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 93.65,
+      "price": 107.64,
       "original_price": 229.9,
-      "discount": 59,
-      "pix_price": 84.29,
+      "discount": 53,
+      "pix_price": 96.88,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,6 +22,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Monohidratada Dark Lab 1kg (100%)",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -32,7 +42,17 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "search": "Lavadora Portátil Sem Fio Rubrox 300w 2 Baterias Maleta",
+      "link": "https://meli.la/19ErgKc",
+      "price": 166.96,
+      "original_price": 279.0,
+      "discount": 40,
+      "pix_price": 150.26,
+      "installments_qty": 12,
+      "installments_amount": 16.5
+    },
+    {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte K HMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
       "price": 227.0,
       "original_price": 359.99,
@@ -40,6 +60,16 @@
       "pix_price": 204.3,
       "installments_qty": 12,
       "installments_amount": 22.47
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1973.0,
+      "original_price": 3089.0,
+      "discount": 36,
+      "pix_price": 1775.7,
+      "installments_qty": 10,
+      "installments_amount": 219.32
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -50,16 +80,6 @@
       "pix_price": 224.91,
       "installments_qty": 12,
       "installments_amount": 24.74
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1958.0,
-      "original_price": 2799.0,
-      "discount": 30,
-      "pix_price": 1762.2,
-      "installments_qty": 12,
-      "installments_amount": 188.26
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -100,26 +120,6 @@
       "pix_price": 279.0,
       "installments_qty": 6,
       "installments_amount": 51.67
-    },
-    {
-      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 1kg",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 45.03,
-      "original_price": 47.4,
-      "discount": 5,
-      "pix_price": 40.53,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.71,
-      "original_price": 99.7,
-      "discount": 5,
-      "pix_price": 85.24,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
