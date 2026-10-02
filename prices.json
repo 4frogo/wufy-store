@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T03:39:38.170766+00:00",
+  "updated": "2026-10-02T10:16:20.657066+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -18,16 +18,6 @@
       "original_price": 349.9,
       "discount": 51,
       "pix_price": 153.81,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 1kg",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
-      "discount": 51,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,6 +100,16 @@
       "pix_price": 279.0,
       "installments_qty": 6,
       "installments_amount": 51.67
+    },
+    {
+      "search": "Creatina Dark Lab Premium Pure em pó Sem sabor x 1kg",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 45.03,
+      "original_price": 47.4,
+      "discount": 5,
+      "pix_price": 40.53,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
