@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-03T12:59:01.984759+00:00",
+  "updated": "2026-10-03T17:44:50.678115+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 107.64,
+      "price": 102.26,
       "original_price": 229.9,
-      "discount": 53,
-      "pix_price": 96.88,
+      "discount": 56,
+      "pix_price": 92.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -28,6 +28,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.5,
+      "original_price": 78.99,
+      "discount": 45,
+      "pix_price": 39.15,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,14 +92,14 @@
       "installments_amount": 24.74
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.84,
-      "original_price": 50.42,
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2129.0,
+      "original_price": 2448.35,
       "discount": 13,
-      "pix_price": 39.46,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "pix_price": 1916.1,
+      "installments_qty": 12,
+      "installments_amount": 204.63
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
@@ -108,16 +118,6 @@
       "original_price": 349.9,
       "discount": 5,
       "pix_price": 299.16,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2022.0,
-      "original_price": 2129.0,
-      "discount": 5,
-      "pix_price": 1819.8,
       "installments_qty": 0,
       "installments_amount": 0
     }
