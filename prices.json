@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:44:23.177616+00:00",
+  "updated": "2026-10-03T00:54:26.055081+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -82,6 +82,16 @@
       "installments_amount": 24.74
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.84,
+      "original_price": 50.42,
+      "discount": 13,
+      "pix_price": 39.46,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2881.0,
@@ -98,16 +108,6 @@
       "original_price": 349.9,
       "discount": 12,
       "pix_price": 278.22,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 49.25,
-      "original_price": 52.4,
-      "discount": 6,
-      "pix_price": 44.33,
       "installments_qty": 0,
       "installments_amount": 0
     },
