@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:54:26.055081+00:00",
+  "updated": "2026-10-03T07:28:58.375174+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -82,16 +82,6 @@
       "installments_amount": 24.74
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.84,
-      "original_price": 50.42,
-      "discount": 13,
-      "pix_price": 39.46,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2881.0,
@@ -102,12 +92,12 @@
       "installments_amount": 288.2
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 309.13,
-      "original_price": 349.9,
-      "discount": 12,
-      "pix_price": 278.22,
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.63,
+      "original_price": 48.99,
+      "discount": 11,
+      "pix_price": 39.27,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -120,6 +110,16 @@
       "pix_price": 279.0,
       "installments_qty": 6,
       "installments_amount": 51.67
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 332.4,
+      "original_price": 349.9,
+      "discount": 5,
+      "pix_price": 299.16,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
