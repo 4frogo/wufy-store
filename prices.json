@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-08T05:15:36.356277+00:00",
+  "updated": "2026-10-08T12:44:33.332633+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 102.26,
+      "price": 99.03,
       "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 92.03,
+      "discount": 57,
+      "pix_price": 89.13,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Creatina Monohidratada Dark Lab 1kg (100%)",
       "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
+      "price": 78.92,
       "original_price": 159.9,
       "discount": 51,
-      "pix_price": 71.01,
+      "pix_price": 71.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -38,8 +38,8 @@
       "original_price": 349.9,
       "discount": 49,
       "pix_price": 161.91,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
