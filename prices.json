@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T08:21:36.819033+00:00",
+  "updated": "2026-10-09T16:47:16.259062+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -22,12 +22,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Portátil Sem Fio Rubrox 300w 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 145.26,
-      "original_price": 279.0,
-      "discount": 48,
-      "pix_price": 130.73,
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 45.7,
+      "original_price": 85.42,
+      "discount": 46,
+      "pix_price": 41.13,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -52,12 +62,32 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte K HMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 215.99,
-      "original_price": 359.99,
+      "search": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2099.0,
+      "original_price": 3499.0,
       "discount": 40,
-      "pix_price": 194.39,
+      "pix_price": 1889.1,
+      "installments_qty": 10,
+      "installments_amount": 220.95
+    },
+    {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 227.99,
+      "original_price": 359.99,
+      "discount": 37,
+      "pix_price": 205.19,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 268.46,
+      "original_price": 349.9,
+      "discount": 23,
+      "pix_price": 241.61,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,54 +102,24 @@
       "installments_amount": 207.9
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 284.05,
-      "original_price": 349.9,
-      "discount": 19,
-      "pix_price": 255.65,
+      "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
+      "link": "https://meli.la/19ErgKc",
+      "price": 105.99,
+      "original_price": 121.89,
+      "discount": 13,
+      "pix_price": 95.39,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 162.03,
-      "original_price": 186.33,
-      "discount": 13,
-      "pix_price": 145.83,
-      "installments_qty": 5,
-      "installments_amount": 32.41
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 46.04,
-      "original_price": 52.95,
-      "discount": 13,
-      "pix_price": 41.44,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2079.0,
-      "original_price": 2332.0,
-      "discount": 11,
-      "pix_price": 1871.1,
-      "installments_qty": 10,
-      "installments_amount": 207.9
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
-      "price": 310.0,
-      "original_price": 329.9,
-      "discount": 6,
-      "pix_price": 279.0,
-      "installments_qty": 6,
-      "installments_amount": 51.67
+      "price": 459.91,
+      "original_price": 499.9,
+      "discount": 8,
+      "pix_price": 413.92,
+      "installments_qty": 9,
+      "installments_amount": 55.54
     }
   ]
 }
