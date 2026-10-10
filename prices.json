@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:49:24.556534+00:00",
+  "updated": "2026-10-10T21:02:27.257187+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -72,16 +72,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 268.46,
-      "original_price": 349.9,
-      "discount": 23,
-      "pix_price": 241.61,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2079.0,
@@ -92,14 +82,24 @@
       "installments_amount": 207.9
     },
     {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 284.04,
+      "original_price": 349.9,
+      "discount": 19,
+      "pix_price": 255.64,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 162.03,
-      "original_price": 186.33,
+      "price": 152.99,
+      "original_price": 175.94,
       "discount": 13,
-      "pix_price": 145.83,
+      "pix_price": 137.69,
       "installments_qty": 5,
-      "installments_amount": 32.41
+      "installments_amount": 30.6
     },
     {
       "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
