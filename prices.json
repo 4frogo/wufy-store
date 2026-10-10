@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:54:17.522680+00:00",
+  "updated": "2026-10-10T10:24:09.599788+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -82,16 +82,6 @@
       "installments_amount": 207.9
     },
     {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 162.03,
@@ -110,6 +100,16 @@
       "pix_price": 95.39,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2159.0,
+      "original_price": 2482.85,
+      "discount": 13,
+      "pix_price": 1943.1,
+      "installments_qty": 10,
+      "installments_amount": 215.9
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
