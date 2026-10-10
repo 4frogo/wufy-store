@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:09:30.686169+00:00",
+  "updated": "2026-10-10T03:54:17.522680+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 58,
       "pix_price": 87.19,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,22 +32,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.91,
-      "installments_qty": 12,
-      "installments_amount": 17.78
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
       "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
+      "price": 43.1,
+      "original_price": 78.9,
+      "discount": 45,
+      "pix_price": 38.79,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -50,16 +50,6 @@
       "pix_price": 195.73,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2099.0,
-      "original_price": 3499.0,
-      "discount": 40,
-      "pix_price": 1889.1,
-      "installments_qty": 10,
-      "installments_amount": 220.95
     },
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
@@ -92,22 +82,32 @@
       "installments_amount": 207.9
     },
     {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2035.0,
+      "original_price": 2509.0,
+      "discount": 19,
+      "pix_price": 1831.5,
+      "installments_qty": 10,
+      "installments_amount": 218.9
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 162.03,
+      "original_price": 186.33,
+      "discount": 13,
+      "pix_price": 145.83,
+      "installments_qty": 5,
+      "installments_amount": 32.41
+    },
+    {
       "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
       "link": "https://meli.la/19ErgKc",
       "price": 105.99,
       "original_price": 121.89,
       "discount": 13,
       "pix_price": 95.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.99,
-      "original_price": 49.44,
-      "discount": 13,
-      "pix_price": 38.69,
       "installments_qty": 0,
       "installments_amount": 0
     },
