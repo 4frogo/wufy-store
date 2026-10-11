@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:02:27.257187+00:00",
+  "updated": "2026-10-11T00:39:19.566316+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -34,22 +34,12 @@
     {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
       "link": "https://meli.la/25unFmR",
-      "price": 42.11,
+      "price": 41.45,
       "original_price": 85.42,
       "discount": 51,
-      "pix_price": 37.9,
+      "pix_price": 37.31,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2119.0,
-      "original_price": 3899.0,
-      "discount": 46,
-      "pix_price": 1907.1,
-      "installments_qty": 10,
-      "installments_amount": 212.0
     },
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
@@ -92,14 +82,24 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2035.0,
+      "original_price": 2509.0,
+      "discount": 19,
+      "pix_price": 1831.5,
+      "installments_qty": 10,
+      "installments_amount": 218.9
+    },
+    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 152.99,
-      "original_price": 175.94,
+      "price": 136.0,
+      "original_price": 156.4,
       "discount": 13,
-      "pix_price": 137.69,
-      "installments_qty": 5,
-      "installments_amount": 30.6
+      "pix_price": 122.4,
+      "installments_qty": 4,
+      "installments_amount": 34.0
     },
     {
       "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
