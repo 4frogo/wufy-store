@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-12T08:27:48.812984+00:00",
+  "updated": "2026-10-12T19:35:36.348855+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 96.88,
+      "price": 102.26,
       "original_price": 229.9,
-      "discount": 58,
-      "pix_price": 87.19,
+      "discount": 56,
+      "pix_price": 92.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -42,6 +42,16 @@
       "installments_amount": 17.78
     },
     {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2119.0,
+      "original_price": 3899.0,
+      "discount": 46,
+      "pix_price": 1907.1,
+      "installments_qty": 10,
+      "installments_amount": 212.0
+    },
+    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -70,16 +80,6 @@
       "pix_price": 195.73,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1970.0,
-      "original_price": 2599.0,
-      "discount": 24,
-      "pix_price": 1773.0,
-      "installments_qty": 10,
-      "installments_amount": 211.9
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2290.0,
-      "original_price": 2633.5,
+      "price": 2881.0,
+      "original_price": 3313.15,
       "discount": 13,
-      "pix_price": 2061.0,
+      "pix_price": 2592.9,
       "installments_qty": 10,
-      "installments_amount": 229.07
+      "installments_amount": 288.2
     }
   ]
 }
