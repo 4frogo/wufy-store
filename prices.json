@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:55:56.868399+00:00",
+  "updated": "2026-10-12T08:27:48.812984+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,16 +8,6 @@
       "original_price": 229.9,
       "discount": 58,
       "pix_price": 87.19,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 78.9,
-      "original_price": 179.84,
-      "discount": 56,
-      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -44,12 +34,22 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 179.92,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.91,
+      "pix_price": 161.93,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 179.84,
+      "discount": 44,
+      "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
