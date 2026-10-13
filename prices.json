@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:52:10.070072+00:00",
+  "updated": "2026-10-13T17:19:43.798395+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -14,10 +14,10 @@
     {
       "search": "Creatina Monohidratada Dark Lab 1kg (100%)",
       "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
+      "price": 78.92,
       "original_price": 159.9,
       "discount": 51,
-      "pix_price": 71.01,
+      "pix_price": 71.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -30,6 +30,26 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 44.9,
+      "original_price": 85.42,
+      "discount": 47,
+      "pix_price": 40.41,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 200.01,
+      "original_price": 359.99,
+      "discount": 44,
+      "pix_price": 180.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -52,6 +72,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2079.0,
+      "original_price": 2768.0,
+      "discount": 25,
+      "pix_price": 1871.1,
+      "installments_qty": 12,
+      "installments_amount": 199.83
+    },
+    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2079.0,
@@ -72,42 +102,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 313.19,
-      "original_price": 359.99,
-      "discount": 13,
-      "pix_price": 281.87,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
       "link": "https://meli.la/19ErgKc",
       "price": 105.99,
       "original_price": 121.89,
       "discount": 13,
       "pix_price": 95.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.0,
-      "original_price": 49.45,
-      "discount": 13,
-      "pix_price": 38.7,
       "installments_qty": 0,
       "installments_amount": 0
     },
