@@ -1,13 +1,23 @@
 {
-  "updated": "2026-10-14T14:51:33.114318+00:00",
+  "updated": "2026-10-14T19:57:31.725962+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 102.26,
+      "price": 93.65,
       "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 92.03,
+      "discount": 59,
+      "pix_price": 84.29,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
+      "link": "https://meli.la/19ErgKc",
+      "price": 102.84,
+      "original_price": 249.97,
+      "discount": 59,
+      "pix_price": 92.56,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,24 +72,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 214.01,
-      "original_price": 359.99,
-      "discount": 41,
-      "pix_price": 192.61,
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 78.9,
+      "discount": 38,
+      "pix_price": 44.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2079.0,
-      "original_price": 2599.0,
-      "discount": 20,
-      "pix_price": 1871.1,
-      "installments_qty": 10,
-      "installments_amount": 207.9
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 231.23,
+      "original_price": 359.99,
+      "discount": 36,
+      "pix_price": 208.11,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -92,26 +102,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Potente Portátil 2 Baterias 110/220v 48v Potente Preto 127/220v 50/60",
-      "link": "https://meli.la/19ErgKc",
-      "price": 105.99,
-      "original_price": 121.89,
-      "discount": 13,
-      "pix_price": 95.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 48.9,
-      "original_price": 56.23,
-      "discount": 13,
-      "pix_price": 44.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
       "price": 499.9,
@@ -120,6 +110,16 @@
       "pix_price": 449.91,
       "installments_qty": 9,
       "installments_amount": 55.54
+    },
+    {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2881.0,
+      "original_price": 3313.15,
+      "discount": 13,
+      "pix_price": 2592.9,
+      "installments_qty": 10,
+      "installments_amount": 288.2
     }
   ]
 }
