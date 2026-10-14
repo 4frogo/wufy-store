@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:13:06.368648+00:00",
+  "updated": "2026-10-14T03:09:31.594409+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 56,
       "pix_price": 92.03,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,14 +42,14 @@
       "installments_amount": 17.78
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.5,
-      "original_price": 78.99,
-      "discount": 45,
-      "pix_price": 39.15,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1952.0,
+      "original_price": 3799.0,
+      "discount": 49,
+      "pix_price": 1756.8,
+      "installments_qty": 10,
+      "installments_amount": 216.9
     },
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
@@ -60,26 +70,6 @@
       "pix_price": 195.73,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 119.89,
-      "original_price": 179.84,
-      "discount": 33,
-      "pix_price": 107.9,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2079.0,
-      "original_price": 2768.0,
-      "discount": 25,
-      "pix_price": 1871.1,
-      "installments_qty": 12,
-      "installments_amount": 199.83
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -108,6 +98,16 @@
       "original_price": 121.89,
       "discount": 13,
       "pix_price": 95.39,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.0,
+      "original_price": 49.45,
+      "discount": 13,
+      "pix_price": 38.7,
       "installments_qty": 0,
       "installments_amount": 0
     },
