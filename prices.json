@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:39:58.167151+00:00",
+  "updated": "2026-10-15T22:52:14.660039+00:00",
   "prices": [
     {
       "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
@@ -22,7 +22,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Monohidratada Dark Lab 1kg (100%)",
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
       "original_price": 159.9,
@@ -30,16 +30,6 @@
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.93,
-      "installments_qty": 12,
-      "installments_amount": 17.78
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -64,10 +54,10 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 222.77,
+      "price": 215.99,
       "original_price": 359.99,
-      "discount": 38,
-      "pix_price": 200.49,
+      "discount": 40,
+      "pix_price": 194.39,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -84,10 +74,10 @@
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
-      "price": 119.89,
-      "original_price": 179.84,
-      "discount": 33,
-      "pix_price": 107.9,
+      "price": 119.9,
+      "original_price": 149.86,
+      "discount": 20,
+      "pix_price": 107.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -100,6 +90,16 @@
       "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 136.0,
+      "original_price": 156.4,
+      "discount": 13,
+      "pix_price": 122.4,
+      "installments_qty": 4,
+      "installments_amount": 34.0
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
