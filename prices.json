@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:42:31.026255+00:00",
+  "updated": "2026-10-16T14:29:33.910793+00:00",
   "prices": [
     {
       "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
@@ -42,6 +42,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.92,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.93,
+      "installments_qty": 12,
+      "installments_amount": 17.78
+    },
+    {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
       "price": 1952.0,
@@ -52,22 +62,12 @@
       "installments_amount": 216.9
     },
     {
-      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 217.48,
-      "original_price": 365.9,
-      "discount": 41,
-      "pix_price": 195.73,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 215.99,
+      "price": 211.4,
       "original_price": 359.99,
-      "discount": 40,
-      "pix_price": 194.39,
+      "discount": 41,
+      "pix_price": 190.26,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,6 +82,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 237.48,
+      "original_price": 365.9,
+      "discount": 35,
+      "pix_price": 213.73,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -90,16 +100,6 @@
       "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 158.0,
-      "original_price": 181.7,
-      "discount": 13,
-      "pix_price": 142.2,
-      "installments_qty": 5,
-      "installments_amount": 31.6
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
