@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:45:57.318558+00:00",
+  "updated": "2026-10-16T08:42:31.026255+00:00",
   "prices": [
     {
       "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
@@ -22,6 +22,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
@@ -32,14 +42,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
-      "original_price": 349.9,
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1952.0,
+      "original_price": 3799.0,
       "discount": 49,
-      "pix_price": 161.93,
-      "installments_qty": 12,
-      "installments_amount": 17.78
+      "pix_price": 1756.8,
+      "installments_qty": 10,
+      "installments_amount": 216.9
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -72,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 119.89,
-      "original_price": 179.84,
-      "discount": 33,
-      "pix_price": 107.9,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -92,14 +92,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 158.0,
+      "original_price": 181.7,
+      "discount": 13,
+      "pix_price": 142.2,
+      "installments_qty": 5,
+      "installments_amount": 31.6
     },
     {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
