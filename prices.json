@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:37:13.090214+00:00",
+  "updated": "2026-10-17T08:13:24.934312+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
@@ -62,22 +62,22 @@
       "installments_amount": 216.9
     },
     {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 209.28,
+      "original_price": 359.99,
+      "discount": 42,
+      "pix_price": 188.35,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 217.48,
       "original_price": 365.9,
       "discount": 41,
       "pix_price": 195.73,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 211.4,
-      "original_price": 359.99,
-      "discount": 41,
-      "pix_price": 190.26,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -102,24 +102,24 @@
       "installments_amount": 51.67
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 284.05,
-      "original_price": 349.9,
-      "discount": 19,
-      "pix_price": 255.65,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2881.0,
-      "original_price": 3313.15,
-      "discount": 13,
-      "pix_price": 2592.9,
+      "price": 2079.0,
+      "original_price": 2599.0,
+      "discount": 20,
+      "pix_price": 1871.1,
       "installments_qty": 10,
-      "installments_amount": 288.2
+      "installments_amount": 207.9
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 284.04,
+      "original_price": 349.9,
+      "discount": 19,
+      "pix_price": 255.64,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
