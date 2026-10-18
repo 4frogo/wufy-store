@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:54:06.314661+00:00",
+  "updated": "2026-10-18T02:38:46.549917+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
@@ -40,6 +40,16 @@
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.92,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.93,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -92,6 +102,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2079.0,
+      "original_price": 2599.0,
+      "discount": 20,
+      "pix_price": 1871.1,
+      "installments_qty": 10,
+      "installments_amount": 207.9
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.04,
@@ -100,26 +120,6 @@
       "pix_price": 255.64,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 158.0,
-      "original_price": 181.7,
-      "discount": 13,
-      "pix_price": 142.2,
-      "installments_qty": 5,
-      "installments_amount": 31.6
-    },
-    {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2881.0,
-      "original_price": 3313.15,
-      "discount": 13,
-      "pix_price": 2592.9,
-      "installments_qty": 10,
-      "installments_amount": 288.2
     }
   ]
 }
