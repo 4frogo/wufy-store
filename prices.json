@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:59:19.192357+00:00",
+  "updated": "2026-10-18T22:16:47.852789+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
@@ -8,6 +8,16 @@
       "original_price": 159.9,
       "discount": 63,
       "pix_price": 53.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
+      "link": "https://meli.la/19ErgKc",
+      "price": 102.84,
+      "original_price": 249.97,
+      "discount": 59,
+      "pix_price": 92.56,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -90,16 +100,6 @@
       "pix_price": 194.39,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Portátil Sem Fio Rubrox 300w 2 Baterias Maleta",
-      "link": "https://meli.la/19ErgKc",
-      "price": 166.96,
-      "original_price": 279.0,
-      "discount": 40,
-      "pix_price": 150.26,
-      "installments_qty": 12,
-      "installments_amount": 16.5
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
