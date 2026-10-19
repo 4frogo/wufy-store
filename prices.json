@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:16:47.852789+00:00",
+  "updated": "2026-10-19T02:52:09.087073+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
@@ -12,12 +12,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
+      "search": "Pistola Lavadora Alta Pressão Sem Fio Portátil Para Carros 1 Pcs",
       "link": "https://meli.la/19ErgKc",
-      "price": 102.84,
-      "original_price": 249.97,
+      "price": 30.61,
+      "original_price": 74.66,
       "discount": 59,
-      "pix_price": 92.56,
+      "pix_price": 27.55,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -94,10 +94,10 @@
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
-      "price": 215.99,
+      "price": 218.29,
       "original_price": 359.99,
-      "discount": 40,
-      "pix_price": 194.39,
+      "discount": 39,
+      "pix_price": 196.46,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2881.0,
-      "original_price": 3313.15,
-      "discount": 13,
-      "pix_price": 2592.9,
+      "price": 2079.0,
+      "original_price": 2599.0,
+      "discount": 20,
+      "pix_price": 1871.1,
       "installments_qty": 10,
-      "installments_amount": 288.2
+      "installments_amount": 207.9
     }
   ]
 }
