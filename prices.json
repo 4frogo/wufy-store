@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-19T16:46:42.453621+00:00",
+  "updated": "2026-10-19T21:57:30.490621+00:00",
   "prices": [
     {
-      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Vap Preto 127/220v 50 Hz X 60 Hz",
       "link": "https://meli.la/19ErgKc",
-      "price": 102.84,
-      "original_price": 249.97,
-      "discount": 59,
-      "pix_price": 92.56,
+      "price": 90.11,
+      "original_price": 229.9,
+      "discount": 61,
+      "pix_price": 81.1,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,16 +62,6 @@
       "installments_amount": 216.9
     },
     {
-      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
-      "link": "https://meli.la/1RuihHY",
-      "price": 263.5,
-      "original_price": 499.9,
-      "discount": 47,
-      "pix_price": 237.15,
-      "installments_qty": 6,
-      "installments_amount": 51.67
-    },
-    {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
       "link": "https://meli.la/25unFmR",
       "price": 45.0,
@@ -100,6 +90,16 @@
       "pix_price": 196.46,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
+      "link": "https://meli.la/1RuihHY",
+      "price": 310.0,
+      "original_price": 499.9,
+      "discount": 38,
+      "pix_price": 279.0,
+      "installments_qty": 6,
+      "installments_amount": 51.67
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
