@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:54:38.393236+00:00",
+  "updated": "2026-10-20T07:02:10.685556+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Vap Preto 127/220v 50 Hz X 60 Hz",
@@ -8,6 +8,16 @@
       "original_price": 229.9,
       "discount": 61,
       "pix_price": 81.1,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 102.26,
+      "original_price": 229.9,
+      "discount": 56,
+      "pix_price": 92.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -34,10 +44,10 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
+      "price": 179.9,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.93,
+      "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
     },
@@ -50,16 +60,6 @@
       "pix_price": 1756.8,
       "installments_qty": 10,
       "installments_amount": 216.9
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 45.0,
-      "original_price": 78.9,
-      "discount": 43,
-      "pix_price": 40.5,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -82,6 +82,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 48.99,
+      "original_price": 78.9,
+      "discount": 38,
+      "pix_price": 44.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Dakar Couro Adventure Original Coturno",
       "link": "https://meli.la/1RuihHY",
       "price": 310.0,
@@ -98,16 +108,6 @@
       "original_price": 349.9,
       "discount": 21,
       "pix_price": 249.66,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 229.9,
-      "original_price": 264.38,
-      "discount": 13,
-      "pix_price": 206.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
