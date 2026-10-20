@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:57:30.490621+00:00",
+  "updated": "2026-10-20T00:54:38.393236+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Vap Preto 127/220v 50 Hz X 60 Hz",
@@ -8,16 +8,6 @@
       "original_price": 229.9,
       "discount": 61,
       "pix_price": 81.1,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 102.26,
-      "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 92.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -108,6 +98,16 @@
       "original_price": 349.9,
       "discount": 21,
       "pix_price": 249.66,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v 50 Hz X 60 Hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 229.9,
+      "original_price": 264.38,
+      "discount": 13,
+      "pix_price": 206.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
