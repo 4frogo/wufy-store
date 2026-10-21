@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T14:50:00.686264+00:00",
+  "updated": "2026-10-21T19:54:24.862242+00:00",
   "prices": [
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
@@ -8,16 +8,6 @@
       "original_price": 179.84,
       "discount": 56,
       "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 111.05,
-      "original_price": 229.9,
-      "discount": 52,
-      "pix_price": 99.94,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -40,6 +30,16 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 116.9,
+      "original_price": 229.9,
+      "discount": 49,
+      "pix_price": 105.21,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -82,6 +82,16 @@
       "installments_amount": 27.38
     },
     {
+      "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 219.9,
+      "original_price": 349.9,
+      "discount": 37,
+      "pix_price": 197.91,
+      "installments_qty": 12,
+      "installments_amount": 21.77
+    },
+    {
       "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
       "link": "https://meli.la/19ErgKc",
       "price": 111.99,
@@ -104,22 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2355.0,
-      "original_price": 2708.25,
+      "price": 2540.0,
+      "original_price": 2921.0,
       "discount": 13,
-      "pix_price": 2119.5,
+      "pix_price": 2286.0,
       "installments_qty": 10,
-      "installments_amount": 235.59
-    },
-    {
-      "search": "Projetor Hy320 Smart Led 1080p Android11 Portátil Controle Preto 127/220v",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 199.5,
-      "original_price": 210.0,
-      "discount": 5,
-      "pix_price": 179.55,
-      "installments_qty": 6,
-      "installments_amount": 33.25
+      "installments_amount": 254.09
     }
   ]
 }
