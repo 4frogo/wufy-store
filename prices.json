@@ -1,16 +1,6 @@
 {
-  "updated": "2026-10-21T09:04:38.137054+00:00",
+  "updated": "2026-10-21T14:50:00.686264+00:00",
   "prices": [
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 102.26,
-      "original_price": 229.9,
-      "discount": 56,
-      "pix_price": 92.03,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
@@ -18,6 +8,16 @@
       "original_price": 179.84,
       "discount": 56,
       "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 111.05,
+      "original_price": 229.9,
+      "discount": 52,
+      "pix_price": 99.94,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -52,22 +52,22 @@
       "installments_amount": 216.9
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.23,
+      "original_price": 78.6,
+      "discount": 45,
+      "pix_price": 38.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
       "price": 217.48,
       "original_price": 365.9,
       "discount": 41,
       "pix_price": 195.73,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 111.99,
-      "original_price": 188.0,
-      "discount": 40,
-      "pix_price": 100.79,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,14 +82,14 @@
       "installments_amount": 27.38
     },
     {
-      "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 216.9,
-      "original_price": 329.9,
-      "discount": 34,
-      "pix_price": 195.21,
-      "installments_qty": 12,
-      "installments_amount": 21.47
+      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 111.99,
+      "original_price": 138.0,
+      "discount": 19,
+      "pix_price": 100.79,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -112,14 +112,14 @@
       "installments_amount": 235.59
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 49.25,
-      "original_price": 52.4,
-      "discount": 6,
-      "pix_price": 44.33,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Projetor Hy320 Smart Led 1080p Android11 Portátil Controle Preto 127/220v",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 199.5,
+      "original_price": 210.0,
+      "discount": 5,
+      "pix_price": 179.55,
+      "installments_qty": 6,
+      "installments_amount": 33.25
     }
   ]
 }
