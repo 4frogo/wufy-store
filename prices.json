@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T02:57:02.282482+00:00",
+  "updated": "2026-10-21T09:04:38.137054+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -34,12 +34,22 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
+      "price": 179.9,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.93,
+      "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1952.0,
+      "original_price": 3799.0,
+      "discount": 49,
+      "pix_price": 1756.8,
+      "installments_qty": 10,
+      "installments_amount": 216.9
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -92,24 +102,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2355.0,
       "original_price": 2708.25,
       "discount": 13,
       "pix_price": 2119.5,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "installments_qty": 10,
+      "installments_amount": 235.59
     },
     {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
