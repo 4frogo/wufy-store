@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:00:11.639435+00:00",
+  "updated": "2026-10-22T02:56:12.356844+00:00",
   "prices": [
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
@@ -34,12 +34,22 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 179.92,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.91,
+      "pix_price": 161.93,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.23,
+      "original_price": 78.6,
+      "discount": 45,
+      "pix_price": 38.91,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -48,16 +58,6 @@
       "original_price": 365.9,
       "discount": 41,
       "pix_price": 195.73,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 111.99,
-      "original_price": 188.0,
-      "discount": 40,
-      "pix_price": 100.79,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,6 +92,16 @@
       "installments_amount": 207.9
     },
     {
+      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
+      "link": "https://meli.la/19ErgKc",
+      "price": 111.99,
+      "original_price": 138.0,
+      "discount": 19,
+      "pix_price": 100.79,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -110,16 +120,6 @@
       "pix_price": 1831.5,
       "installments_qty": 10,
       "installments_amount": 218.9
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 41.0,
-      "original_price": 47.15,
-      "discount": 13,
-      "pix_price": 36.9,
-      "installments_qty": 0,
-      "installments_amount": 0
     }
   ]
 }
