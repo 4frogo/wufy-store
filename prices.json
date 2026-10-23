@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T22:56:39.289343+00:00",
+  "updated": "2026-10-23T02:59:24.071222+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
@@ -32,12 +32,32 @@
       "installments_amount": 17.78
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 43.59,
+      "original_price": 78.9,
+      "discount": 45,
+      "pix_price": 39.23,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
       "original_price": 179.84,
       "discount": 44,
       "pix_price": 89.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 217.55,
+      "original_price": 359.99,
+      "discount": 40,
+      "pix_price": 195.8,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -62,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 229.0,
-      "original_price": 359.99,
-      "discount": 36,
-      "pix_price": 206.1,
-      "installments_qty": 12,
-      "installments_amount": 22.67
-    },
-    {
       "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
       "link": "https://meli.la/19ErgKc",
       "price": 103.03,
@@ -92,14 +102,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.86,
-      "original_price": 48.99,
-      "discount": 13,
-      "pix_price": 38.57,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2035.0,
+      "original_price": 2509.0,
+      "discount": 19,
+      "pix_price": 1831.5,
+      "installments_qty": 10,
+      "installments_amount": 218.9
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -110,16 +120,6 @@
       "pix_price": 2286.0,
       "installments_qty": 10,
       "installments_amount": 254.09
-    },
-    {
-      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2199.0,
-      "original_price": 2529.0,
-      "discount": 13,
-      "pix_price": 1979.1,
-      "installments_qty": 10,
-      "installments_amount": 219.9
     }
   ]
 }
