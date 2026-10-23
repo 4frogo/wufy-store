@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:01:45.447886+00:00",
+  "updated": "2026-10-23T14:45:54.694022+00:00",
   "prices": [
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
@@ -32,6 +32,16 @@
       "installments_amount": 17.78
     },
     {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 114.9,
+      "original_price": 206.9,
+      "discount": 44,
+      "pix_price": 103.41,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
       "price": 217.55,
@@ -54,10 +64,10 @@
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 229.57,
+      "price": 237.48,
       "original_price": 365.9,
-      "discount": 37,
-      "pix_price": 206.61,
+      "discount": 35,
+      "pix_price": 213.73,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -70,26 +80,6 @@
       "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 229.9,
-      "original_price": 264.38,
-      "discount": 13,
-      "pix_price": 206.91,
-      "installments_qty": 12,
-      "installments_amount": 22.76
     },
     {
       "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
@@ -120,6 +110,16 @@
       "pix_price": 2286.0,
       "installments_qty": 10,
       "installments_amount": 254.09
+    },
+    {
+      "search": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2199.0,
+      "original_price": 2529.0,
+      "discount": 13,
+      "pix_price": 1979.1,
+      "installments_qty": 10,
+      "installments_amount": 219.9
     }
   ]
 }
