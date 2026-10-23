@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-23T02:59:24.071222+00:00",
+  "updated": "2026-10-23T09:01:45.447886+00:00",
   "prices": [
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -12,44 +22,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 114.95,
-      "original_price": 229.9,
-      "discount": 50,
-      "pix_price": 103.45,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
+      "price": 179.9,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.93,
+      "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.59,
-      "original_price": 78.9,
-      "discount": 45,
-      "pix_price": 39.23,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
@@ -82,16 +62,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Hidrolavadora Portátil Sem Fio Alta Pressão 48V 2 Baterias Recarregável Lava Jato Automotiva Com Maleta - Preta 50hz/60hz",
-      "link": "https://meli.la/19ErgKc",
-      "price": 103.03,
-      "original_price": 138.0,
-      "discount": 25,
-      "pix_price": 92.73,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -110,6 +80,36 @@
       "pix_price": 1831.5,
       "installments_qty": 10,
       "installments_amount": 218.9
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 229.9,
+      "original_price": 264.38,
+      "discount": 13,
+      "pix_price": 206.91,
+      "installments_qty": 12,
+      "installments_amount": 22.76
+    },
+    {
+      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
+      "link": "https://meli.la/19ErgKc",
+      "price": 121.0,
+      "original_price": 139.15,
+      "discount": 13,
+      "pix_price": 108.9,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.86,
+      "original_price": 48.99,
+      "discount": 13,
+      "pix_price": 38.57,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
