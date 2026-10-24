@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-24T08:35:26.343606+00:00",
+  "updated": "2026-10-24T13:48:54.562896+00:00",
   "prices": [
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 95.99,
+      "original_price": 229.9,
+      "discount": 58,
+      "pix_price": 86.39,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -52,22 +62,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 214.94,
+      "original_price": 365.9,
+      "discount": 41,
+      "pix_price": 193.45,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Projetor HY320 Mini Portátil Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt",
       "link": "https://meli.la/1yBfiUy",
       "price": 217.55,
       "original_price": 359.99,
       "discount": 40,
       "pix_price": 195.8,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 222.35,
-      "original_price": 365.9,
-      "discount": 39,
-      "pix_price": 200.12,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -100,16 +110,6 @@
       "pix_price": 1831.5,
       "installments_qty": 10,
       "installments_amount": 218.9
-    },
-    {
-      "search": "Lavadora A Jato De Alta Pressão Portátil Recarregável 2 Baterias Com Maleta Mini Elétrica De Lavar Carro Profissional Potência Turbo Limpeza Compacta Potente Regulável Reservatório Aua",
-      "link": "https://meli.la/19ErgKc",
-      "price": 121.0,
-      "original_price": 139.15,
-      "discount": 13,
-      "pix_price": 108.9,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
