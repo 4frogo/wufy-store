@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T13:48:54.562896+00:00",
+  "updated": "2026-10-24T17:10:44.432417+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
@@ -8,16 +8,6 @@
       "original_price": 229.9,
       "discount": 58,
       "pix_price": 86.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 68.9,
-      "original_price": 159.9,
-      "discount": 57,
-      "pix_price": 62.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,22 +22,22 @@
       "installments_amount": 17.78
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 43.59,
-      "original_price": 78.9,
-      "discount": 45,
-      "pix_price": 39.23,
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 107.0,
+      "original_price": 206.9,
+      "discount": 48,
+      "pix_price": 96.3,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 114.9,
-      "original_price": 206.9,
-      "discount": 44,
-      "pix_price": 103.41,
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.22,
+      "original_price": 78.9,
+      "discount": 46,
+      "pix_price": 38.0,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -110,6 +100,16 @@
       "pix_price": 1831.5,
       "installments_qty": 10,
       "installments_amount": 218.9
+    },
+    {
+      "search": "Doce Pastoso Powertri 300g 18g Whey Protein Sem Lactose Doce De Leite",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 25.9,
+      "original_price": 29.78,
+      "discount": 13,
+      "pix_price": 23.31,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
