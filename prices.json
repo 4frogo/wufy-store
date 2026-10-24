@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:10:44.432417+00:00",
+  "updated": "2026-10-24T20:05:53.641658+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
@@ -12,12 +12,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 68.9,
+      "original_price": 159.9,
+      "discount": 57,
+      "pix_price": 62.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 179.92,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.91,
+      "pix_price": 161.93,
       "installments_qty": 12,
       "installments_amount": 17.78
     },
@@ -100,16 +110,6 @@
       "pix_price": 1831.5,
       "installments_qty": 10,
       "installments_amount": 218.9
-    },
-    {
-      "search": "Doce Pastoso Powertri 300g 18g Whey Protein Sem Lactose Doce De Leite",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 25.9,
-      "original_price": 29.78,
-      "discount": 13,
-      "pix_price": 23.31,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
