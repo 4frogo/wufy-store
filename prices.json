@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:03:33.467797+00:00",
+  "updated": "2026-10-25T08:55:24.042568+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
@@ -22,16 +22,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 36.98,
-      "original_price": 78.9,
-      "discount": 53,
-      "pix_price": 33.28,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 179.9,
@@ -48,6 +38,16 @@
       "original_price": 206.9,
       "discount": 48,
       "pix_price": 96.3,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.22,
+      "original_price": 78.9,
+      "discount": 46,
+      "pix_price": 38.0,
       "installments_qty": 0,
       "installments_amount": 0
     },
