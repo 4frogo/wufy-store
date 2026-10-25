@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:57:56.432871+00:00",
+  "updated": "2026-10-25T03:03:33.467797+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
@@ -22,12 +22,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 36.98,
+      "original_price": 78.9,
+      "discount": 53,
+      "pix_price": 33.28,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
+      "price": 179.9,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.93,
+      "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
     },
@@ -38,16 +48,6 @@
       "original_price": 206.9,
       "discount": 48,
       "pix_price": 96.3,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.22,
-      "original_price": 78.9,
-      "discount": 46,
-      "pix_price": 38.0,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -94,10 +94,10 @@
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 284.04,
+      "price": 284.05,
       "original_price": 349.9,
       "discount": 19,
-      "pix_price": 255.64,
+      "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
     },
