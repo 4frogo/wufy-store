@@ -1,23 +1,33 @@
 {
-  "updated": "2026-10-26T22:12:42.229419+00:00",
+  "updated": "2026-10-27T03:21:11.009088+00:00",
   "prices": [
     {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 69.9,
-      "original_price": 239.9,
-      "discount": 71,
-      "pix_price": 62.91,
+      "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 90.11,
+      "original_price": 229.9,
+      "discount": 61,
+      "pix_price": 81.1,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 95.99,
-      "original_price": 229.9,
-      "discount": 58,
-      "pix_price": 86.39,
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 35.13,
+      "original_price": 78.9,
+      "discount": 55,
+      "pix_price": 31.62,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,22 +42,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.9,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.91,
+      "installments_qty": 12,
+      "installments_amount": 17.78
+    },
+    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
       "original_price": 179.84,
       "discount": 44,
       "pix_price": 89.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 74.95,
-      "original_price": 129.9,
-      "discount": 42,
-      "pix_price": 67.45,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -82,16 +92,6 @@
       "installments_amount": 21.77
     },
     {
-      "search": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 1085.0,
-      "original_price": 1499.0,
-      "discount": 28,
-      "pix_price": 976.5,
-      "installments_qty": 10,
-      "installments_amount": 108.59
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 277.4,
@@ -102,24 +102,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 138.0,
-      "original_price": 158.7,
-      "discount": 13,
-      "pix_price": 124.2,
-      "installments_qty": 4,
-      "installments_amount": 34.5
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2540.0,
-      "original_price": 2921.0,
-      "discount": 13,
-      "pix_price": 2286.0,
+      "price": 2079.0,
+      "original_price": 2599.0,
+      "discount": 20,
+      "pix_price": 1871.1,
       "installments_qty": 10,
-      "installments_amount": 254.09
+      "installments_amount": 207.9
+    },
+    {
+      "search": "Smart Tv De 32 Com Android 14 Wifi Dual Band 2.4g 5g -g",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 456.36,
+      "original_price": 524.81,
+      "discount": 13,
+      "pix_price": 410.72,
+      "installments_qty": 12,
+      "installments_amount": 44.13
     }
   ]
 }
