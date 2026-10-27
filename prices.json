@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-27T09:32:47.969939+00:00",
+  "updated": "2026-10-27T15:52:06.443799+00:00",
   "prices": [
     {
-      "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 90.11,
-      "original_price": 229.9,
-      "discount": 61,
-      "pix_price": 81.1,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 91.71,
-      "original_price": 206.9,
-      "discount": 56,
-      "pix_price": 82.54,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
       "price": 78.9,
-      "original_price": 159.9,
-      "discount": 51,
+      "original_price": 179.84,
+      "discount": 56,
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
@@ -52,12 +32,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 74.95,
+      "original_price": 129.9,
+      "discount": 42,
+      "pix_price": 67.45,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -85,8 +65,8 @@
       "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
       "price": 219.9,
-      "original_price": 329.9,
-      "discount": 33,
+      "original_price": 349.9,
+      "discount": 37,
       "pix_price": 197.91,
       "installments_qty": 12,
       "installments_amount": 21.77
@@ -104,22 +84,22 @@
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 277.4,
+      "price": 284.05,
       "original_price": 349.9,
-      "discount": 21,
-      "pix_price": 249.66,
+      "discount": 19,
+      "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2079.0,
-      "original_price": 2599.0,
-      "discount": 20,
-      "pix_price": 1871.1,
+      "price": 2540.0,
+      "original_price": 2921.0,
+      "discount": 13,
+      "pix_price": 2286.0,
       "installments_qty": 10,
-      "installments_amount": 207.9
+      "installments_amount": 254.09
     }
   ]
 }
