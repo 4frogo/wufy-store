@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:21:11.009088+00:00",
+  "updated": "2026-10-27T09:32:47.969939+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
@@ -12,12 +12,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 35.13,
-      "original_price": 78.9,
-      "discount": 55,
-      "pix_price": 31.62,
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 91.71,
+      "original_price": 206.9,
+      "discount": 56,
+      "pix_price": 82.54,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,16 +32,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 102.5,
-      "original_price": 206.9,
-      "discount": 50,
-      "pix_price": 92.25,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 179.9,
@@ -50,6 +40,16 @@
       "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.21,
+      "original_price": 78.9,
+      "discount": 47,
+      "pix_price": 37.99,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
@@ -85,11 +85,21 @@
       "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
       "price": 219.9,
-      "original_price": 349.9,
-      "discount": 37,
+      "original_price": 329.9,
+      "discount": 33,
       "pix_price": 197.91,
       "installments_qty": 12,
       "installments_amount": 21.77
+    },
+    {
+      "search": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1085.0,
+      "original_price": 1499.0,
+      "discount": 28,
+      "pix_price": 976.5,
+      "installments_qty": 10,
+      "installments_amount": 108.59
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -110,16 +120,6 @@
       "pix_price": 1871.1,
       "installments_qty": 10,
       "installments_amount": 207.9
-    },
-    {
-      "search": "Smart Tv De 32 Com Android 14 Wifi Dual Band 2.4g 5g -g",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 456.36,
-      "original_price": 524.81,
-      "discount": 13,
-      "pix_price": 410.72,
-      "installments_qty": 12,
-      "installments_amount": 44.13
     }
   ]
 }
