@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:51:30.885038+00:00",
+  "updated": "2026-10-28T14:48:11.813113+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão Bateria + Maleta Vap Preto 127/220v",
@@ -85,8 +85,8 @@
       "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
       "price": 219.9,
-      "original_price": 349.9,
-      "discount": 37,
+      "original_price": 329.9,
+      "discount": 33,
       "pix_price": 197.91,
       "installments_qty": 12,
       "installments_amount": 21.77
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2204.0,
-      "original_price": 2534.6,
+      "price": 2119.0,
+      "original_price": 2436.85,
       "discount": 13,
-      "pix_price": 1983.6,
+      "pix_price": 1907.1,
       "installments_qty": 12,
-      "installments_amount": 211.84
+      "installments_amount": 203.67
     }
   ]
 }
