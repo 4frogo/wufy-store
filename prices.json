@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-28T00:54:58.067843+00:00",
+  "updated": "2026-10-28T07:51:30.885038+00:00",
   "prices": [
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão Bateria + Maleta Vap Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 90.11,
+      "original_price": 229.9,
+      "discount": 61,
+      "pix_price": 81.1,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -24,10 +34,10 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
+      "price": 179.9,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.93,
+      "pix_price": 161.91,
       "installments_qty": 12,
       "installments_amount": 17.78
     },
@@ -80,16 +90,6 @@
       "pix_price": 197.91,
       "installments_qty": 12,
       "installments_amount": 21.77
-    },
-    {
-      "search": "Lava Jato Portátil Sem Fio Com 2 Baterias Maleta Para Carro Preto 48v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 126.0,
-      "original_price": 169.0,
-      "discount": 25,
-      "pix_price": 113.4,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
