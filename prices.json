@@ -1,32 +1,12 @@
 {
-  "updated": "2026-10-27T20:23:47.705582+00:00",
+  "updated": "2026-10-28T00:54:58.067843+00:00",
   "prices": [
     {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 64.85,
-      "original_price": 239.9,
-      "discount": 73,
-      "pix_price": 58.36,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão A Bateria + Maleta Vap Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 90.11,
-      "original_price": 229.9,
-      "discount": 61,
-      "pix_price": 81.1,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
       "price": 78.9,
-      "original_price": 179.84,
-      "discount": 56,
+      "original_price": 159.9,
+      "discount": 51,
       "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
@@ -52,12 +32,22 @@
       "installments_amount": 17.78
     },
     {
-      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 74.95,
-      "original_price": 129.9,
-      "discount": 42,
-      "pix_price": 67.45,
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.21,
+      "original_price": 78.9,
+      "discount": 47,
+      "pix_price": 37.99,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 179.84,
+      "discount": 44,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -85,11 +75,21 @@
       "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
       "price": 219.9,
-      "original_price": 329.9,
-      "discount": 33,
+      "original_price": 349.9,
+      "discount": 37,
       "pix_price": 197.91,
       "installments_qty": 12,
       "installments_amount": 21.77
+    },
+    {
+      "search": "Lava Jato Portátil Sem Fio Com 2 Baterias Maleta Para Carro Preto 48v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 126.0,
+      "original_price": 169.0,
+      "discount": 25,
+      "pix_price": 113.4,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2540.0,
-      "original_price": 2921.0,
+      "price": 2204.0,
+      "original_price": 2534.6,
       "discount": 13,
-      "pix_price": 2286.0,
-      "installments_qty": 10,
-      "installments_amount": 254.09
+      "pix_price": 1983.6,
+      "installments_qty": 12,
+      "installments_amount": 211.84
     }
   ]
 }
