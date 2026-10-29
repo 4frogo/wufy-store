@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:54:56.301739+00:00",
+  "updated": "2026-10-29T20:49:08.420343+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão Bateria + Maleta Vap Preto 127/220v",
@@ -34,12 +34,22 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 179.9,
+      "price": 179.92,
       "original_price": 349.9,
       "discount": 49,
-      "pix_price": 161.91,
+      "pix_price": 161.93,
       "installments_qty": 12,
       "installments_amount": 17.78
+    },
+    {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 42.21,
+      "original_price": 78.9,
+      "discount": 47,
+      "pix_price": 37.99,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
@@ -58,16 +68,6 @@
       "original_price": 365.9,
       "discount": 41,
       "pix_price": 193.45,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 215.28,
-      "original_price": 359.99,
-      "discount": 40,
-      "pix_price": 193.75,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -102,14 +102,14 @@
       "installments_amount": 218.9
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 39.45,
-      "original_price": 45.37,
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 180.0,
+      "original_price": 207.0,
       "discount": 13,
-      "pix_price": 35.51,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "pix_price": 162.0,
+      "installments_qty": 6,
+      "installments_amount": 30.0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
