@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-30T14:54:39.045402+00:00",
+  "updated": "2026-10-30T20:20:14.332564+00:00",
   "prices": [
     {
-      "search": "Whey Protein Concentrado 1Kg Sabor Natural 100% Puro Importado On / Optimum - Soldiers Nutrition",
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 189.4,
-      "original_price": 429.9,
-      "discount": 56,
-      "pix_price": 170.46,
-      "installments_qty": 12,
-      "installments_amount": 18.75
+      "price": 78.9,
+      "original_price": 159.9,
+      "discount": 51,
+      "pix_price": 71.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -42,12 +42,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 214.94,
-      "original_price": 365.9,
-      "discount": 41,
-      "pix_price": 193.45,
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 99.9,
+      "original_price": 179.84,
+      "discount": 44,
+      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,12 +72,12 @@
       "installments_amount": 48.17
     },
     {
-      "search": "Lavadora Alta Pressão Lava Jato Portátil 2 Baterias Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.09,
-      "original_price": 128.9,
-      "discount": 27,
-      "pix_price": 84.68,
+      "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 229.57,
+      "original_price": 365.9,
+      "discount": 37,
+      "pix_price": 206.61,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,24 +92,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 179.84,
-      "original_price": 206.82,
-      "discount": 13,
-      "pix_price": 161.86,
-      "installments_qty": 12,
-      "installments_amount": 17.77
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 85.74,
+      "original_price": 99.7,
+      "discount": 14,
+      "pix_price": 77.17,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -120,6 +110,16 @@
       "pix_price": 2106.0,
       "installments_qty": 10,
       "installments_amount": 254.09
+    },
+    {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 1999.0,
+      "discount": 5,
+      "pix_price": 1709.1,
+      "installments_qty": 12,
+      "installments_amount": 182.53
     }
   ]
 }
