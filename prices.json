@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:31:34.751954+00:00",
+  "updated": "2026-10-30T07:59:39.845819+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão Bateria + Maleta Vap Preto 127/220v",
@@ -38,16 +38,6 @@
       "original_price": 78.9,
       "discount": 47,
       "pix_price": 37.99,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 99.9,
-      "original_price": 179.84,
-      "discount": 44,
-      "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -104,12 +94,22 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 153.0,
-      "original_price": 175.95,
+      "price": 146.0,
+      "original_price": 167.9,
       "discount": 13,
-      "pix_price": 137.7,
+      "pix_price": 131.4,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 179.84,
+      "original_price": 206.82,
+      "discount": 13,
+      "pix_price": 161.86,
+      "installments_qty": 12,
+      "installments_amount": 17.77
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
