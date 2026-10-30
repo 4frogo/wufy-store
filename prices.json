@@ -1,25 +1,15 @@
 {
-  "updated": "2026-10-30T07:59:39.845819+00:00",
+  "updated": "2026-10-30T14:54:39.045402+00:00",
   "prices": [
     {
-      "search": "Lavadora Lava Jato Portátil Pressão Bateria + Maleta Vap Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 95.99,
-      "original_price": 229.9,
-      "discount": 58,
-      "pix_price": 86.39,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "search": "Whey Protein Concentrado 1Kg Sabor Natural 100% Puro Importado On / Optimum - Soldiers Nutrition",
       "link": "https://meli.la/2LMdTFf",
-      "price": 78.9,
-      "original_price": 159.9,
-      "discount": 51,
-      "pix_price": 71.01,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 189.4,
+      "original_price": 429.9,
+      "discount": 56,
+      "pix_price": 170.46,
+      "installments_qty": 12,
+      "installments_amount": 18.75
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -30,6 +20,16 @@
       "pix_price": 92.25,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.92,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.93,
+      "installments_qty": 12,
+      "installments_amount": 17.78
     },
     {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
@@ -72,6 +72,16 @@
       "installments_amount": 48.17
     },
     {
+      "search": "Lavadora Alta Pressão Lava Jato Portátil 2 Baterias Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 94.09,
+      "original_price": 128.9,
+      "discount": 27,
+      "pix_price": 84.68,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -92,16 +102,6 @@
       "installments_amount": 218.9
     },
     {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 146.0,
-      "original_price": 167.9,
-      "discount": 13,
-      "pix_price": 131.4,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 179.84,
@@ -114,10 +114,10 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2540.0,
-      "original_price": 2921.0,
-      "discount": 13,
-      "pix_price": 2286.0,
+      "price": 2340.0,
+      "original_price": 2540.0,
+      "discount": 8,
+      "pix_price": 2106.0,
       "installments_qty": 10,
       "installments_amount": 254.09
     }
