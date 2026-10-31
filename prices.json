@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:13:06.456860+00:00",
+  "updated": "2026-10-31T19:41:30.770432+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -72,6 +72,16 @@
       "installments_amount": 48.17
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 35.48,
+      "original_price": 43.84,
+      "discount": 19,
+      "pix_price": 31.93,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.04,
@@ -80,16 +90,6 @@
       "pix_price": 255.64,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
     },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -102,16 +102,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 38.57,
-      "original_price": 43.84,
-      "discount": 12,
-      "pix_price": 34.71,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2340.0,
@@ -120,6 +110,16 @@
       "pix_price": 2106.0,
       "installments_qty": 10,
       "installments_amount": 254.09
+    },
+    {
+      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 1899.0,
+      "original_price": 1999.0,
+      "discount": 5,
+      "pix_price": 1709.1,
+      "installments_qty": 12,
+      "installments_amount": 182.53
     }
   ]
 }
