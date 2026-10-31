@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-30T20:20:14.332564+00:00",
+  "updated": "2026-10-31T01:23:02.358152+00:00",
   "prices": [
+    {
+      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 69.9,
+      "original_price": 239.9,
+      "discount": 71,
+      "pix_price": 62.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser De Sabão Lavadora Alta Pressao Portátil",
+      "link": "https://meli.la/19ErgKc",
+      "price": 94.9,
+      "original_price": 199.0,
+      "discount": 52,
+      "pix_price": 85.41,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -32,16 +52,6 @@
       "installments_amount": 17.78
     },
     {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 42.21,
-      "original_price": 78.9,
-      "discount": 47,
-      "pix_price": 37.99,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -52,12 +62,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
-      "price": 215.28,
-      "original_price": 359.99,
-      "discount": 40,
-      "pix_price": 193.75,
+      "price": 194.74,
+      "original_price": 329.9,
+      "discount": 41,
+      "pix_price": 175.27,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -88,16 +98,6 @@
       "original_price": 349.9,
       "discount": 19,
       "pix_price": 255.65,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 85.74,
-      "original_price": 99.7,
-      "discount": 14,
-      "pix_price": 77.17,
       "installments_qty": 0,
       "installments_amount": 0
     },
