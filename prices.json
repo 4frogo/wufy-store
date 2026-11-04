@@ -1,13 +1,23 @@
 {
-  "updated": "2026-11-04T13:40:44.476988+00:00",
+  "updated": "2026-11-04T20:40:05.196346+00:00",
   "prices": [
     {
-      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 73.7,
-      "original_price": 159.9,
-      "discount": 54,
-      "pix_price": 66.33,
+      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 68.9,
+      "original_price": 239.9,
+      "discount": 71,
+      "pix_price": 62.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 76.09,
+      "original_price": 249.9,
+      "discount": 70,
+      "pix_price": 68.48,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -32,16 +42,6 @@
       "installments_amount": 17.78
     },
     {
-      "search": "Bota Masculina Bull Terrier Valmet Couro Legítimo Cano Médio",
-      "link": "https://meli.la/1RuihHY",
-      "price": 255.55,
-      "original_price": 499.9,
-      "discount": 49,
-      "pix_price": 230.0,
-      "installments_qty": 6,
-      "installments_amount": 44.83
-    },
-    {
       "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
       "link": "https://meli.la/25unFmR",
       "price": 99.9,
@@ -50,6 +50,26 @@
       "pix_price": 89.91,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Chocolate",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 74.95,
+      "original_price": 129.9,
+      "discount": 42,
+      "pix_price": 67.45,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Bota Masculina Bull Terrier Valmet Couro Legítimo Cano Médio",
+      "link": "https://meli.la/1RuihHY",
+      "price": 289.99,
+      "original_price": 499.9,
+      "discount": 42,
+      "pix_price": 260.99,
+      "installments_qty": 12,
+      "installments_amount": 28.37
     },
     {
       "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -72,16 +92,6 @@
       "installments_amount": 24.18
     },
     {
-      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "price": 275.4,
-      "original_price": 349.9,
-      "discount": 21,
-      "pix_price": 247.86,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
       "price": 2035.0,
@@ -92,26 +102,6 @@
       "installments_amount": 218.9
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 85.74,
-      "original_price": 99.7,
-      "discount": 14,
-      "pix_price": 77.17,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 40.52,
-      "original_price": 46.6,
-      "discount": 13,
-      "pix_price": 36.47,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
       "price": 2190.0,
@@ -120,6 +110,16 @@
       "pix_price": 1971.0,
       "installments_qty": 12,
       "installments_amount": 210.5
+    },
+    {
+      "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "price": 332.4,
+      "original_price": 349.9,
+      "discount": 5,
+      "pix_price": 299.16,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
