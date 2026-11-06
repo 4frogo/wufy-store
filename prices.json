@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:38:22.354813+00:00",
+  "updated": "2026-11-06T20:13:48.842332+00:00",
   "prices": [
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
@@ -82,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Alta Pressão Lava Jato Portátil 2 Baterias Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.09,
-      "original_price": 128.9,
-      "discount": 27,
-      "pix_price": 84.68,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
       "price": 284.05,
@@ -114,12 +104,22 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2190.0,
-      "original_price": 2518.5,
-      "discount": 13,
-      "pix_price": 1971.0,
+      "price": 2069.0,
+      "original_price": 2464.0,
+      "discount": 16,
+      "pix_price": 1862.1,
       "installments_qty": 12,
-      "installments_amount": 210.5
+      "installments_amount": 198.95
+    },
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 85.74,
+      "original_price": 99.7,
+      "discount": 14,
+      "pix_price": 77.17,
+      "installments_qty": 0,
+      "installments_amount": 0
     }
   ]
 }
