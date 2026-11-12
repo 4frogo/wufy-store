@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-12T14:30:43.298320+00:00",
+  "updated": "2026-11-12T22:01:48.300967+00:00",
   "prices": [
+    {
+      "search": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "link": "https://meli.la/19ErgKc",
+      "price": 105.73,
+      "original_price": 388.0,
+      "discount": 73,
+      "pix_price": 95.16,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 68.9,
+      "original_price": 239.9,
+      "discount": 71,
+      "pix_price": 62.01,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
@@ -8,6 +28,16 @@
       "original_price": 159.9,
       "discount": 56,
       "pix_price": 62.99,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 78.9,
+      "original_price": 179.84,
+      "discount": 56,
+      "pix_price": 71.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,16 +52,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 84.52,
-      "original_price": 179.84,
-      "discount": 53,
-      "pix_price": 76.07,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 179.92,
@@ -40,26 +60,6 @@
       "pix_price": 161.93,
       "installments_qty": 12,
       "installments_amount": 17.78
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 40.1,
-      "original_price": 78.9,
-      "discount": 49,
-      "pix_price": 36.09,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Bota Masculina Bull Terrier Valmet Couro Legítimo Cano Médio",
-      "link": "https://meli.la/1RuihHY",
-      "price": 274.55,
-      "original_price": 499.9,
-      "discount": 45,
-      "pix_price": 247.1,
-      "installments_qty": 6,
-      "installments_amount": 48.17
     },
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
@@ -72,34 +72,34 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
-      "price": 215.99,
-      "original_price": 365.99,
-      "discount": 41,
-      "pix_price": 194.39,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "price": 204.99,
+      "original_price": 329.9,
+      "discount": 38,
+      "pix_price": 184.49,
+      "installments_qty": 12,
+      "installments_amount": 20.29
+    },
+    {
+      "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
+      "link": "https://meli.la/1RuihHY",
+      "price": 277.13,
+      "original_price": 439.9,
+      "discount": 37,
+      "pix_price": 249.42,
+      "installments_qty": 12,
+      "installments_amount": 27.11
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 275.4,
+      "price": 284.05,
       "original_price": 349.9,
-      "discount": 21,
-      "pix_price": 247.86,
+      "discount": 19,
+      "pix_price": 255.65,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2035.0,
-      "original_price": 2509.0,
-      "discount": 19,
-      "pix_price": 1831.5,
-      "installments_qty": 10,
-      "installments_amount": 218.9
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
@@ -112,14 +112,14 @@
       "installments_amount": 203.77
     },
     {
-      "search": "Lavadora Lava Jato Portátil De Alta Pressão Com 2 Baterias Preto 127/220v 50hz/60hz Sensacional",
-      "link": "https://meli.la/19ErgKc",
-      "price": 98.16,
-      "original_price": 106.7,
-      "discount": 8,
-      "pix_price": 88.34,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "search": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 7977.0,
+      "original_price": 9173.55,
+      "discount": 13,
+      "pix_price": 7179.3,
+      "installments_qty": 10,
+      "installments_amount": 797.7
     }
   ]
 }
