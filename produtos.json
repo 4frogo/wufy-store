@@ -1,24 +1,10 @@
 {
-  "updated": "2026-11-12T05:45:07.053646+00:00",
+  "updated": "2026-11-12T14:30:43.297817+00:00",
   "products": [
-    {
-      "title": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "productUrl": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826?matt_event_ts=1794462211936&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=fc7743c7-d568-4ceb-b2bd-9ec325a9b650#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=370cc769-5cbe-43c2-9d2e-1c572a5b2330&tracking_id=43e0d25d-99ce-4c3c-ae83-f2d26c22af98&wid=MLB5052099634&sid=recommendations-landings-me&c_id=/home/card-featured/element&c_uid=1b1ca37c-1c65-4d58-98ff-4eb31c64efa3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_827032-MLA100010410071_122025-V.webp",
-      "mlProductId": "MLB40182826",
-      "mlItemId": "MLB5052099634",
-      "price": 136.9,
-      "original_price": 349.9,
-      "installments_qty": 0,
-      "installments_amount": 0,
-      "discount": 61,
-      "pix_price": 123.21
-    },
     {
       "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "productUrl": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_event_ts=1794462211936&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=a868a371-edb6-4b5f-a151-eb8db9e81688#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=d4956f69-0444-4daf-b127-4f015eb61be1&tracking_id=43e0d25d-99ce-4c3c-ae83-f2d26c22af98&wid=MLB4812130742&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=044c6825-08a9-405d-8488-3825cea78d4b",
+      "productUrl": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_event_ts=1794493750998&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=bce2a04b-b059-4215-9c14-7e09f41f5d20#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=3d232eeb-ca55-456f-9508-6ac84cfbe565&tracking_id=525f3b65-f328-498b-a60f-f1075ef82b35&wid=MLB4812130742&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=670edf87-d00b-4e7d-8409-6a1154b40595",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_603981-MLA115262802698_082026-T.webp",
       "mlProductId": "MLB25929487",
       "mlItemId": "MLB4812130742",
@@ -32,7 +18,7 @@
     {
       "title": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
-      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-pressao-2-baterias-maleta/up/MLBU605239077?pdp_filters=item_id%3AMLB3621404839&matt_event_ts=1794462214102&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=93608498-e6b4-43d7-b34c-1f80b1ced91b#polycard_client=recommendations_home_affiliate-profile&wid=MLB3621404839&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7b014592-993a-4eb4-9736-39e8a5cc6744&tracking_id=a981efa1-a973-4118-b151-b0bfdf813843&c_id=/home/card-featured/element&c_uid=2a5256a4-32a5-45e9-aa48-12852c77c9a3",
+      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-pressao-2-baterias-maleta/up/MLBU605239077?pdp_filters=item_id%3AMLB3621404839&matt_event_ts=1794493753230&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=0f6ecd1d-953b-491a-b323-6129b79c74e1#polycard_client=recommendations_home_affiliate-profile&wid=MLB3621404839&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2d55af2b-6790-4e8f-bb9c-aa3d0499283c&tracking_id=a2e3c5e8-b085-4ba6-a593-43d56fe653d4&c_id=/home/card-featured/element&c_uid=cf89aa1a-f6a2-4da4-ad47-e8f6d2dbcd42",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_710675-MLB89102120983_082025-V.webp",
       "mlProductId": "",
       "mlItemId": "MLB3621404839",
@@ -44,9 +30,37 @@
       "pix_price": 85.49
     },
     {
+      "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "productUrl": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-chocolate-x-1kg/p/MLB6087972?matt_event_ts=1794493755346&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=bcdd09f9-8b6b-416c-8d45-ec6562b3712c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ebc9437e-543a-4de7-8713-fd73aae79eb3&tracking_id=3c233d30-bb89-4b87-b41e-446a481fae26&wid=MLB2173022623&sid=recos&c_id=/home/card-featured/element&c_uid=95746bf8-e1d7-4f6d-88f4-71e1e1aa5a9d",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_811723-MLA116971940367_082026-V.webp",
+      "mlProductId": "MLB6087972",
+      "mlItemId": "MLB2173022623",
+      "price": 84.52,
+      "original_price": 179.84,
+      "installments_qty": 0,
+      "installments_amount": 0,
+      "discount": 53,
+      "pix_price": 76.07
+    },
+    {
+      "title": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "productUrl": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826?matt_event_ts=1794493750998&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=210ab754-2838-483f-8594-152adca04549#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d634243b-9459-4359-b974-03777f17f429&tracking_id=525f3b65-f328-498b-a60f-f1075ef82b35&wid=MLB5052099634&sid=recos&c_id=/home/card-featured/element&c_uid=73f0b990-7892-4d70-9ace-966ca54592e9",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_827032-MLA100010410071_122025-V.webp",
+      "mlProductId": "MLB40182826",
+      "mlItemId": "MLB5052099634",
+      "price": 179.92,
+      "original_price": 349.9,
+      "installments_qty": 12,
+      "installments_amount": 17.78,
+      "discount": 49,
+      "pix_price": 161.93
+    },
+    {
       "title": "Creatina Max Titanium em pó Sem sabor x 300g",
       "link": "https://meli.la/25unFmR",
-      "productUrl": "https://www.mercadolivre.com.br/creatina-max-titanium-em-po-sem-sabor-x-300g/p/MLB6104856?matt_event_ts=1794462216308&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=b035ea78-79c2-4a06-a854-2fe047093293#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=2d2e6fec-57b5-4d47-82df-49543c3ab576&tracking_id=7ca2e425-b274-4bad-b037-945384056572&wid=MLB2190421684&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=2f4fa68d-dd9f-435c-94aa-5913148d6d93",
+      "productUrl": "https://www.mercadolivre.com.br/creatina-max-titanium-em-po-sem-sabor-x-300g/p/MLB6104856?matt_event_ts=1794493755347&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=7107e25e-664e-4c8b-bad4-3b22592b752a#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=e93684d1-ada7-41d1-99d0-5f70eba88ca9&tracking_id=3c233d30-bb89-4b87-b41e-446a481fae26&wid=MLB2190421684&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=b746656b-94ab-47e8-8ec6-36ebba450baf",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_920350-MLA113966831509_062026-T.webp",
       "mlProductId": "MLB6104856",
       "mlItemId": "MLB2190421684",
@@ -60,7 +74,7 @@
     {
       "title": "Bota Masculina Bull Terrier Valmet Couro Legítimo Cano Médio",
       "link": "https://meli.la/1RuihHY",
-      "productUrl": "https://produto.mercadolivre.com.br/MLB-5266400498-bota-masculina-bull-terrier-valmet-couro-legitimo-cano-medio-_JM?searchVariation=182804074404&matt_event_ts=1794462218638&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=30a670a4-53a3-4540-aca8-b6ec189883b1#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_low_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=1f91ada4-2af1-4265-9a7b-0e66b1312e84&tracking_id=bfd595a9-27a8-431d-a33c-ad537b1e1fd0&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=ba4f204f-e6c7-4184-9236-1dfb3c990fe8",
+      "productUrl": "https://produto.mercadolivre.com.br/MLB-5266400498-bota-masculina-bull-terrier-valmet-couro-legitimo-cano-medio-_JM?searchVariation=182804074400&matt_event_ts=1794493757449&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=6b0e6903-6986-4905-9a05-85feb4256647#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=fd6020f5-cfd3-421a-a35e-5a66cdcf5c27&tracking_id=a7c1024f-152c-43df-add8-d3055c591619&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=cf806134-e078-41eb-951c-35feecb24c6f",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_914953-MLB120487659957_102026-T-bota-masculina-bull-terrier-valmet-couro-legitimo-cano-medio.webp",
       "mlProductId": "",
       "mlItemId": "MLB5266400498",
@@ -72,23 +86,9 @@
       "pix_price": 247.1
     },
     {
-      "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Chocolate x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "productUrl": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-chocolate-x-1kg/p/MLB6087972?matt_event_ts=1794462216308&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=b307aed7-bc9a-45cf-ae8d-d15e9648a52a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6d2d9cd6-5347-4aac-ae17-ca10ba23c3f8&tracking_id=7ca2e425-b274-4bad-b037-945384056572&wid=MLB2173022623&sid=recommendations-landings-me&c_id=/home/card-featured/element&c_uid=d0dabe1b-61ee-4344-8dc2-6df08cf47109",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_811723-MLA116971940367_082026-V.webp",
-      "mlProductId": "MLB6087972",
-      "mlItemId": "MLB2173022623",
-      "price": 99.9,
-      "original_price": 179.84,
-      "installments_qty": 0,
-      "installments_amount": 0,
-      "discount": 44,
-      "pix_price": 89.91
-    },
-    {
       "title": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "productUrl": "https://www.mercadolivre.com.br/projetor-hy320-davely-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-falante-com-controle-remoto-bivolt-portatil-mini/p/MLB48959123?pdp_filters=item_id%3AMLB4510325461&matt_event_ts=1794462209674&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=39f10450-be8f-48dd-bf0c-7d4ab36a267b#polycard_client=recommendations_home_affiliate-profile&wid=MLB4510325461&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f3c6a69b-d23a-4e95-aac8-22218a28d1d0&tracking_id=1d53ada2-2eda-4b9e-8931-aa7dccb3c0aa&c_id=/home/card-featured/element&c_uid=f93990e4-a090-48d7-b3bf-975cf1f6a93c",
+      "productUrl": "https://www.mercadolivre.com.br/projetor-hy320-davely-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-falante-com-controle-remoto-bivolt-portatil-mini/p/MLB48959123?pdp_filters=item_id%3AMLB4510325461&matt_event_ts=1794493748791&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=8d2a9194-c250-4677-a77c-6c840c03ac2f#polycard_client=recommendations_home_affiliate-profile&wid=MLB4510325461&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6d0856a4-4bb3-448f-b214-22d030863980&tracking_id=286e6ffa-4767-4cfb-8472-66a21d7f7330&c_id=/home/card-featured/element&c_uid=6b341900-d042-459a-bcdf-beebdd50c116",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_898231-MLA112356757992_062026-V.webp",
       "mlProductId": "MLB48959123",
       "mlItemId": "MLB4510325461",
@@ -102,7 +102,7 @@
     {
       "title": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "productUrl": "https://www.mercadolivre.com.br/projetor-hy320-hardline-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-falante-com-controle-remoto-bivolt-portatil-mini/p/MLB59660744?matt_event_ts=1794462209674&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=16242bf6-2922-47c9-a636-1eee51b0bfdb#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=72cccaec-abda-4362-b3de-87f7bb2546f2&tracking_id=1d53ada2-2eda-4b9e-8931-aa7dccb3c0aa&wid=MLB7606575730&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=76ab651c-978e-498b-98d2-e25dbfcdcf35",
+      "productUrl": "https://www.mercadolivre.com.br/projetor-hy320-hardline-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-falante-com-controle-remoto-bivolt-portatil-mini/p/MLB59660744?matt_event_ts=1794493748791&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=92352d93-5299-42ba-8042-b79f1b1cd667#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=008d2a94-fc1a-4711-a710-967d7f289b5a&tracking_id=286e6ffa-4767-4cfb-8472-66a21d7f7330&wid=MLB7606575730&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=1c93147a-a550-436d-8da8-18d769a342d7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_784663-MLA117801956087_092026-T.webp",
       "mlProductId": "MLB59660744",
       "mlItemId": "MLB7606575730",
@@ -114,9 +114,23 @@
       "pix_price": 194.39
     },
     {
+      "title": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
+      "link": "https://meli.la/1RuihHY",
+      "productUrl": "https://produto.mercadolivre.com.br/MLB-2941304516-bota-bull-terrier-bruce-masculina-original-couro-resistente-_JM?searchVariation=175747971235&matt_event_ts=1794493757449&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=91efca73-f4f0-4093-9ed8-8b1a8b764be8#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7066185e-b74b-4849-b5f3-5c45341d93d3&tracking_id=a7c1024f-152c-43df-add8-d3055c591619&sid=recos&c_id=/home/card-featured/element&c_uid=58aa6620-cbd4-4ae6-99f3-f74a9906a1fa",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_746817-MLB120736242547_112026-V-bota-bull-terrier-bruce-masculina-original-couro-resistente.webp",
+      "mlProductId": "",
+      "mlItemId": "MLB2941304516",
+      "price": 275.4,
+      "original_price": 349.9,
+      "installments_qty": 0,
+      "installments_amount": 0,
+      "discount": 21,
+      "pix_price": 247.86
+    },
+    {
       "title": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
-      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aoc-50-roku-4k-uhd-dled-wi-fi-dolby-audio-50u7066/p/MLB78851940?matt_event_ts=1794462220934&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=34728654-8e65-4ace-acd3-64cf29331373#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=4fffcc7b-18f2-4c13-bde9-3c616b6eadaa&tracking_id=16744055-7bd9-42ad-9f2c-5506e62ce8c4&wid=MLB7580499144&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=a413ca5c-4162-463e-ad1c-3b831ab43dbb",
+      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aoc-50-roku-4k-uhd-dled-wi-fi-dolby-audio-50u7066/p/MLB78851940?matt_event_ts=1794493759524&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=99e41258-e98a-4f56-ab69-eb2a46556072#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=46c2aaf8-8b04-4284-8c37-457cb04db412&tracking_id=3d169ff3-fb7f-4405-92be-7646da2a27c3&wid=MLB7580499144&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=79e0aa5a-dd4c-4de1-89c3-dda2071c34f2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_817676-MLA115644044060_092026-T.webp",
       "mlProductId": "MLB78851940",
       "mlItemId": "MLB7580499144",
@@ -128,46 +142,32 @@
       "pix_price": 1831.5
     },
     {
-      "title": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
-      "link": "https://meli.la/1RuihHY",
-      "productUrl": "https://produto.mercadolivre.com.br/MLB-2941304516-bota-bull-terrier-bruce-masculina-original-couro-resistente-_JM?searchVariation=175747971239&matt_event_ts=1794462218637&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=479ebdc0-3168-404b-bbb2-c3ea5f413e69#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dd28e8ad-1728-4cd2-ae19-dfdeb6ab3239&tracking_id=bfd595a9-27a8-431d-a33c-ad537b1e1fd0&sid=recommendations-landings-me&c_id=/home/card-featured/element&c_uid=4eae4079-842d-49ba-b706-32434ef0f260",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_746817-MLB120736242547_112026-V-bota-bull-terrier-bruce-masculina-original-couro-resistente.webp",
-      "mlProductId": "",
-      "mlItemId": "MLB2941304516",
-      "price": 289.9,
-      "original_price": 349.9,
-      "installments_qty": 12,
-      "installments_amount": 28.36,
-      "discount": 17,
-      "pix_price": 260.91
-    },
-    {
       "title": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aoc-led-50-4k-wi-fi-roku-tv-50u704578g/p/MLB51202548?matt_event_ts=1794462220934&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=4a5ef42b-804f-41db-8600-fd5a5030c38a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d5d2b436-e924-4388-afec-0c2fd838b645&tracking_id=16744055-7bd9-42ad-9f2c-5506e62ce8c4&wid=MLB6481897578&sid=recommendations-landings-me&c_id=/home/card-featured/element&c_uid=6d84d03d-6f2f-40fe-bb47-40a4af42f1d9",
+      "productUrl": "https://www.mercadolivre.com.br/smart-tv-aoc-led-50-4k-wi-fi-roku-tv-50u704578g/p/MLB51202548?matt_event_ts=1794493759523&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=af606f47-aab8-4d38-b694-5f5454835ef5#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5c5becec-9cf8-429e-883f-2d2aceda3f22&tracking_id=3d169ff3-fb7f-4405-92be-7646da2a27c3&wid=MLB7476347732&sid=recos&c_id=/home/card-featured/element&c_uid=d1f48954-b27e-4889-b98a-c77cf24383a4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_802428-MLA113346695838_072026-V.webp",
       "mlProductId": "MLB51202548",
-      "mlItemId": "MLB6481897578",
-      "price": 2499.0,
-      "original_price": 2873.85,
+      "mlItemId": "MLB7476347732",
+      "price": 2120.0,
+      "original_price": 2438.0,
       "installments_qty": 12,
-      "installments_amount": 240.2,
+      "installments_amount": 203.77,
       "discount": 13,
-      "pix_price": 2249.1
+      "pix_price": 1908.0
     },
     {
-      "title": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "title": "Lavadora Lava Jato Portátil De Alta Pressão Com 2 Baterias Preto 127/220v 50hz/60hz Sensacional",
       "link": "https://meli.la/19ErgKc",
-      "productUrl": "https://www.mercadolivre.com.br/lavador-alta-pressao-portatil-recarregavel-sem-fio-bivolt/p/MLB51245631?matt_event_ts=1794462214102&matt_d2id=e13eb1f0-fa16-4c56-bf25-eb55ac861908&matt_tracing_id=75ca7549-fd6c-4545-9e85-eb3357898211#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=830500e6-ed2b-4105-8635-5f859f9b526f&tracking_id=a981efa1-a973-4118-b151-b0bfdf813843&wid=MLB5966150302&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=2934586b-c64d-469b-b311-6b91cb2964cd",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_655781-MLA99436995316_112025-T.webp",
-      "mlProductId": "MLB51245631",
-      "mlItemId": "MLB5966150302",
-      "price": 89.09,
-      "original_price": 98.99,
+      "productUrl": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-de-alta-pressao-com-2-baterias-preto-127220v-50hz60hz-sensacional/p/MLB74798127?matt_event_ts=1794493753230&matt_d2id=e6301094-e2bf-48b4-94a1-ece76c2916c0&matt_tracing_id=90b9893e-73d2-4577-9fb1-a7bb7a408979#polycard_client=recommendations_home_affiliate_profile_v2p-recommendations&reco_backend=ranker_retrieval_system_vpp_v2p&reco_model=fallback_organicos_deduplication&reco_client=home_affiliate_profile_v2p-recommendations&matt_tool_id=68162508&reco_item_pos=0&source=affiliate-profile&reco_backend_type=low_level&reco_id=7c692ce2-367e-4c99-a7c0-f107177d2aec&tracking_id=a2e3c5e8-b085-4ba6-a593-43d56fe653d4&wid=MLB7178557342&sid=recos&c_id=/home/affiliate-profile-recommendations/element&c_uid=69c9b27f-511b-4ffc-b60e-58c211ca362f",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_668161-MLA114013774503_072026-T.webp",
+      "mlProductId": "MLB74798127",
+      "mlItemId": "MLB7178557342",
+      "price": 98.16,
+      "original_price": 106.7,
       "installments_qty": 0,
       "installments_amount": 0,
-      "discount": 10,
-      "pix_price": 80.18
+      "discount": 8,
+      "pix_price": 88.34
     }
   ]
 }
