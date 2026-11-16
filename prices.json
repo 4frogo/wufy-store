@@ -1,26 +1,6 @@
 {
-  "updated": "2026-11-15T22:25:12.160308+00:00",
+  "updated": "2026-11-16T04:22:50.433589+00:00",
   "prices": [
-    {
-      "search": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
-      "link": "https://meli.la/19ErgKc",
-      "price": 105.73,
-      "original_price": 388.0,
-      "discount": 73,
-      "pix_price": 95.16,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 69.99,
-      "original_price": 159.9,
-      "discount": 56,
-      "pix_price": 62.99,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
@@ -40,16 +20,6 @@
       "pix_price": 76.07,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
-      "link": "https://meli.la/2LMdTFf",
-      "price": 179.92,
-      "original_price": 349.9,
-      "discount": 49,
-      "pix_price": 161.93,
-      "installments_qty": 12,
-      "installments_amount": 17.78
     },
     {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
@@ -84,12 +54,12 @@
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "price": 277.13,
+      "price": 291.73,
       "original_price": 439.9,
-      "discount": 37,
-      "pix_price": 249.42,
-      "installments_qty": 12,
-      "installments_amount": 27.11
+      "discount": 34,
+      "pix_price": 262.56,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -104,22 +74,32 @@
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 284.05,
+      "price": 281.2,
       "original_price": 349.9,
-      "discount": 19,
-      "pix_price": 255.65,
+      "discount": 20,
+      "pix_price": 253.08,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "link": "https://meli.la/19ErgKc",
+      "price": 98.99,
+      "original_price": 113.84,
+      "discount": 13,
+      "pix_price": 89.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2571.0,
-      "original_price": 2599.0,
-      "discount": 1,
-      "pix_price": 2313.9,
-      "installments_qty": 10,
-      "installments_amount": 257.1
+      "price": 2160.0,
+      "original_price": 2484.0,
+      "discount": 13,
+      "pix_price": 1944.0,
+      "installments_qty": 12,
+      "installments_amount": 207.61
     }
   ]
 }
