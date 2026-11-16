@@ -1,13 +1,23 @@
 {
-  "updated": "2026-11-16T04:22:50.433589+00:00",
+  "updated": "2026-11-16T14:33:36.435449+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
-      "price": 94.99,
+      "price": 86.99,
       "original_price": 206.9,
-      "discount": 54,
-      "pix_price": 85.49,
+      "discount": 58,
+      "pix_price": 78.29,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 69.99,
+      "original_price": 159.9,
+      "discount": 56,
+      "pix_price": 62.99,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,6 +32,16 @@
       "installments_amount": 0
     },
     {
+      "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "link": "https://meli.la/2LMdTFf",
+      "price": 179.92,
+      "original_price": 349.9,
+      "discount": 49,
+      "pix_price": 161.93,
+      "installments_qty": 12,
+      "installments_amount": 17.78
+    },
+    {
       "search": "Creatina Max Titanium em pó Sem sabor x 300g",
       "link": "https://meli.la/25unFmR",
       "price": 40.1,
@@ -34,22 +54,22 @@
     {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 208.71,
+      "price": 239.9,
       "original_price": 365.9,
-      "discount": 43,
-      "pix_price": 187.84,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "discount": 34,
+      "pix_price": 215.91,
+      "installments_qty": 12,
+      "installments_amount": 23.75
     },
     {
       "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 208.79,
+      "price": 239.99,
       "original_price": 365.99,
-      "discount": 43,
-      "pix_price": 187.91,
-      "installments_qty": 0,
-      "installments_amount": 0
+      "discount": 34,
+      "pix_price": 215.99,
+      "installments_qty": 12,
+      "installments_amount": 23.76
     },
     {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
@@ -82,7 +102,7 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavador Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "search": "Lavado Alta Pressão Portátil Recarregável Sem Fio Bivolt",
       "link": "https://meli.la/19ErgKc",
       "price": 98.99,
       "original_price": 113.84,
@@ -94,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2160.0,
-      "original_price": 2484.0,
+      "price": 2599.0,
+      "original_price": 2988.85,
       "discount": 13,
-      "pix_price": 1944.0,
-      "installments_qty": 12,
-      "installments_amount": 207.61
+      "pix_price": 2339.1,
+      "installments_qty": 10,
+      "installments_amount": 259.9
     }
   ]
 }
