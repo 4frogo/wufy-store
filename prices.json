@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:24:22.941663+00:00",
+  "updated": "2026-11-18T09:39:28.375638+00:00",
   "prices": [
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -32,12 +32,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
+      "link": "https://meli.la/25unFmR",
+      "price": 40.1,
+      "original_price": 78.9,
+      "discount": 49,
+      "pix_price": 36.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "price": 227.13,
+      "price": 225.31,
       "original_price": 439.9,
-      "discount": 48,
-      "pix_price": 204.42,
+      "discount": 49,
+      "pix_price": 202.78,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,34 +82,14 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Alta Pressão 48V Sem Fio Recarregável, 2 Baterias, Com Maleta, Bivolt Cor Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 108.0,
-      "original_price": 188.0,
-      "discount": 43,
-      "pix_price": 97.2,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 69.9,
-      "original_price": 99.9,
-      "discount": 30,
-      "pix_price": 62.91,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1919.0,
-      "original_price": 2599.0,
+      "price": 1859.0,
+      "original_price": 2509.0,
       "discount": 26,
-      "pix_price": 1727.1,
+      "pix_price": 1673.1,
       "installments_qty": 10,
-      "installments_amount": 191.9
+      "installments_amount": 200.0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -108,6 +98,16 @@
       "original_price": 349.9,
       "discount": 20,
       "pix_price": 253.08,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavado Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "link": "https://meli.la/19ErgKc",
+      "price": 98.99,
+      "original_price": 113.84,
+      "discount": 13,
+      "pix_price": 89.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
