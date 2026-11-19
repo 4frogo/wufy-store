@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-18T18:36:29.650910+00:00",
+  "updated": "2026-11-19T01:41:32.467176+00:00",
   "prices": [
     {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
+      "search": "Lavado Alta Pressão Portátil Recarregável Sem Fio Bivolt",
       "link": "https://meli.la/19ErgKc",
-      "price": 119.0,
-      "original_price": 300.0,
-      "discount": 60,
-      "pix_price": 107.1,
+      "price": 105.73,
+      "original_price": 388.0,
+      "discount": 73,
+      "pix_price": 95.16,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -24,30 +24,20 @@
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 149.9,
+      "price": 149.92,
       "original_price": 349.9,
       "discount": 57,
-      "pix_price": 134.91,
+      "pix_price": 134.93,
       "installments_qty": 0,
       "installments_amount": 0
     },
     {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 76.9,
+      "price": 78.92,
       "original_price": 159.9,
-      "discount": 52,
-      "pix_price": 69.21,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
-      "search": "Creatina Max Titanium em pó Sem sabor x 300g",
-      "link": "https://meli.la/25unFmR",
-      "price": 40.1,
-      "original_price": 78.9,
-      "discount": 49,
-      "pix_price": 36.09,
+      "discount": 51,
+      "pix_price": 71.03,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -92,14 +82,24 @@
       "installments_amount": 23.75
     },
     {
+      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 69.9,
+      "original_price": 99.9,
+      "discount": 30,
+      "pix_price": 62.91,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
-      "price": 1823.0,
-      "original_price": 2599.0,
-      "discount": 30,
-      "pix_price": 1640.7,
-      "installments_qty": 10,
-      "installments_amount": 191.9
+      "price": 2099,
+      "original_price": 2768.61,
+      "discount": 24,
+      "pix_price": 1889.1,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -114,12 +114,12 @@
     {
       "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2599.0,
-      "original_price": 2988.85,
+      "price": 2499.0,
+      "original_price": 2873.85,
       "discount": 13,
-      "pix_price": 2339.1,
-      "installments_qty": 10,
-      "installments_amount": 259.9
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
     }
   ]
 }
