@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:48:01.749164+00:00",
+  "updated": "2026-11-20T01:37:25.252893+00:00",
   "prices": [
     {
       "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
@@ -74,12 +74,22 @@
     {
       "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
       "link": "https://meli.la/1yBfiUy",
-      "price": 222.9,
-      "original_price": 329.9,
-      "discount": 32,
-      "pix_price": 200.61,
+      "price": 209.99,
+      "original_price": 349.9,
+      "discount": 40,
+      "pix_price": 188.99,
       "installments_qty": 12,
-      "installments_amount": 22.07
+      "installments_amount": 20.79
+    },
+    {
+      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "link": "https://meli.la/25unFmR",
+      "price": 68.9,
+      "original_price": 99.9,
+      "discount": 31,
+      "pix_price": 62.01,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -90,16 +100,6 @@
       "pix_price": 1727.1,
       "installments_qty": 10,
       "installments_amount": 192.0
-    },
-    {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 74.91,
-      "original_price": 99.9,
-      "discount": 25,
-      "pix_price": 67.42,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
