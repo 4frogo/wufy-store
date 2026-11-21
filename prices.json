@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:05:03.636438+00:00",
+  "updated": "2026-11-21T22:42:43.530704+00:00",
   "prices": [
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
@@ -28,6 +28,16 @@
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.03,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
+      "link": "https://meli.la/25unFmR",
+      "price": 38.9,
+      "original_price": 78.9,
+      "discount": 51,
+      "pix_price": 35.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -70,16 +80,6 @@
       "pix_price": 197.63,
       "installments_qty": 12,
       "installments_amount": 21.74
-    },
-    {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 68.9,
-      "original_price": 99.9,
-      "discount": 31,
-      "pix_price": 62.01,
-      "installments_qty": 0,
-      "installments_amount": 0
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
