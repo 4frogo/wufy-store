@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-21T01:03:09.233061+00:00",
+  "updated": "2026-11-21T09:05:40.121217+00:00",
   "prices": [
-    {
-      "search": "Lavadora de Alta Pressão Portátil Recarregável Maleta 2 Baterias Preto",
-      "link": "https://meli.la/19ErgKc",
-      "price": 119.0,
-      "original_price": 300.0,
-      "discount": 60,
-      "pix_price": 107.1,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
       "link": "https://meli.la/19ErgKc",
@@ -42,12 +32,12 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
-      "link": "https://meli.la/25unFmR",
-      "price": 38.9,
-      "original_price": 78.9,
-      "discount": 51,
-      "pix_price": 35.01,
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 186.65,
+      "original_price": 365.99,
+      "discount": 49,
+      "pix_price": 167.99,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,34 +62,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos Som Integrado Streaming Multimídia",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 209.99,
-      "original_price": 349.9,
-      "discount": 40,
-      "pix_price": 188.99,
-      "installments_qty": 12,
-      "installments_amount": 20.79
-    },
-    {
       "search": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
       "link": "https://meli.la/1yBfiUy",
-      "price": 239.9,
+      "price": 208.71,
       "original_price": 365.9,
-      "discount": 34,
-      "pix_price": 215.91,
-      "installments_qty": 12,
-      "installments_amount": 23.75
+      "discount": 43,
+      "pix_price": 187.84,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
       "link": "https://meli.la/2u6hu7K",
-      "price": 2099.0,
-      "original_price": 2768.0,
-      "discount": 24,
-      "pix_price": 1889.1,
-      "installments_qty": 10,
-      "installments_amount": 209.9
+      "price": 1899.0,
+      "original_price": 2599.0,
+      "discount": 27,
+      "pix_price": 1709.1,
+      "installments_qty": 0,
+      "installments_amount": 0
     },
     {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
@@ -108,6 +88,26 @@
       "original_price": 349.9,
       "discount": 15,
       "pix_price": 266.4,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Lavado Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "link": "https://meli.la/19ErgKc",
+      "price": 98.99,
+      "original_price": 113.84,
+      "discount": 13,
+      "pix_price": 89.09,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
+      "link": "https://meli.la/25unFmR",
+      "price": 38.48,
+      "original_price": 44.25,
+      "discount": 13,
+      "pix_price": 34.63,
       "installments_qty": 0,
       "installments_amount": 0
     },
