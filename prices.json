@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:51:48.366064+00:00",
+  "updated": "2026-11-25T04:45:56.614280+00:00",
   "prices": [
     {
       "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
@@ -52,12 +52,22 @@
       "installments_amount": 0
     },
     {
+      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
+      "link": "https://meli.la/1yBfiUy",
+      "price": 204.22,
+      "original_price": 365.99,
+      "discount": 44,
+      "pix_price": 183.8,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
       "search": "Bota Bull Terrier Sparks Masculina Couro Original Trilha It.",
       "link": "https://meli.la/1RuihHY",
-      "price": 227.13,
+      "price": 246.88,
       "original_price": 439.9,
-      "discount": 48,
-      "pix_price": 204.42,
+      "discount": 44,
+      "pix_price": 222.19,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -70,16 +80,6 @@
       "pix_price": 187.84,
       "installments_qty": 0,
       "installments_amount": 0
-    },
-    {
-      "search": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portátil Mini",
-      "link": "https://meli.la/1yBfiUy",
-      "price": 219.59,
-      "original_price": 365.99,
-      "discount": 40,
-      "pix_price": 197.63,
-      "installments_qty": 12,
-      "installments_amount": 21.74
     },
     {
       "search": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -102,24 +102,24 @@
       "installments_amount": 0
     },
     {
-      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
-      "link": "https://meli.la/2u6hu7K",
-      "price": 2599.0,
-      "original_price": 2988.85,
-      "discount": 13,
-      "pix_price": 2339.1,
-      "installments_qty": 10,
-      "installments_amount": 259.9
-    },
-    {
       "search": "Bota Bull Terrier Bruce Masculina Original Couro Resistente",
       "link": "https://meli.la/1RuihHY",
-      "price": 346.9,
+      "price": 304.91,
       "original_price": 349.9,
-      "discount": 1,
-      "pix_price": 312.21,
+      "discount": 13,
+      "pix_price": 274.42,
       "installments_qty": 0,
       "installments_amount": 0
+    },
+    {
+      "search": "Smart Tv Aoc Led 50\" 4k Wi-fi Roku Tv 50U7045/78G",
+      "link": "https://meli.la/2u6hu7K",
+      "price": 2499.0,
+      "original_price": 2873.85,
+      "discount": 13,
+      "pix_price": 2249.1,
+      "installments_qty": 12,
+      "installments_amount": 240.2
     }
   ]
 }
