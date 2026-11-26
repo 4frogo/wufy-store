@@ -1,13 +1,23 @@
 {
-  "updated": "2026-11-26T01:28:23.197663+00:00",
+  "updated": "2026-11-26T10:21:21.869858+00:00",
   "prices": [
+    {
+      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
+      "link": "https://meli.la/19ErgKc",
+      "price": 86.99,
+      "original_price": 206.9,
+      "discount": 58,
+      "pix_price": 78.29,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
     {
       "search": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
       "link": "https://meli.la/2LMdTFf",
-      "price": 149.92,
+      "price": 149.9,
       "original_price": 349.9,
       "discount": 57,
-      "pix_price": 134.93,
+      "pix_price": 134.91,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -22,22 +32,22 @@
       "installments_amount": 0
     },
     {
-      "search": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v",
-      "link": "https://meli.la/19ErgKc",
-      "price": 94.99,
-      "original_price": 206.9,
-      "discount": 54,
-      "pix_price": 85.49,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
       "link": "https://meli.la/2LMdTFf",
       "price": 78.92,
       "original_price": 159.9,
       "discount": 51,
       "pix_price": 71.03,
+      "installments_qty": 0,
+      "installments_amount": 0
+    },
+    {
+      "search": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
+      "link": "https://meli.la/25unFmR",
+      "price": 38.9,
+      "original_price": 78.9,
+      "discount": 51,
+      "pix_price": 35.01,
       "installments_qty": 0,
       "installments_amount": 0
     },
@@ -72,16 +82,6 @@
       "installments_amount": 0
     },
     {
-      "search": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "link": "https://meli.la/25unFmR",
-      "price": 64.85,
-      "original_price": 99.9,
-      "discount": 35,
-      "pix_price": 58.36,
-      "installments_qty": 0,
-      "installments_amount": 0
-    },
-    {
       "search": "Smart TV AOC, 50\", 4K UHD, 50U7066/78G, com Roku TV, HDR10 e Comando de Voz",
       "link": "https://meli.la/2u6hu7K",
       "price": 2099.0,
@@ -104,10 +104,10 @@
     {
       "search": "Lavado Alta Pressão Portátil Recarregável Sem Fio Bivolt",
       "link": "https://meli.la/19ErgKc",
-      "price": 84.14,
-      "original_price": 98.99,
-      "discount": 15,
-      "pix_price": 75.73,
+      "price": 98.99,
+      "original_price": 113.84,
+      "discount": 13,
+      "pix_price": 89.09,
       "installments_qty": 0,
       "installments_amount": 0
     },
